@@ -30,8 +30,17 @@ img {
     font-size: 18px;
     font-weight: bold;
 }
+footer
+{
+    margin-left: 15%;
+    
+   /* display: grid;
+    grid-template-columns: auto auto auto;*/
+}
 #score, #failures, #questionnum {
+    float:left;
     margin-top: 10px;
+    margin-right: 5%;
     font-size: 10px;
     font-weight: bold;
     color: #333;
