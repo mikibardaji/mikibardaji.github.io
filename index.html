@@ -9,7 +9,10 @@
 <body>
 
     <div class="container">
+        <input type="number" name="numc" id="numc">
+        <button id="goto-button" onclick="goToQuestion()">Ir a</button>
         <h1>Quizz de dibujos animados</h1>
+        
         <div id="image-container">
             <img id="image" src="" alt="Imagen" />
         </div>
@@ -22,6 +25,7 @@
         <div id="result"></div>
         <div id="score">Aciertos: 0</div>
         <div id="failures">Fallos: 0</div>
+        <div id="questionnum">Pregunta: </div>
     </div>
 
     <script>
@@ -1724,6 +1728,11 @@
         let score = 0;  // Contador de aciertos
         let failures = 0;  // Contador de fallos
 
+        function goToQuestion() {
+            currentQuestionIndex =document.getElementById("numc").value - 1 ;
+            loadQuestion();
+        }
+
         function loadQuestion() {
             const question = questions[currentQuestionIndex];
             document.getElementById("image").src = question.image;
@@ -1739,6 +1748,7 @@
             });
 
             document.getElementById("result").textContent = "";
+            document.getElementById("questionnum").innerText = "Pregunta: " + (currentQuestionIndex+1); 
         }
 
         function checkAnswer(selectedOption) {
