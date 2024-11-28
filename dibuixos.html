@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Dibujos Animados quizz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <input type="number" name="numc" id="numc">
+        <button id="goto-button" onclick="goToQuestion()">Ir a</button>
+        <h3>Quizz de dibujos animados</h3>
+        
+        <div id="image-container">
+            <img id="image" src="" alt="Imagen" />
+        </div>
+
+        <div class="options" id="options-container">
+            <!-- Las opciones se cargarán aquí con JavaScript -->
+        </div>
+
+        <button id="next-button" onclick="nextQuestion()">Siguiente Imagen</button>
+        <div id="result"></div>
+        <footer>
+            <div id="score">Aciertos: 0</div>
+            <div id="failures">Fallos: 0</div>
+            <div id="questionnum">Pregunta: </div>
+        </footer>
+        
+    </div>
+
+    <script>
+        let questions=[];
+        function loadQuestions() {
+            fetch('dibuixos.json')
+            .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json(); // Converteix la resposta a JSON
+            })
+            .then(data => {
+                questions = data; // Guarda les dades a la variable global
+                console.log("Dades carregades:", questions);
+                loadQuestion(); // Carrega la primera pregunta
+            })
+            .catch(error => {
+                console.error('Hi ha hagut un error en carregar les dades:', error);
+            });
+        }
+
+        let currentQuestionIndex = 0;
+        let score = 0;  // Contador de aciertos
+        let failures = 0;  // Contador de fallos
+
+        function goToQuestion() {
+            currentQuestionIndex =document.getElementById("numc").value - 1 ;
+            loadQuestion();
+        }
+
+        function loadQuestion() {
+            const question = questions[currentQuestionIndex];
+            document.getElementById("image").src = question.image;
+            const optionsContainer = document.getElementById("options-container");
+            optionsContainer.innerHTML = "";
+
+            question.options.forEach(option => {
+                const optionElement = document.createElement("div");
+                optionElement.classList.add("option");
+                optionElement.textContent = option;
+                optionElement.onclick = function() { checkAnswer(option); };
+                optionsContainer.appendChild(optionElement);
+            });
+
+            document.getElementById("result").textContent = "";
+            document.getElementById("questionnum").innerText = "Pregunta: " + (currentQuestionIndex+1); 
+        }
+
+        function checkAnswer(selectedOption) {
+            const question = questions[currentQuestionIndex];
+            if (selectedOption === question.correctAnswer) {
+                score++;  // Aumenta el contador de aciertos
+                document.getElementById("score").textContent = "Aciertos: " + score;
+                nextQuestion();
+                document.getElementById("result").textContent = "¡Correcto!";
+                document.getElementById("result").style.color = "green";
+            } else {
+                document.getElementById("result").textContent = "Incorrecto, intenta nuevamente.";
+                document.getElementById("result").style.color = "red";
+                failures++;  // Aumenta el contador de fallos
+                document.getElementById("failures").textContent = "Fallos: " + failures;
+            }
+        }
+
+        function nextQuestion() {
+            currentQuestionIndex = (currentQuestionIndex + 1) % questions.length;
+            loadQuestion();
+        }
+
+        // Cargar la primera pregunta al iniciar
+        window.onload = loadQuestions;
+    </script>
+
+</body>
+</html>
