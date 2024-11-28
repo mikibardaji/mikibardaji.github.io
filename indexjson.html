@@ -42,13 +42,12 @@
             })
             .then(data => {
                 questions = data; // Guarda les dades a la variable global
-                console.log("Dades carregades:", questions);
                 loadQuestion(); // Carrega la primera pregunta
             })
             .catch(error => {
                 console.error('Hi ha hagut un error en carregar les dades:', error);
             });
-            loadQuestion();
+           
         }
 
         let currentQuestionIndex = 0;
