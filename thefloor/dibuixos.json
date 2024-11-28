@@ -535,61 +535,61 @@
         "correctAnswer": "Count Duckula"
     },
     {
-        image: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/01/transformers-como-acabo-serie-dibujos-animados.jpg?tf=3840x",
-        options: ["Los Transformers", "Godzilla", "El Super Agente Cobra", "Voltron (Leones)"],
-        correctAnswer: "Los Transformers"
+        "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/01/transformers-como-acabo-serie-dibujos-animados.jpg?tf=3840x",
+        "options": ["Los Transformers", "Godzilla", "El Super Agente Cobra", "Voltron (Leones)"],
+        "correctAnswer": "Los Transformers"
     }
     ,
     {
-        image: "https://yt3.googleusercontent.com/ytc/AIdro_khaqdHY46Ie5hanegfCDA5b9XfIGpsMkgQrf_PP0zINQ=s900-c-k-c0x00ffffff-no-rj",
-        options: ["He-Man", "Los Thundercats", "El Hombre Araña", "Los Pitufos"],
-        correctAnswer: "He-Man"
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_khaqdHY46Ie5hanegfCDA5b9XfIGpsMkgQrf_PP0zINQ=s900-c-k-c0x00ffffff-no-rj",
+        "options": ["He-Man", "Los Thundercats", "El Hombre Araña", "Los Pitufos"],
+        "correctAnswer": "He-Man"
     },
     {
-        image: "https://img2.rtve.es/i/?w=1600&i=1625558253931.jpg",
-        options: ["Candy Candy", "Capitán Centella", "El Festival de los Robots", "Ironman 28"],
-        correctAnswer: "Candy Candy"
+        "image": "https://img2.rtve.es/i/?w=1600&i=1625558253931.jpg",
+        "options": ["Candy Candy", "Capitán Centella", "El Festival de los Robots", "Ironman 28"],
+        "correctAnswer": "Candy Candy"
     },
 
     {
-        image: "https://cl2.buscafs.com/www.tomatazos.com/public/uploads/images/143630/143630_1140x516.jpg",
-        options: [ "Érase una vez el Hombre...", "Los Verdaderos Cazafantasmas","Nave Espacial Yamato", "Los Super Amigos"],
-        correctAnswer: "Los Verdaderos Cazafantasmas"
+        "image": "https://cl2.buscafs.com/www.tomatazos.com/public/uploads/images/143630/143630_1140x516.jpg",
+        "options": [ "Érase una vez el Hombre...", "Los Verdaderos Cazafantasmas","Nave Espacial Yamato", "Los Super Amigos"],
+        "correctAnswer": "Los Verdaderos Cazafantasmas"
     },
     {
-        image: "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/09/calabozos-y-dragones-serie-final-requiem-2.jpg?resize=640%2C360&ssl=1",
-        options: ["Capitán Centella", "Godzilla", "Dragones y Mazmorras", "Lady Óscar"],
-        correctAnswer: "Dragones y Mazmorras"
+        "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/09/calabozos-y-dragones-serie-final-requiem-2.jpg?resize=640%2C360&ssl=1",
+        "options": ["Capitán Centella", "Godzilla", "Dragones y Mazmorras", "Lady Óscar"],
+        "correctAnswer": "Dragones y Mazmorras"
     },
     {
-        image: "https://ih1.redbubble.net/image.3663755595.0826/fcp,small,wall_texture,product,750x1000.jpg",
-        options: ["Flash Gordon", "Astroboy", "Los Transformers", "Blackstar"],
-        correctAnswer: "Flash Gordon"
+        "image": "https://ih1.redbubble.net/image.3663755595.0826/fcp,small,wall_texture,product,750x1000.jpg",
+        "options": ["Flash Gordon", "Astroboy", "Los Transformers", "Blackstar"],
+        "correctAnswer": "Flash Gordon"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSNEJtLOsi1GmYf6rZdAw6XJa9o7YfLGaxA&s",
-        options: ["Comando G", "El Increíble Hulk", "Los Cazafantasmas", "Snoopy"],
-        correctAnswer: "Comando G"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSNEJtLOsi1GmYf6rZdAw6XJa9o7YfLGaxA&s",
+        "options": ["Comando G", "El Increíble Hulk", "Los Cazafantasmas", "Snoopy"],
+        "correctAnswer": "Comando G"
     },
     {
-        image: "https://i.ytimg.com/vi/IOlCk72-DoQ/hqdefault.jpg",
-        options: ["El Hombre Plástico o Plasticman", "Meteoro", "Flash Gordon", "Capitán Centella"],
-        correctAnswer: "El Hombre Plástico o Plasticman"
+        "image": "https://i.ytimg.com/vi/IOlCk72-DoQ/hqdefault.jpg",
+        "options": ["El Hombre Plástico o Plasticman", "Meteoro", "Flash Gordon", "Capitán Centella"],
+        "correctAnswer": "El Hombre Plástico o Plasticman"
     },
     {
-        image: "https://i.pinimg.com/originals/35/b6/71/35b6714cf8def3ff4e69a9dec17c0bbe.jpg",
-        options: ["Los Thundercats", "M.A.S.K.", "Los Tigersharks", "David el Gnomo"],
-        correctAnswer: "Los Tigersharks"
+        "image": "https://i.pinimg.com/originals/35/b6/71/35b6714cf8def3ff4e69a9dec17c0bbe.jpg",
+        "options": ["Los Thundercats", "M.A.S.K.", "Los Tigersharks", "David el Gnomo"],
+        "correctAnswer": "Los Tigersharks"
     },	
     {
-        image: "https://i.pinimg.com/736x/ae/db/b8/aedbb89f9090a86d662d04a0b3f25633.jpg",
-        options: ["La Abeja Maya", "Mi Pequeño Pony", "El Hombre Araña", "Snoopy"],
-        correctAnswer: "Mi Pequeño Pony"
+        "image": "https://i.pinimg.com/736x/ae/db/b8/aedbb89f9090a86d662d04a0b3f25633.jpg",
+        "options": ["La Abeja Maya", "Mi Pequeño Pony", "El Hombre Araña", "Snoopy"],
+        "correctAnswer": "Mi Pequeño Pony"
     },
     {
-        image: "https://i.ytimg.com/vi/mCLv0OSB59w/mqdefault.jpg",
-        options: ["Jem", "Mr. Magoo", "Los Pitufos", "Meteoro"],
-        correctAnswer: "Mr. Magoo"
+        "image": "https://i.ytimg.com/vi/mCLv0OSB59w/mqdefault.jpg",
+        "options": ["Jem", "Mr. Magoo", "Los Pitufos", "Meteoro"],
+        "correctAnswer": "Mr. Magoo"
     },
     {
         "image": "https://i.ytimg.com/vi/jiSz8FGjVIE/sddefault.jpg",
@@ -1123,419 +1123,419 @@
         "correctAnswer": "Ulises 31"
     },
             {
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jF2AGBOs0tXiIuHc6LnFVcIJ74IWtIxs4A&s",
-                options: ["Little Dot", "Pequeña Lulu", "Pippi Långstrump", "Nancy"],
-                correctAnswer: "Pequeña Lulu"
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jF2AGBOs0tXiIuHc6LnFVcIJ74IWtIxs4A&s",
+                "options": ["Little Dot", "Pequeña Lulu", "Pippi Långstrump", "Nancy"],
+                "correctAnswer": "Pequeña Lulu"
             },
             {
-                image: "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/B5VRSOCXFVAIVLGCX6HFO3MWQM.jpg",
-                options: ["Wacky Races", "Speed Racer", "RoboRacing", "Coches Locos"],
-                correctAnswer: "Coches Locos"
+                "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/B5VRSOCXFVAIVLGCX6HFO3MWQM.jpg",
+                "options": ["Wacky Races", "Speed Racer", "RoboRacing", "Coches Locos"],
+                "correctAnswer": "Coches Locos"
             },
             {
-                image: "https://i.pinimg.com/736x/60/db/97/60db9734e737b5b0fea225e55665960c.jpg",
-				options: ["Inspector Gadget", "The Jetsons", "The Addams Family", "Dastardly and Muttley in their Flying Machines"],
-				correctAnswer: "Inspector Gadget"
+                "image": "https://i.pinimg.com/736x/60/db/97/60db9734e737b5b0fea225e55665960c.jpg",
+				"options": ["Inspector Gadget", "The Jetsons", "The Addams Family", "Dastardly and Muttley in their Flying Machines"],
+				"correctAnswer": "Inspector Gadget"
 
             },
             {
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDsEtY6mJARBXCVs_-w2R4M1dUL171jo3zw&s",
-				options: ["La pequeña Lulú", "Mia y sus amigos", "Hada Chappy", "La varita mágica de Sabrina"],
-				correctAnswer: "Hada Chappy"
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDsEtY6mJARBXCVs_-w2R4M1dUL171jo3zw&s",
+				"options": ["La pequeña Lulú", "Mia y sus amigos", "Hada Chappy", "La varita mágica de Sabrina"],
+				"correctAnswer": "Hada Chappy"
             }
 			,
             {
-                image: "https://i.ytimg.com/vi/saM2vDW5c6c/hqdefault.jpg",
-				options: ["Los Super Globetrotters", "Los Autos Locos", "Los 4 Fantásticos", "Los Thundercats"],
-				correctAnswer: "Los Super Globetrotters"
+                "image": "https://i.ytimg.com/vi/saM2vDW5c6c/hqdefault.jpg",
+				"options": ["Los Super Globetrotters", "Los Autos Locos", "Los 4 Fantásticos", "Los Thundercats"],
+				"correctAnswer": "Los Super Globetrotters"
             }
 			,
             {
-                image: "https://i.ytimg.com/vi/QwP-GvLruiA/maxresdefault.jpg",
-				options: ["Kimba el León Blanco", "Astro Boy", "El Rey León", "Los Picapiedra"],
-				correctAnswer: "Kimba el León Blanco"
+                "image": "https://i.ytimg.com/vi/QwP-GvLruiA/maxresdefault.jpg",
+				"options": ["Kimba el León Blanco", "Astro Boy", "El Rey León", "Los Picapiedra"],
+				"correctAnswer": "Kimba el León Blanco"
             }
             ,  
         {
-        image: "https://i.pinimg.com/originals/5a/3c/da/5a3cda3590c1b9b1f71a7bb1e14bc167.jpg",
-        options: ["Pequeña Lulu", "Candy Candy", "Hola Sandybell", "La Abeja Maya"],
-        correctAnswer: "Hola Sandybell"
+        "image": "https://i.pinimg.com/originals/5a/3c/da/5a3cda3590c1b9b1f71a7bb1e14bc167.jpg",
+        "options": ["Pequeña Lulu", "Candy Candy", "Hola Sandybell", "La Abeja Maya"],
+        "correctAnswer": "Hola Sandybell"
         },
     {
-        image: "https://i.etsystatic.com/26229927/r/il/199012/2731811172/il_fullxfull.2731811172_hixt.jpg",
-        options: ["Snoopy", "Heidi", "Popeye", "Los Pitufos"],
-        correctAnswer: "Popeye"
+        "image": "https://i.etsystatic.com/26229927/r/il/199012/2731811172/il_fullxfull.2731811172_hixt.jpg",
+        "options": ["Snoopy", "Heidi", "Popeye", "Los Pitufos"],
+        "correctAnswer": "Popeye"
     },
     {
-        image: "https://img.freepik.com/fotos-premium/personaje-dibujos-animados-snoopy_981061-11290.jpg?semt=ais_hybrid",
-        options: ["La Pantera Rosa", "Fresita", "Snoopy", "Los Meñiques"],
-        correctAnswer: "Snoopy"
+        "image": "https://img.freepik.com/fotos-premium/personaje-dibujos-animados-snoopy_981061-11290.jpg?semt=ais_hybrid",
+        "options": ["La Pantera Rosa", "Fresita", "Snoopy", "Los Meñiques"],
+        "correctAnswer": "Snoopy"
     },
     {
-        image: "https://yt3.googleusercontent.com/ytc/AIdro_lvTYHEdjvQJbzcZSUTt7spAzU44v2QNQwiRGPy0uizvA=s900-c-k-c0x00ffffff-no-rj",
-        options: ["El Oso Jacky", "El Pájaro Loco", "Los 4 Fantásticos", "Los Thundercats"],
-        correctAnswer: "El Pájaro Loco"
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_lvTYHEdjvQJbzcZSUTt7spAzU44v2QNQwiRGPy0uizvA=s900-c-k-c0x00ffffff-no-rj",
+        "options": ["El Oso Jacky", "El Pájaro Loco", "Los 4 Fantásticos", "Los Thundercats"],
+        "correctAnswer": "El Pájaro Loco"
     },
     {
-        image: "https://elretrovisorblog.wordpress.com/wp-content/uploads/2016/02/gato-felix.png?w=863&h=0&crop=1",
-        options: ["Felix el Gato", "El Hombre Araña", "Los Pitufos", "Los Cazafantasmas"],
-        correctAnswer: "Felix el Gato"
+        "image": "https://elretrovisorblog.wordpress.com/wp-content/uploads/2016/02/gato-felix.png?w=863&h=0&crop=1",
+        "options": ["Felix el Gato", "El Hombre Araña", "Los Pitufos", "Los Cazafantasmas"],
+        "correctAnswer": "Felix el Gato"
     },
     {
-        image: "https://static.wikia.nocookie.net/doblaje/images/c/cc/Cave.jpeg/revision/latest?cb=20200708093936&path-prefix=es",
-        options: ["Los Defensores de la Tierra", "Los Super Héroes de Marvel", "Capitán Cavernícola", "Los Super Amigos"],
-        correctAnswer: "Capitán Cavernícola"
+        "image": "https://static.wikia.nocookie.net/doblaje/images/c/cc/Cave.jpeg/revision/latest?cb=20200708093936&path-prefix=es",
+        "options": ["Los Defensores de la Tierra", "Los Super Héroes de Marvel", "Capitán Cavernícola", "Los Super Amigos"],
+        "correctAnswer": "Capitán Cavernícola"
     },
     {
-        image: "https://i.pinimg.com/236x/72/04/bf/7204bface38f072576dfc577880af59f.jpg",
-        options: ["Los Pitufos", "Los 4 Fantásticos", "M.A.S.K.", "Scooby Doo: Misterio a la Orden"],
-        correctAnswer: "Scooby Doo: Misterio a la Orden"
+        "image": "https://i.pinimg.com/236x/72/04/bf/7204bface38f072576dfc577880af59f.jpg",
+        "options": ["Los Pitufos", "Los 4 Fantásticos", "M.A.S.K.", "Scooby Doo: Misterio a la Orden"],
+        "correctAnswer": "Scooby Doo: Misterio a la Orden"
     },
     {
-        image: "https://i.ytimg.com/vi/2oThQYoilj8/maxresdefault.jpg",
-        options: ["David el Gnomo", "Jem", "Fresita", "Los Cazafantasmas"],
-        correctAnswer: "Fresita"
+        "image": "https://i.ytimg.com/vi/2oThQYoilj8/maxresdefault.jpg",
+        "options": ["David el Gnomo", "Jem", "Fresita", "Los Cazafantasmas"],
+        "correctAnswer": "Fresita"
     },
     {
-        image: "https://www.sopitas.com/wp-content/uploads/2023/07/el-fantasma-del-espacio-de-costa-a-costa-invitados-musicales.jpeg?resize=1024,577",
-        options: ["El Fantasma del Espacio", "Pequeño Pony", "Los Defensores Interplanetarios", "Voltron"],
-        correctAnswer: "El Fantasma del Espacio"
+        "image": "https://www.sopitas.com/wp-content/uploads/2023/07/el-fantasma-del-espacio-de-costa-a-costa-invitados-musicales.jpeg?resize=1024,577",
+        "options": ["El Fantasma del Espacio", "Pequeño Pony", "Los Defensores Interplanetarios", "Voltron"],
+        "correctAnswer": "El Fantasma del Espacio"
     },
     {
-        image: "https://i0.wp.com/www.tallopis-escribe.com/wp-content/uploads/2020/07/Diminutos.jpg?fit=590%2C443&ssl=1",
-        options: ["La Ballena Josefina", "El Oso Jacky", "Los Tigresharks", "Los Diminutos"],
-        correctAnswer: "Los Diminutos"
+        "image": "https://i0.wp.com/www.tallopis-escribe.com/wp-content/uploads/2020/07/Diminutos.jpg?fit=590%2C443&ssl=1",
+        "options": ["La Ballena Josefina", "El Oso Jacky", "Los Tigresharks", "Los Diminutos"],
+        "correctAnswer": "Los Diminutos"
     },
     {
-        image: "https://ae01.alicdn.com/kf/Sab9b310bd0ad47a4a13a121d97e045e8V/Fondo-de-superh-roes-de-Marvel-para-fiesta-de-cumplea-os-decoraciones-de-dibujos-animados-de.jpg",
-        options: ["Los Transformers", "Meteoro", "Los Defensores de la Tierra", "Los Super Héroes de Marvel"],
-        correctAnswer: "Los Super Héroes de Marvel"
+        "image": "https://ae01.alicdn.com/kf/Sab9b310bd0ad47a4a13a121d97e045e8V/Fondo-de-superh-roes-de-Marvel-para-fiesta-de-cumplea-os-decoraciones-de-dibujos-animados-de.jpg",
+        "options": ["Los Transformers", "Meteoro", "Los Defensores de la Tierra", "Los Super Héroes de Marvel"],
+        "correctAnswer": "Los Super Héroes de Marvel"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cxbKJbax0TzXHmZhxT7eYHyRYaE6TlDEWQ&s",
-        options: ["Los Beatles", "Jem", "Los Pitufos", "Los 4 Fantásticos"],
-        correctAnswer: "Los Beatles"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cxbKJbax0TzXHmZhxT7eYHyRYaE6TlDEWQ&s",
+        "options": ["Los Beatles", "Jem", "Los Pitufos", "Los 4 Fantásticos"],
+        "correctAnswer": "Los Beatles"
     },
     {
-        image: "https://pics.filmaffinity.com/Las_faabulas_del_bosque_verde_Serie_de_TV-229692520-large.jpg",
-        options: ["Los Pitufos", "Snoopy", "Los Cazafantasmas", "Fábulas del Bosque Verde"],
-        correctAnswer: "Fábulas del Bosque Verde"
+        "image": "https://pics.filmaffinity.com/Las_faabulas_del_bosque_verde_Serie_de_TV-229692520-large.jpg",
+        "options": ["Los Pitufos", "Snoopy", "Los Cazafantasmas", "Fábulas del Bosque Verde"],
+        "correctAnswer": "Fábulas del Bosque Verde"
     },
     {
-        image: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/08/ewoks-2436827.jpg?tf=3840x",
-        options: ["M.A.S.K.", "Los Pitufos", "Los Ewoks", "Los Thundercats"],
-        correctAnswer: "Los Ewoks"
+        "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/08/ewoks-2436827.jpg?tf=3840x",
+        "options": ["M.A.S.K.", "Los Pitufos", "Los Ewoks", "Los Thundercats"],
+        "correctAnswer": "Los Ewoks"
     },
     {
-        image: "https://ih1.redbubble.net/image.521653536.2993/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg",
-        options: ["El Festival de los Robots", "Fuerza G", "Sawamura El Campeón", "Los Centuriones"],
-        correctAnswer: "Sawamura El Campeón"
+        "image": "https://ih1.redbubble.net/image.521653536.2993/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg",
+        "options": ["El Festival de los Robots", "Fuerza G", "Sawamura El Campeón", "Los Centuriones"],
+        "correctAnswer": "Sawamura El Campeón"
     },
     {
-        image: "https://wl-genial.cf.tsp.li/resize/728x/jpg/632/548/83602c50fbab91276eaf3e176f.jpg",
-        options: ["Hercules", "El Genio Shazzan", "El Hombre Araña", "Los Thundercats"],
-        correctAnswer: "Hercules"
+        "image": "https://wl-genial.cf.tsp.li/resize/728x/jpg/632/548/83602c50fbab91276eaf3e176f.jpg",
+        "options": ["Hercules", "El Genio Shazzan", "El Hombre Araña", "Los Thundercats"],
+        "correctAnswer": "Hercules"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-hb_914BBhlAV7I05loL9N07E-BAAZCzHw&s",
-        options: ["El Desafío de los Gobots", "Fuerza G", "Sport Billy", "El Hombre Araña"],
-        correctAnswer: "Sport Billy"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-hb_914BBhlAV7I05loL9N07E-BAAZCzHw&s",
+        "options": ["El Desafío de los Gobots", "Fuerza G", "Sport Billy", "El Hombre Araña"],
+        "correctAnswer": "Sport Billy"
     },
     {
-        image: "https://i.ytimg.com/vi/DUvZwE_PGiE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCH48G9SkvfVpwP-vSRH96MsrFZbA",
-        options: ["La Abeja Maya", "Los Pitufos", "Viaje al Centro de la Tierra", "La Brujita Sally"],
-        correctAnswer: "Viaje al Centro de la Tierra"
+        "image": "https://i.ytimg.com/vi/DUvZwE_PGiE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCH48G9SkvfVpwP-vSRH96MsrFZbA",
+        "options": ["La Abeja Maya", "Los Pitufos", "Viaje al Centro de la Tierra", "La Brujita Sally"],
+        "correctAnswer": "Viaje al Centro de la Tierra"
     },
     {
-        image: "https://i.ytimg.com/vi/GEund6T_4Gs/hqdefault.jpg",
-        options: ["Sombrita", "Snoopy", "El Hombre Araña", "El Oso Jacky"],
-        correctAnswer: "El Oso Jacky"
+        "image": "https://i.ytimg.com/vi/GEund6T_4Gs/hqdefault.jpg",
+        "options": ["Sombrita", "Snoopy", "El Hombre Araña", "El Oso Jacky"],
+        "correctAnswer": "El Oso Jacky"
     },
     {
-        image: "https://i.ytimg.com/vi/qneD0Nsr5W8/hqdefault.jpg",
-        options: ["Voltron (Leones)", "Los Thundercats", "David el Gnomo", "Sombrita"],
-        correctAnswer: "Sombrita"
+        "image": "https://i.ytimg.com/vi/qneD0Nsr5W8/hqdefault.jpg",
+        "options": ["Voltron (Leones)", "Los Thundercats", "David el Gnomo", "Sombrita"],
+        "correctAnswer": "Sombrita"
     },
     {
-        image: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/03/4-fantasticos-1994-1896001.jpg?tf=3840x",
-        options: ["Los Pitufos", "Los Super Héroes de Marvel", "Los 4 Fantásticos", "Los Defensores Interplanetarios"],
-        correctAnswer: "Los 4 Fantásticos"
+        "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/03/4-fantasticos-1994-1896001.jpg?tf=3840x",
+        "options": ["Los Pitufos", "Los Super Héroes de Marvel", "Los 4 Fantásticos", "Los Defensores Interplanetarios"],
+        "correctAnswer": "Los 4 Fantásticos"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV8UEES5LL8hWVT0s-Plhh5tolbk4UPLGbw&s",
-        options: ["Los Androides", "El Genio Shazzan", "La Ballena Josefina", "Los Defensores de la Tierra"],
-        correctAnswer: "La Ballena Josefina"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV8UEES5LL8hWVT0s-Plhh5tolbk4UPLGbw&s",
+        "options": ["Los Androides", "El Genio Shazzan", "La Ballena Josefina", "Los Defensores de la Tierra"],
+        "correctAnswer": "La Ballena Josefina"
     },
     {
-        image: "https://m.media-amazon.com/images/I/51sSmZTLpfL._AC_.jpg",
-        options: ["Los Thundercats", "Los 4 Fantásticos", "Los Pitufos", "Jana de la Selva"],
-        correctAnswer: "Jana de la Selva"
+        "image": "https://m.media-amazon.com/images/I/51sSmZTLpfL._AC_.jpg",
+        "options": ["Los Thundercats", "Los 4 Fantásticos", "Los Pitufos", "Jana de la Selva"],
+        "correctAnswer": "Jana de la Selva"
     },
     {
-        image: "https://i.pinimg.com/474x/89/34/10/8934102379c472597651fb46fde15047.jpg",
-        options: ["El Genio Shazzan", "Los Thundercats", "El Hombre Araña", "Fuerza G"],
-        correctAnswer: "El Genio Shazzan"
+        "image": "https://i.pinimg.com/474x/89/34/10/8934102379c472597651fb46fde15047.jpg",
+        "options": ["El Genio Shazzan", "Los Thundercats", "El Hombre Araña", "Fuerza G"],
+        "correctAnswer": "El Genio Shazzan"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeARrQYBta-ZFsJhBR6Ix2Q4vNXnOFbrw6Qw&s",
-        options: ["Astroboy", "El Genio Shazzan", "Los Herculoides o Los Defensores Interplanetarios", "Los Thundercats"],
-        correctAnswer: "Los Herculoides o Los Defensores Interplanetarios"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeARrQYBta-ZFsJhBR6Ix2Q4vNXnOFbrw6Qw&s",
+        "options": ["Astroboy", "El Genio Shazzan", "Los Herculoides o Los Defensores Interplanetarios", "Los Thundercats"],
+        "correctAnswer": "Los Herculoides o Los Defensores Interplanetarios"
     },
     {
-        image: "https://ih1.redbubble.net/image.1576969023.1538/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
-        options: ["Los Super Amigos", "Fonzie", "David el Gnomo", "Los Centuriones"],
-        correctAnswer: "Fonzie"
+        "image": "https://ih1.redbubble.net/image.1576969023.1538/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+        "options": ["Los Super Amigos", "Fonzie", "David el Gnomo", "Los Centuriones"],
+        "correctAnswer": "Fonzie"
     },
     {
-        image: "https://i0.wp.com/www.tallopis-escribe.com/wp-content/uploads/2020/08/cool-mccool_L13.jpg?fit=512%2C384&ssl=1",
-        options: ["Fuerza G", "Cool Mc Cool", "M.A.S.K.", "Voltron"],
-        correctAnswer: "Cool Mc Cool"
+        "image": "https://i0.wp.com/www.tallopis-escribe.com/wp-content/uploads/2020/08/cool-mccool_L13.jpg?fit=512%2C384&ssl=1",
+        "options": ["Fuerza G", "Cool Mc Cool", "M.A.S.K.", "Voltron"],
+        "correctAnswer": "Cool Mc Cool"
     },
     {
-        image: "https://www.shutterstock.com/image-vector/cute-super-hero-shooting-laser-260nw-2382675487.jpg",
-        options: ["Los Pitufos", "El Super Laser", "Snoopy", "La Ballena Josefina"],
-        correctAnswer: "El Super Laser"
+        "image": "https://www.shutterstock.com/image-vector/cute-super-hero-shooting-laser-260nw-2382675487.jpg",
+        "options": ["Los Pitufos", "El Super Laser", "Snoopy", "La Ballena Josefina"],
+        "correctAnswer": "El Super Laser"
     },
     {
-        image: "https://scontent.fbcn13-1.fna.fbcdn.net/v/t39.30808-6/433234651_393725353524524_1369614559359885295_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kj9e8tf1kJoQ7kNvgEpE2tl&_nc_zt=23&_nc_ht=scontent.fbcn13-1.fna&_nc_gid=AKugbNoCbDJgAF-xhzr_dQG&oh=00_AYAuXGXwAISYHcCozhI9bqGxpImJog73V62F9WXB87HlNQ&oe=67442E1A",
-        options: ["Voltron (Vehículos)", "Astroboy", "Meteoro", "Los Thundercats"],
-        correctAnswer: "Voltron (Vehículos)"
+        "image": "https://scontent.fbcn13-1.fna.fbcdn.net/v/t39.30808-6/433234651_393725353524524_1369614559359885295_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kj9e8tf1kJoQ7kNvgEpE2tl&_nc_zt=23&_nc_ht=scontent.fbcn13-1.fna&_nc_gid=AKugbNoCbDJgAF-xhzr_dQG&oh=00_AYAuXGXwAISYHcCozhI9bqGxpImJog73V62F9WXB87HlNQ&oe=67442E1A",
+        "options": ["Voltron (Vehículos)", "Astroboy", "Meteoro", "Los Thundercats"],
+        "correctAnswer": "Voltron (Vehículos)"
     },
     {
-        image: "https://i.etsystatic.com/20215095/r/il/55df58/4397099303/il_fullxfull.4397099303_5n74.jpg",
-        options: ["Jem", "Los Pitufos", "Voltron (Leones)", "Los Cazafantasmas"],
-        correctAnswer: "Los Cazafantasmas"
+        "image": "https://i.etsystatic.com/20215095/r/il/55df58/4397099303/il_fullxfull.4397099303_5n74.jpg",
+        "options": ["Jem", "Los Pitufos", "Voltron (Leones)", "Los Cazafantasmas"],
+        "correctAnswer": "Los Cazafantasmas"
     },
     {
-        image: "https://i.pinimg.com/236x/cd/8d/ac/cd8daca6eb094247ad24207d2ab9088c.jpg",
-        options: ["Angel, la niña de las flores", "Snoopy", "La Abeja Maya", "Los Pitufos"],
-        correctAnswer: "Angel, la niña de las flores"
+        "image": "https://i.pinimg.com/236x/cd/8d/ac/cd8daca6eb094247ad24207d2ab9088c.jpg",
+        "options": ["Angel, la niña de las flores", "Snoopy", "La Abeja Maya", "Los Pitufos"],
+        "correctAnswer": "Angel, la niña de las flores"
     },
     {
-        image: "data:image/jpeg;base64,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",
-        options: ["Candy Candy", "Snoopy", "La Abeja Maya", "Angel, la niña de las flores"],
-        correctAnswer: "Candy Candy"
+        "image": "data:image/jpeg;base64,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",
+        "options": ["Candy Candy", "Snoopy", "La Abeja Maya", "Angel, la niña de las flores"],
+        "correctAnswer": "Candy Candy"
     },
     {
-        image: "https://www.justwatch.com/images/backdrop/10296714/s640/kissyfur/kissyfur",
-        options: ["Los Pitufos", "Kissyfur", "Fuerza G", "Los Centuriones"],
-        correctAnswer: "Kissyfur"
+        "image": "https://www.justwatch.com/images/backdrop/10296714/s640/kissyfur/kissyfur",
+        "options": ["Los Pitufos", "Kissyfur", "Fuerza G", "Los Centuriones"],
+        "correctAnswer": "Kissyfur"
     },
     {
-        image: "https://i.blogs.es/dcb355/650_1000_rangers/450_1000.jpg",
-        options: ["El Hombre Araña", "Voltron (Leones)", "Los Cazafantasmas", "Los Galaxy Rangers o guardianes de la galaxia"],
-        correctAnswer: "Los Galaxy Rangers o guardianes de la galaxia"
+        "image": "https://i.blogs.es/dcb355/650_1000_rangers/450_1000.jpg",
+        "options": ["El Hombre Araña", "Voltron (Leones)", "Los Cazafantasmas", "Los Galaxy Rangers o guardianes de la galaxia"],
+        "correctAnswer": "Los Galaxy Rangers o guardianes de la galaxia"
     },
     {
-        image: "https://i.pinimg.com/236x/b8/07/5c/b8075ce6523ebc0473123f73b733ae09.jpg",
-        options: ["Tarzán El Amo de la Selva", "El Robot Justiciero", "El Hombre Plástico", "El Jinete Sable"],
-        correctAnswer: "El Robot Justiciero"
+        "image": "https://i.pinimg.com/236x/b8/07/5c/b8075ce6523ebc0473123f73b733ae09.jpg",
+        "options": ["Tarzán El Amo de la Selva", "El Robot Justiciero", "El Hombre Plástico", "El Jinete Sable"],
+        "correctAnswer": "El Robot Justiciero"
     },
     {
-        image: "https://i.pinimg.com/236x/c9/8e/09/c98e09b8ab9a16e94d2054c396a85a2c.jpg",
-        options: ["El Hombre Plástico", "El Jinete Sable", "Astroboy", "El Robot Justiciero"],
-        correctAnswer: "El Jinete Sable"
+        "image": "https://i.pinimg.com/236x/c9/8e/09/c98e09b8ab9a16e94d2054c396a85a2c.jpg",
+        "options": ["El Hombre Plástico", "El Jinete Sable", "Astroboy", "El Robot Justiciero"],
+        "correctAnswer": "El Jinete Sable"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgIUqBa03_pVW5YOHKpJJzh3aoJQ7V8wHnw&s",
-        options: ["Tarzán El Amo de la Selva", "Jem", "Blackstar", "Meteoro"],
-        correctAnswer: "Tarzán El Amo de la Selva"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgIUqBa03_pVW5YOHKpJJzh3aoJQ7V8wHnw&s",
+        "options": ["Tarzán El Amo de la Selva", "Jem", "Blackstar", "Meteoro"],
+        "correctAnswer": "Tarzán El Amo de la Selva"
     },
     {
-        image: "https://i.pinimg.com/736x/3f/3a/81/3f3a81914c92b803fd938e8dc6222c0a.jpg",
-        options: ["Marco", "Candy Candy", "Heidi", "Érase una vez el Hombre..."],
-        correctAnswer: "Marco"
+        "image": "https://i.pinimg.com/736x/3f/3a/81/3f3a81914c92b803fd938e8dc6222c0a.jpg",
+        "options": ["Marco", "Candy Candy", "Heidi", "Érase una vez el Hombre..."],
+        "correctAnswer": "Marco"
     },
     {
-        image: "https://i.pinimg.com/550x/0b/0b/63/0b0b630b6e38e6b903ea34caf42e883e.jpg",
-        options: ["Heidi", "Candy Candy", "La Abeja Maya", "El Hombre Araña"],
-        correctAnswer: "Heidi"
+        "image": "https://i.pinimg.com/550x/0b/0b/63/0b0b630b6e38e6b903ea34caf42e883e.jpg",
+        "options": ["Heidi", "Candy Candy", "La Abeja Maya", "El Hombre Araña"],
+        "correctAnswer": "Heidi"
     },
     {
-        image: "https://i.ytimg.com/vi/rrewfPPtq7o/maxresdefault.jpg",
-        options: ["Voltron (Leones)", "Los Pitufos", "Snoopy", "El Hombre Araña"],
-        correctAnswer: "Los Pitufos"
+        "image": "https://i.ytimg.com/vi/rrewfPPtq7o/maxresdefault.jpg",
+        "options": ["Voltron (Leones)", "Los Pitufos", "Snoopy", "El Hombre Araña"],
+        "correctAnswer": "Los Pitufos"
     },
     {
-        image: "https://i.blogs.es/ba5564/abeja-maya/840_560.jpeg",
-        options: ["La Abeja Maya", "Astroboy", "Los Halcones Galácticos", "Candy Candy"],
-        correctAnswer: "La Abeja Maya"
+        "image": "https://i.blogs.es/ba5564/abeja-maya/840_560.jpeg",
+        "options": ["La Abeja Maya", "Astroboy", "Los Halcones Galácticos", "Candy Candy"],
+        "correctAnswer": "La Abeja Maya"
     },
     {
-        image: "https://playmax.xyz/img/cv/full/59/1683793528/29300.jpg",
-        options: ["Los Centinelas del Espacio", "Los Guerreros Rodantes", "El Desafío de los Gobots", "Flash Gordon"],
-        correctAnswer: "Los Centinelas del Espacio"
+        "image": "https://playmax.xyz/img/cv/full/59/1683793528/29300.jpg",
+        "options": ["Los Centinelas del Espacio", "Los Guerreros Rodantes", "El Desafío de los Gobots", "Flash Gordon"],
+        "correctAnswer": "Los Centinelas del Espacio"
     },
     {
-        image: "https://i.pinimg.com/originals/44/09/e3/4409e350ab33a0c091fb69178dca13d5.jpg",
-        options: ["Marino Boy", "Los Super Héroes de Marvel", "David el Gnomo", "Fuerza G"],
-        correctAnswer: "Marino Boy"
+        "image": "https://i.pinimg.com/originals/44/09/e3/4409e350ab33a0c091fb69178dca13d5.jpg",
+        "options": ["Marino Boy", "Los Super Héroes de Marvel", "David el Gnomo", "Fuerza G"],
+        "correctAnswer": "Marino Boy"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlI6Dsjd1jtAhI6dlBn2uSuIxFFVbz8Lrqgw&s",
-        options: ["La Brujita Sally o la tonta bruja", "Los Cazafantasmas", "El Festival de los Robots", "Los Ewoks"],
-        correctAnswer: "La Brujita Sally o la tonta bruja"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlI6Dsjd1jtAhI6dlBn2uSuIxFFVbz8Lrqgw&s",
+        "options": ["La Brujita Sally o la tonta bruja", "Los Cazafantasmas", "El Festival de los Robots", "Los Ewoks"],
+        "correctAnswer": "La Brujita Sally o la tonta bruja"
     },
     {
-        image: "https://i.pinimg.com/550x/f3/c5/9b/f3c59b24b9140c9497d34a194e8d99c6.jpg",
-        options: ["Astroboy", "Meteoro", "Blackstar", "Los Androides"],
-        correctAnswer: "Meteoro"
+        "image": "https://i.pinimg.com/550x/f3/c5/9b/f3c59b24b9140c9497d34a194e8d99c6.jpg",
+        "options": ["Astroboy", "Meteoro", "Blackstar", "Los Androides"],
+        "correctAnswer": "Meteoro"
     },
     {
-        image: "https://i.ytimg.com/vi/4BPVXhEuhvg/sddefault.jpg",
-        options: ["Capitán Futuro", "Espartaco", "El Hombre Araña", "Voltron (Leones)"],
-        correctAnswer: "Espartaco"
+        "image": "https://i.ytimg.com/vi/4BPVXhEuhvg/sddefault.jpg",
+        "options": ["Capitán Futuro", "Espartaco", "El Hombre Araña", "Voltron (Leones)"],
+        "correctAnswer": "Espartaco"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqq_JoYD7-kV1r2gSWoGABc0Q20tIwQADGw&s",
-        options: ["Flash Gordon", "El Rey Arturo", "Los Centuriones", "Thundarr el Bárbaro"],
-        correctAnswer: "El Rey Arturo"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqq_JoYD7-kV1r2gSWoGABc0Q20tIwQADGw&s",
+        "options": ["Flash Gordon", "El Rey Arturo", "Los Centuriones", "Thundarr el Bárbaro"],
+        "correctAnswer": "El Rey Arturo"
     },
     {
-        image: "https://i.ytimg.com/vi/zyfCdnULPVo/hqdefault.jpg",
-        options: ["Jem and the holograms", "Los Pitufos", "David el Gnomo", "Los Super Amigos"],
-        correctAnswer: "Jem and the holograms"
+        "image": "https://i.ytimg.com/vi/zyfCdnULPVo/hqdefault.jpg",
+        "options": ["Jem and the holograms", "Los Pitufos", "David el Gnomo", "Los Super Amigos"],
+        "correctAnswer": "Jem and the holograms"
     },
     {
-        image: "https://i.ytimg.com/vi/jxWOzyMrYL4/sddefault.jpg",
-        options: ["El Desafío de los Gobots", "Astroboy", "Candy Candy", "Fonzie"],
-        correctAnswer: "El Desafío de los Gobots"
+        "image": "https://i.ytimg.com/vi/jxWOzyMrYL4/sddefault.jpg",
+        "options": ["El Desafío de los Gobots", "Astroboy", "Candy Candy", "Fonzie"],
+        "correctAnswer": "El Desafío de los Gobots"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCldOPcbqt3TbJlhAc_CiqGNKk0oMvrWzmhA&s",
-        options: ["Jayce Los Guerreros Rodantes", "She-Ra", "Jet Marte", "Fresita"],
-        correctAnswer: "Jayce Los Guerreros Rodantes"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCldOPcbqt3TbJlhAc_CiqGNKk0oMvrWzmhA&s",
+        "options": ["Jayce Los Guerreros Rodantes", "She-Ra", "Jet Marte", "Fresita"],
+        "correctAnswer": "Jayce Los Guerreros Rodantes"
     },
     {
-        image: "https://i.etsystatic.com/6692951/r/il/63b77b/772790036/il_570xN.772790036_6sj6.jpg",
-        options: ["He-Man", "Thundarr el Bárbaro", "La Isla del Tesoro", "Voltron (Leones)"],
-        correctAnswer: "Thundarr el Bárbaro"
+        "image": "https://i.etsystatic.com/6692951/r/il/63b77b/772790036/il_570xN.772790036_6sj6.jpg",
+        "options": ["He-Man", "Thundarr el Bárbaro", "La Isla del Tesoro", "Voltron (Leones)"],
+        "correctAnswer": "Thundarr el Bárbaro"
     },
     {
-        image: "https://i.pinimg.com/736x/35/fc/b3/35fcb3285356c75e7541c7c3fbef93b5.jpg",
-        options: ["Jet Marte", "Los Centinelas del Espacio", "Los Super Amigos", "La Brujita Sally"],
-        correctAnswer: "Jet Marte"
+        "image": "https://i.pinimg.com/736x/35/fc/b3/35fcb3285356c75e7541c7c3fbef93b5.jpg",
+        "options": ["Jet Marte", "Los Centinelas del Espacio", "Los Super Amigos", "La Brujita Sally"],
+        "correctAnswer": "Jet Marte"
     },
     {
-        image: "https://i.pinimg.com/236x/c0/a5/1d/c0a51d0eb19429b06f2a44b4b333ae07.jpg",
-        options: ["Astroboy", "El Genio Shazzan", "Cool Mc Cool", "Capitán Futuro"],
-        correctAnswer: "Astroboy"
+        "image": "https://i.pinimg.com/236x/c0/a5/1d/c0a51d0eb19429b06f2a44b4b333ae07.jpg",
+        "options": ["Astroboy", "El Genio Shazzan", "Cool Mc Cool", "Capitán Futuro"],
+        "correctAnswer": "Astroboy"
     },
     {
-        image: "https://i.pinimg.com/736x/f0/cb/00/f0cb003591a3da0c6abad7becc64c293.jpg",
-        options: ["Voltron (Vehículos)", "Fonzie", "Blackstar", "Candy Candy"],
-        correctAnswer: "Blackstar"
+        "image": "https://i.pinimg.com/736x/f0/cb/00/f0cb003591a3da0c6abad7becc64c293.jpg",
+        "options": ["Voltron (Vehículos)", "Fonzie", "Blackstar", "Candy Candy"],
+        "correctAnswer": "Blackstar"
     },
     {
-        image: "https://i.ytimg.com/vi/XkjMUFWg9GY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3PHRzAPZgE_9b6i5oyKXHwvElbg",
-        options: ["Los Defensores de la Tierra", "Thundarr el Bárbaro", "Los Pitufos", "Los Ewoks"],
-        correctAnswer: "Los Defensores de la Tierra"
+        "image": "https://i.ytimg.com/vi/XkjMUFWg9GY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3PHRzAPZgE_9b6i5oyKXHwvElbg",
+        "options": ["Los Defensores de la Tierra", "Thundarr el Bárbaro", "Los Pitufos", "Los Ewoks"],
+        "correctAnswer": "Los Defensores de la Tierra"
     },
     {
-        image: "https://m.media-amazon.com/images/I/71eDjBLxNpL._AC_UF894,1000_QL80_.jpg",
-        options: ["She-Ra", "Candy Candy", "Voltron (Vehículos)", "Heidi"],
-        correctAnswer: "She-Ra"
+        "image": "https://m.media-amazon.com/images/I/71eDjBLxNpL._AC_UF894,1000_QL80_.jpg",
+        "options": ["She-Ra", "Candy Candy", "Voltron (Vehículos)", "Heidi"],
+        "correctAnswer": "She-Ra"
     },
     {
-        image: "https://i.ytimg.com/vi/FP6ZbQp9AeM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVygyMA8=&rs=AOn4CLB5I7zMy4cmRq20HiGBdveJMtF4Eg",
-        options: ["David el Gnomo", "La Isla del Tesoro", "Jem", "Fuerza G"],
-        correctAnswer: "La Isla del Tesoro"
+        "image": "https://i.ytimg.com/vi/FP6ZbQp9AeM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVygyMA8=&rs=AOn4CLB5I7zMy4cmRq20HiGBdveJMtF4Eg",
+        "options": ["David el Gnomo", "La Isla del Tesoro", "Jem", "Fuerza G"],
+        "correctAnswer": "La Isla del Tesoro"
     },
     {
-        image: "https://i.pinimg.com/474x/14/1f/72/141f72d7a975328ab90f5d7f2b922f39.jpg",
-        options: ["Grand Prix", "El Genio Shazzan", "Astroboy", "M.A.S.K."],
-        correctAnswer: "Grand Prix"
+        "image": "https://i.pinimg.com/474x/14/1f/72/141f72d7a975328ab90f5d7f2b922f39.jpg",
+        "options": ["Grand Prix", "El Genio Shazzan", "Astroboy", "M.A.S.K."],
+        "correctAnswer": "Grand Prix"
     }
     ,
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPweD18JN7TYfnzRLaPGLbjg8yDFjl323-A&s",
-        options: ["Las Aventuras de Gigi", "El Increíble Hulk", "Bravestarr", "Los Cazafantasmas"],
-        correctAnswer: "Las Aventuras de Gigi"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPweD18JN7TYfnzRLaPGLbjg8yDFjl323-A&s",
+        "options": ["Las Aventuras de Gigi", "El Increíble Hulk", "Bravestarr", "Los Cazafantasmas"],
+        "correctAnswer": "Las Aventuras de Gigi"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1UuO02VC7con7XMio5jE3FzoYsx_eykvpA&s",
-        options: ["Los Thundercats", "La Mujer Araña", "Los Transformers", "El Super Agente Cobra"],
-        correctAnswer: "La Mujer Araña"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR1UuO02VC7con7XMio5jE3FzoYsx_eykvpA&s",
+        "options": ["Los Thundercats", "La Mujer Araña", "Los Transformers", "El Super Agente Cobra"],
+        "correctAnswer": "La Mujer Araña"
     },
     {
-        image: "https://i.pinimg.com/564x/b8/f5/d2/b8f5d23bd7d7fcd975b108a615ea4ca6.jpg",
-        options: ["Voltron (Leones)", "El Hombre Araña", "Godzilla", "Robotech & Mazinger Z"],
-        correctAnswer: "Godzilla"
+        "image": "https://i.pinimg.com/564x/b8/f5/d2/b8f5d23bd7d7fcd975b108a615ea4ca6.jpg",
+        "options": ["Voltron (Leones)", "El Hombre Araña", "Godzilla", "Robotech & Mazinger Z"],
+        "correctAnswer": "Godzilla"
     },
     {
-        image: "https://i.pinimg.com/236x/cc/bc/03/ccbc03641196057c13740e21ed173161.jpg",
-        options: ["Bravestarr", "Inhumanoids", "Los Centuriones", "Nave Espacial Yamato"],
-        correctAnswer: "Bravestarr"
+        "image": "https://i.pinimg.com/236x/cc/bc/03/ccbc03641196057c13740e21ed173161.jpg",
+        "options": ["Bravestarr", "Inhumanoids", "Los Centuriones", "Nave Espacial Yamato"],
+        "correctAnswer": "Bravestarr"
     },
     {
-        image: "https://i0.wp.com/brainstomping.com/wp-content/uploads/2017/02/inhumanoids-earth-corps.jpg?ssl=1",
-        options: ["Inhumanoids", "Los Pitufos", "Lady Óscar", "El Festival de los Robots"],
-        correctAnswer: "Inhumanoids"
+        "image": "https://i0.wp.com/brainstomping.com/wp-content/uploads/2017/02/inhumanoids-earth-corps.jpg?ssl=1",
+        "options": ["Inhumanoids", "Los Pitufos", "Lady Óscar", "El Festival de los Robots"],
+        "correctAnswer": "Inhumanoids"
     },
     {
-        image: "https://i.ytimg.com/vi/hT_5_DbOX7A/maxresdefault.jpg",
-        options: [ "Thundercats", "Capitán Raimar", "El Increíble Hulk","Arbegas el Rayo Custodio"],
-        correctAnswer: "El Increíble Hulk"
+        "image": "https://i.ytimg.com/vi/hT_5_DbOX7A/maxresdefault.jpg",
+        "options": [ "Thundercats", "Capitán Raimar", "El Increíble Hulk","Arbegas el Rayo Custodio"],
+        "correctAnswer": "El Increíble Hulk"
     },
     {
-        image: "https://www.cartv.es/thumbs/990x750r/sala-de-prensa/prensa-cartv-erase-una-vez-el-hombre-01.jpg",
-        options: [ "Los Centuriones", "Lady Óscar", "Bravestarr","Érase una vez el Hombre..."],
-        correctAnswer: "Érase una vez el Hombre..."
+        "image": "https://www.cartv.es/thumbs/990x750r/sala-de-prensa/prensa-cartv-erase-una-vez-el-hombre-01.jpg",
+        "options": [ "Los Centuriones", "Lady Óscar", "Bravestarr","Érase una vez el Hombre..."],
+        "correctAnswer": "Érase una vez el Hombre..."
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihj33DxnYvlMWAz2h8dNgO9toeg1O7SuepA&s",
-        options: ["Capitán Raimar", "El Hombre Araña (1967)", "Voltron (Leones)", "Los Centuriones"],
-        correctAnswer: "Los Centuriones"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihj33DxnYvlMWAz2h8dNgO9toeg1O7SuepA&s",
+        "options": ["Capitán Raimar", "El Hombre Araña (1967)", "Voltron (Leones)", "Los Centuriones"],
+        "correctAnswer": "Los Centuriones"
     },
     {
-        image: "https://elcomercio.pe/resizer/0bwSaZRN05uCQm_AALMGYpFh_j4=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/KYKCHLRRAJB3HGZHV6R5HUD3JM.png",
-        options: ["Lady Óscar", "Los Super Amigos", "Arbegas el Rayo Custodio", "Robotech & Mazinger Z"],
-        correctAnswer: "Lady Óscar"
+        "image": "https://elcomercio.pe/resizer/0bwSaZRN05uCQm_AALMGYpFh_j4=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/KYKCHLRRAJB3HGZHV6R5HUD3JM.png",
+        "options": ["Lady Óscar", "Los Super Amigos", "Arbegas el Rayo Custodio", "Robotech & Mazinger Z"],
+        "correctAnswer": "Lady Óscar"
     },
     {
-        image: "https://s3.amazonaws.com/dam.smashmexico.com.mx/wp-content/uploads/2018/11/dc-super-friends-evolucion-cover-1-1024x573.jpg",
-        options: [ "He-Man", "Fantasmagorico","Los Super Amigos", "Voltron (Leones)"],
-        correctAnswer: "Los Super Amigos"
+        "image": "https://s3.amazonaws.com/dam.smashmexico.com.mx/wp-content/uploads/2018/11/dc-super-friends-evolucion-cover-1-1024x573.jpg",
+        "options": [ "He-Man", "Fantasmagorico","Los Super Amigos", "Voltron (Leones)"],
+        "correctAnswer": "Los Super Amigos"
     },
     {
-        image: "https://i0.wp.com/brainstomping.com/wp-content/uploads/2021/10/star-blazers-yamato-70s.jpg?resize=768%2C604&ssl=1",
-        options: ["Capitán Centella", "He-Man", "El Super Agente Cobra", "Nave Espacial Yamato"],
-        correctAnswer: "Nave Espacial Yamato"
+        "image": "https://i0.wp.com/brainstomping.com/wp-content/uploads/2021/10/star-blazers-yamato-70s.jpg?resize=768%2C604&ssl=1",
+        "options": ["Capitán Centella", "He-Man", "El Super Agente Cobra", "Nave Espacial Yamato"],
+        "correctAnswer": "Nave Espacial Yamato"
     },
     {
-        image: "https://dibujando.net/files/fs/p/c/900x1000/2019/35/02_Gekko_Kamen_384229.jpg",
-        options: ["Los Transformers", "El Super Agente Cobra", "Capitán Centella", "Los Thundercats"],
-        correctAnswer: "Capitán Centella"
+        "image": "https://dibujando.net/files/fs/p/c/900x1000/2019/35/02_Gekko_Kamen_384229.jpg",
+        "options": ["Los Transformers", "El Super Agente Cobra", "Capitán Centella", "Los Thundercats"],
+        "correctAnswer": "Capitán Centella"
     },
     {
-        image: "https://i.pinimg.com/originals/30/ac/48/30ac48eaedfb91de4446b2d09757f67b.jpg",
-        options: ["Capitán Futuro", "Voltron (Leones)", "He-Man", "Ironman 28"],
-        correctAnswer: "Voltron (Leones)"
+        "image": "https://i.pinimg.com/originals/30/ac/48/30ac48eaedfb91de4446b2d09757f67b.jpg",
+        "options": ["Capitán Futuro", "Voltron (Leones)", "He-Man", "Ironman 28"],
+        "correctAnswer": "Voltron (Leones)"
     },
     {
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53LLtaSeW0Neijm5p_eEAb4gGClXtumOLRA&s",
-        options: ["El Hombre Araña (1967)", "Fantasmagorico", "Robotech & Mazinger Z", "El Festival de los Robots"],
-        correctAnswer: "El Hombre Araña (1967)"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53LLtaSeW0Neijm5p_eEAb4gGClXtumOLRA&s",
+        "options": ["El Hombre Araña (1967)", "Fantasmagorico", "Robotech & Mazinger Z", "El Festival de los Robots"],
+        "correctAnswer": "El Hombre Araña (1967)"
     },
     {
-        image: "https://i.pinimg.com/236x/6b/ed/b8/6bedb883278cb4e797e95651997ae34d.jpg",
-        options: ["Las Aventuras de Gigi", "Calabozos y Dragones", "El Festival de los Robots", "Los Transformers"],
-        correctAnswer: "Las Aventuras de Gigi"
+        "image": "https://i.pinimg.com/236x/6b/ed/b8/6bedb883278cb4e797e95651997ae34d.jpg",
+        "options": ["Las Aventuras de Gigi", "Calabozos y Dragones", "El Festival de los Robots", "Los Transformers"],
+        "correctAnswer": "Las Aventuras de Gigi"
     },
     {
-        image: "https://i.pinimg.com/474x/c7/14/c1/c714c1b2ee4f8cb74705cabd97af440a.jpg",
-        options: ["Robotech & Mazinger Z", "Voltron (Leones)", "Arbegas el Rayo Custodio", "He-Man"],
-        correctAnswer: "Arbegas el Rayo Custodio"
+        "image": "https://i.pinimg.com/474x/c7/14/c1/c714c1b2ee4f8cb74705cabd97af440a.jpg",
+        "options": ["Robotech & Mazinger Z", "Voltron (Leones)", "Arbegas el Rayo Custodio", "He-Man"],
+        "correctAnswer": "Arbegas el Rayo Custodio"
     },
     {
-        image: "https://i.pinimg.com/originals/6d/fc/68/6dfc68dc251e1c18d9401c0b4dc35f1f.jpg",
-        options: ["Ironman 28", "Los Thundercats", "Los Transformers", "Los Cazafantasmas"],
-        correctAnswer: "Ironman 28"
+        "image": "https://i.pinimg.com/originals/6d/fc/68/6dfc68dc251e1c18d9401c0b4dc35f1f.jpg",
+        "options": ["Ironman 28", "Los Thundercats", "Los Transformers", "Los Cazafantasmas"],
+        "correctAnswer": "Ironman 28"
     },
     {
-        image: "https://i0.wp.com/accioncomics.cl/wp-content/uploads/2023/03/GAIKINGNota.jpg?resize=768%2C452&ssl=1",
-        options: ["El Festival de los Robots", "El Hombre Araña (1967)", "Capitán Centella", "Los Super Amigos"],
-        correctAnswer: "El Festival de los Robots"
+        "image": "https://i0.wp.com/accioncomics.cl/wp-content/uploads/2023/03/GAIKINGNota.jpg?resize=768%2C452&ssl=1",
+        "options": ["El Festival de los Robots", "El Hombre Araña (1967)", "Capitán Centella", "Los Super Amigos"],
+        "correctAnswer": "El Festival de los Robots"
     },
     {
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Alo-ZHXcj_m7dytpdZF6pA4lLE8HrKR4Vg&s",
