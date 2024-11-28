@@ -33,7 +33,7 @@
     <script>
         let questions=[];
         function loadQuestions() {
-            fetch('http://localhost/thefloor/dibuixos.json')
+            fetch('dibuixos.json')
             .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
