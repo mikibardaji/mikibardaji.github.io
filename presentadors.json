@@ -164,13 +164,17 @@
     "image": "https://www.estudiodecomunicacion.com/wp-content/uploads/2017/09/FotoWeb_LadislaoAzcona-1.jpg"
   },
   {
-    "correctAnswer": "Izaskun Azurmendi",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KD8dTXtXdjMPXvZ2NL058M1olX22_R8DsQ&s"
-  }
-,
-  {"correctAnswer": "Josep Maria Bachs", "image": "https://img2.rtve.es/imagenes/dos-tres-josep-maria-bachs-presenta-paula-vazquez/1416220956079.jpg"},
-  {"correctAnswer": "Gema Balbás", "image": "https://i.ytimg.com/vi/NPnc2Kdgw7M/hqdefault.jpg"},
-  {"correctAnswer": "Inés Ballester", "image": "https://hips.hearstapps.com/hmg-prod/images/inesballesterlookdenim-1620829673.jpg"},
+    "correctAnswer": "Josep Maria Bachs", 
+    "image": "https://img2.rtve.es/imagenes/dos-tres-josep-maria-bachs-presenta-paula-vazquez/1416220956079.jpg"
+  },
+  {
+    "correctAnswer": "Gema Balbás", 
+    "image": "https://i.ytimg.com/vi/NPnc2Kdgw7M/hqdefault.jpg"
+  },
+  {
+    "correctAnswer": "Inés Ballester", 
+    "image": "https://hips.hearstapps.com/hmg-prod/images/inesballesterlookdenim-1620829673.jpg"
+  },
   {"correctAnswer": "Albert Barniol", "image": "https://imagenes.cope.es/files/content_image/uploads/2024/07/14/6692fe70753d1.jpeg"},
   {"correctAnswer": "Martín Barreiro", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPRgGBDsz6xsH8_X3VAJZQh8uMywU5eRmVw&s"},
   {"correctAnswer": "Pedro Barthe", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYYVzBVUiWL7KAY9s7BbZQEygMA63Sex3VQ&s"},
