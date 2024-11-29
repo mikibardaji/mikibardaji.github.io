@@ -1,0 +1,657 @@
+[
+  {
+    "correctAnswer": "Marisa Abad",
+    "image": "https://imagenes2.fotos.europapress.es/preview/2189350.jpg?s=1000"
+  },
+  {
+    "correctAnswer": "José Antonio Abellán",
+    "image": "https://newmedia.ufm.edu/wp-content/uploads/2016/11/p_Abellanexperienciasradio.jpg"
+  },
+  {
+    "correctAnswer": "Andrés Aberasturi",
+    "image": "https://img.asmedia.epimg.net/resizer/v2/2TU6MUCCIVBWNBRGOV32BWC5PM.jpg?auth=94fdcdc49c76d70d2a3f2fb464ee0f71b7cf82fb3c8f9e47a3e749cc14986d25&width=1472&height=1104&smart=true"
+  },
+  {
+    "correctAnswer": "María Abradelo",
+    "image": "https://www.formulatv.com/images/articulos/82000/n82957_7892aa0da4-c4.jpg"
+  },
+  {
+    "correctAnswer": "Jota Abril",
+    "image": "https://images.ecestaticos.com/ZrbpyOizkOUgTcPD0QBeqxegiBI=/381x7:1080x532/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf1%2F78a%2F785%2Fbf178a785579997b90fb8f2feaf27ec2.jpg"
+  },
+  {
+    "correctAnswer": "Luis Aguilé",
+    "image": "https://preview.efe.com/previo?x=jpqmR8EiGMe8aUzsvf5zQrXiVa5QUArqxzwoAbTVgRPOHnt1jcU60iXJc8aOmRG0ZAA0mY60E%2BuOs50Qv7O5AylhDzrouq8tCULeV2rgSykUPhzUwIfUrKlDU4cHv9Qk%2F3s51d9C8NStx%2Fv%2FhufsqZdaq%2B7z12D7&a=cefsp"
+  },
+  {
+    "correctAnswer": "Santiago Alcanda",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRKPWrFWdLSHvWH2wOlsiKUukaZ5Z29Xcig&s"
+  },
+  {
+    "correctAnswer": "Eduardo Aldán",
+    "image": "https://s3.ppllstatics.com/diariovasco/www/pre2017/multimedia/noticias/201611/19/media/19370706.JPG"
+  },
+  {
+    "correctAnswer": "Begoña Alegría",
+    "image": "https://img2.rtve.es/i/?w=1600&i=1597743556272.jpg"
+  },
+  {
+    "correctAnswer": "Txumari Alfaro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Txumari_Alfaro_%28Diada_de_Sant_Jordi_2009%29_%28cropped%29.jpg/800px-Txumari_Alfaro_%28Diada_de_Sant_Jordi_2009%29_%28cropped%29.jpg"
+  },
+  {
+    "correctAnswer": "Manuel Almendros",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXp2qKjc-waq3QAzMbfY7jSwNAn_SdHy1kPfr8XVCTm1_5_mJCyW9a0oWBt__kzO9TiY0YbGB5EquwqpFUw_j9eXUe9PpYyb_SxIZ4m2ck7j-nFb_wiRR6SAjsoDGV92K1dthjNufPW9Kg/s280/vlcsnap-2014-03-14-01h00m37s174.png"
+  },
+  {
+    "correctAnswer": "Anabel Alonso",
+    "image": "https://www.formulatv.com/images/noticias/73800/73801/7_7e4b215508.jpg"
+  },
+  {
+    "correctAnswer": "Carmina Alonso",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizFseUgHTkd6sQLeMXjY431P0GDxWglIq_uhIVw7msy9XldT6vwYT2vkWysMvJYVkzGMZqjn2EWvyfvxNmaSf7dzVVZvnxkBG8JeL9DTAeylnXsqjsYux6275jhtZocQpbd6uap_m05JEL/s1600/Carmina+Alonso+03.jpg"
+  },
+  {
+    "correctAnswer": "Patxi Alonso",
+    "image": "https://images.ecestaticos.com/jFLUaCnZk4OCr41LfuEtVFgFQ_0=/0x0:1834x1312/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5b6%2F6f1%2F735%2F5b66f17352ea19375e4cd46c4a9746d5.jpg"
+  },
+  {
+    "correctAnswer": "Salvador Alsius",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Salvador_Alsius_%285579815470%29_%28cropped%29.jpg"
+  },
+  {
+    "correctAnswer": "Pedro Altares",
+    "image": "https://imagenes.elpais.com/resizer/v2/BLNH7EQ737GWFOD5ENHUCSXZVM.jpg?auth=cfb6eae2aa8554f410da5d674cec99f877a25fa52598596fc48c730cfa5b280c&width=414"
+  },
+  {
+    "correctAnswer": "Jesús Álvarez",
+    "image": "https://www.apmadrid.es/wp-content/uploads/2012/11/Foto%20de%20Jesus%20Alvarez.jpg"
+  },
+  {
+    "correctAnswer": "Blanca Álvarez",
+    "image": "https://example.com/blanca-alvarez-mantilla.jpg"
+  },
+  {
+    "correctAnswer": "Jesús Álvarez García",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiiTnsOaA2zbJttHC3-Uyh9HVo4QTrct5WhFCmQYBvitSAvVbfwDGPP_d8JhvJsEVk6W80O7E2iIn1gf3nOQD2Zn_a7MFWZ0uzoJsYe49KGs5-GBDAqngn_kTV9NfVyht9iahZJu_xklh/s1600/Blanca+Alvarez+1.jpg"
+  },
+  {
+    "correctAnswer": "Nieves Álvarez",
+    "image": "https://content.semana.es/medio/2022/09/semana-que-producto-infalible-usa-nieves-alvarez-para-lucir-radiante-en-todos-los-eventos-desvelamos-su-truco-2048x1152.jpg"
+  },
+  {
+    "correctAnswer": "Gerardo Amechazurra",
+    "image": "https://www.tebeosfera.com/T3content/img/T3_autores/r/a/gerardo_r_amechazurra.jpg"
+  },
+  {
+    "correctAnswer": "Alfredo Amestoy",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIt7cPpDhKlEwHPx1iSYIP8pz9lGdAetG6w&s"
+  },
+  {
+    "correctAnswer": "Jesús María Amilibia",
+    "image": "https://img2.rtve.es/a/6378411/?imgProgApi=imgBackground&w=800"
+  },
+  {
+    "correctAnswer": "Carlos del Amor",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/6b7fc58c-261c-42ce-ac5c-fa1e11254ea6_alta-libre-aspect-ratio_default_0.jpg"
+  },
+  {
+    "correctAnswer": "Ángel de Andrés",
+    "image": "https://hips.hearstapps.com/es.h-cdn.co/teleprogramaes/images/famosos-television/2016/mayo/muere-angel-del-andres-manolo-y-benito/angel-de-andres-desde-que-amanece/10607552-1-esl-ES/angel-de-andres-desde-que-amanece.jpg?resize=980:*"
+  },
+  {
+    "correctAnswer": "José Andrés",
+    "image": "https://images.ecestaticos.com/xVn_zYfwYBu-E-dG1fk6Bwbaxhc=/259x0:1697x1078/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F322%2Fa62%2F714%2F322a62714f971804eb66dfc7d1139edc.jpg"
+  },
+  {
+    "correctAnswer": "Karmele Aranburu",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgTMHaSUp4rgQWZK9HZg8YAfJ-8Upg6hRRA&s"
+  },
+  {
+    "correctAnswer": "Ainhoa Arbizu",
+    "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/12/05/638d9bf72c77e.r_d.341-117-14851.jpeg"
+  },
+  {
+    "correctAnswer": "Fernando Argenta",
+    "image": "https://img2.rtve.es/v/2193169?w=1600&preview=1386105526387.jpg"
+  },
+  {
+    "correctAnswer": "Luján Argüelles",
+    "image": "https://fotografias.larazon.es/clipping/cmsimages02/2023/02/21/600379C4-44D1-4021-BBF7-65A2C6855EC4/lujan-arguelles-sera-presentadora-brigada-tech_98.jpg?crop=1600,900,x0,y0&width=1900&height=1069&optimize=low&format=webply"
+  },
+  {
+    "correctAnswer": "Karlos Arguiñano",
+    "image": "https://s1.elespanol.com/2020/08/18/corazon/television/television_513959919_157939559_1024x576.jpg"
+  },
+  {
+    "correctAnswer": "Imanol Arias",
+    "image": "https://cultoro.es/wp-content/uploads/2022/07/imanol-arias.jpg"
+  },
+  {
+    "correctAnswer": "Beatriz Ariño",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgoqifIzTk2_W-dtu3MWeSdPVZv61ZK_ezQ&s"
+  },
+  {
+    "correctAnswer": "Almudena Ariza",
+    "image": "https://images.ecestaticos.com/8MXf0ZuyNBddPnIa3ml0iXxpH4w=/0x0:1964x1066/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1b2%2F968%2F660%2F1b296866009d3b5f8b29d0607214f155.jpg"
+  },
+  {
+    "correctAnswer": "Silvia Arlet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Silvia_Tortosa.jpg/150px-Silvia_Tortosa.jpg"
+  },
+  {
+    "correctAnswer": "Joaquín Arozamena",
+    "image": "https://www.65ymas.com/uploads/s1/36/66/6/joaquin-arozamena-rtve.jpeg"
+  },
+  {
+    "correctAnswer": "Esther Arroyo",
+    "image": "https://images.ecestaticos.com/nWIGxi2ojeN0uUWLlyhVjN_MIEY=/51x17:1903x1059/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F977%2F35c%2Fd50%2F97735cd50cf29fdbb90551c5bf232ee2.jpg"
+  },
+  {
+    "correctAnswer": "Rosa María Artal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rosa-Maria-Artal-Marta-Jara_EDIIMA20130427_0044_1_%28cropped%29.jpg"
+  },
+  {
+    "correctAnswer": "Alfonso Arús",
+    "image": "https://www.pronto.es/files/main_image/uploads/2023/06/22/6494066cf2e66.webp"
+  },
+  {
+    "correctAnswer": "María Avizanda",
+    "image": "https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2023/07/30/maria-avizanda-en-el-intermedio.jpeg"
+  },
+  {
+    "correctAnswer": "Lalo Azcona",
+    "image": "https://www.estudiodecomunicacion.com/wp-content/uploads/2017/09/FotoWeb_LadislaoAzcona-1.jpg"
+  },
+  {
+    "correctAnswer": "Izaskun Azurmendi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KD8dTXtXdjMPXvZ2NL058M1olX22_R8DsQ&s"
+  }
+,
+  {"name": "Josep Maria Bachs", "image_url": "https://www.formulatv.com/images/famosos/josep-maria-bachs_1.jpg"},
+  {"name": "Gema Balbás", "image_url": "https://www.formulatv.com/images/famosos/gema-balbas_1.jpg"},
+  {"name": "Inés Ballester", "image_url": "https://www.formulatv.com/images/famosos/ines-ballester_1.jpg"},
+  {"name": "Albert Barniol", "image_url": "https://www.formulatv.com/images/famosos/albert-barniol_1.jpg"},
+  {"name": "Martín Barreiro", "image_url": "https://www.formulatv.com/images/famosos/martin-barreiro_1.jpg"},
+  {"name": "Pedro Barthe", "image_url": "https://www.formulatv.com/images/famosos/pedro-barthe_1.jpg"},
+  {"name": "Carlos Beltrán Castillón", "image_url": "https://www.formulatv.com/images/famosos/carlos-beltran-castillon_1.jpg"},
+  {"name": "Luis de Benito", "image_url": "https://www.formulatv.com/images/famosos/luis-de-benito_1.jpg"},
+  {"name": "Consuelo Berlanga", "image_url": "https://www.formulatv.com/images/famosos/consuelo-berlanga_1.jpg"},
+  {"name": "Ana Blanco", "image_url": "https://www.formulatv.com/images/famosos/ana-blanco_1.jpg"},
+  {"name": "Lydia Bosch", "image_url": "https://www.formulatv.com/images/famosos/lydia-bosch_1.jpg"},
+  {"name": "Vicente Botín", "image_url": "https://www.formulatv.com/images/famosos/vicente-botin_1.jpg"},
+  {"name": "Ángeles Bravo", "image_url": "https://www.formulatv.com/images/famosos/angeles-bravo_1.jpg"},
+  {"name": "Pepa Bueno", "image_url": "https://www.formulatv.com/images/famosos/pepa-bueno_1.jpg"},
+  {"name": "Maruja Callaved", "image_url": "https://www.formulatv.com/images/famosos/maruja-callaved_1.jpg"},
+  {"name": "María Teresa Campos", "image_url": "https://www.formulatv.com/images/famosos/maria-teresa-campos_1.jpg"},
+  {"name": "David Cantero", "image_url": "https://www.formulatv.com/images/famosos/david-cantero_1.jpg"},
+  {"name": "Toni Cantó", "image_url": "https://www.formulatv.com/images/famosos/toni-canto_1.jpg"},
+  {"name": "Arsenio Cañada", "image_url": "https://www.formulatv.com/images/famosos/arsenio-canada_1.jpg"},
+  {"name": "Marta Carazo", "image_url": "https://www.formulatv.com/images/famosos/marta-carazo_1.jpg"},
+  {"name": "Paco Caro", "image_url": "https://www.formulatv.com/images/famosos/paco-caro_1.jpg"},
+  {"name": "María Casado Paredes", "image_url": "https://www.formulatv.com/images/famosos/maria-casado-paredes_1.jpg"},
+  {"name": "Carolina Casado", "image_url": "https://www.formulatv.com/images/famosos/carolina-casado_1.jpg"},
+  {"name": "Inmaculada Casal", "image_url": "https://www.formulatv.com/images/famosos/inmaculada-casal_1.jpg"},
+  {"name": "María Casal", "image_url": "https://www.formulatv.com/images/famosos/maria-casal_1.jpg"},
+  {"name": "Pepe Domingo Castaño", "image_url": "https://www.formulatv.com/images/famosos/pepe-domingo-castano_1.jpg"},
+  {"name": "Jenaro Castro", "image_url": "https://www.formulatv.com/images/famosos/jenaro-castro_1.jpg"},
+  {"name": "Paloma Chamorro", "image_url": "https://www.formulatv.com/images/famosos/paloma-chamorro_1.jpg"},
+{"correctAnswer": "Georgina Cisquella", "image": "https://empodera.org/live/es/ponentes/georgina-cisquella"},
+  {"correctAnswer": "Paco Costas", "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Paco_Costas_%28Television%29.jpg"},
+  {"correctAnswer": "Carlos Dávila", "image": "https://es.wikipedia.org/wiki/Archivo:Carlos_Dávila_en_2015.jpg"},
+  {"correctAnswer": "Sandra Daviú", "image": "https://www.rtve.es/alacarta/videos/programas-completos/sandra-daviu-presentadora-tve/"},
+  {"correctAnswer": "Miguel de la Quadra-Salcedo", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Miguel_de_la_Quadra-Salcedo.jpg"},
+  {"correctAnswer": "Ana de Roque", "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ana_de_Roque.jpg"},
+  {"correctAnswer": "Fernando Díaz de la Guardia", "image": "https://www.europapress.es/cultura/noticia-fernando-diaz-guardia-presentador-television-fallece-20231005124656.html"},
+  {"correctAnswer": "Marujita Díaz", "image": "https://www.telecinco.es/cincomas/programas/marujita-diaz_fotogramas.jpg"},
+  {"correctAnswer": "Virginia Díaz", "image": "https://www.rtve.es/alacarta/videos/programas-completos/virginia-diaz-presentadora/"},
+  {"correctAnswer": "Ana Duato", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ana_Duato_%28cropped%29.jpg"},
+  {"correctAnswer": "Juan Echanove", "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Juan_Echanove_2015.jpg"},
+  {"correctAnswer": "María Escario", "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mar%C3%ADa_Escario_%28cropped%29.jpg"},
+  {"correctAnswer": "Jana Escribano", "image": "https://es.wikipedia.org/wiki/Archivo:Jana_Escribano.jpg"},
+  {"correctAnswer": "Faustino Fernández Álvarez", "image": "https://es.wikipedia.org/wiki/Archivo:Faustino_Fernández.jpg"},
+  {"correctAnswer": "Sergio Fernández Luque", "image": "https://www.abc.es/media/2019/02/08/sergio-fernandez-luque-850x560.jpg"},
+  {"correctAnswer": "Adolfo Fernández", "image": "https://es.wikipedia.org/wiki/Archivo:Adolfo_Fernández_en_2013.jpg"},
+  {"correctAnswer": "Fernando Fernández Román", "image": "https://www.eldiario.es/cultura/feria-libro-fernando-fernandez-roman-un-sueño-para-pais_1_2182550.html"},
+  {"correctAnswer": "Andoni Ferreño", "image": "https://www.marca.com/2024/03/17/andoni-ferreño.jpg"},
+  {"correctAnswer": "Sonia Ferrer", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sonia_Ferrer_2016.jpg"},
+  {"correctAnswer": "José Miguel Flores", "image": "https://www.rtve.es/alacarta/videos/rtve-jovenes/jose-miguel-flores-y-su-nueva-ruta-jovenes/"},
+  {"correctAnswer": "Xabier Fortes", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Xabier_Fortes.jpg"},
+  {"correctAnswer": "José Luis Fradejas", "image": "https://es.wikipedia.org/wiki/Archivo:José_Luis_Fradejas.jpg"},
+  {"correctAnswer": "Carlos Franganillo", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Carlos_Franganillo_2015.jpg"},
+  {"correctAnswer": "Iñaki Gabilondo", "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/I%C3%B1aki_Gabilondo.jpg"},
+  {"correctAnswer": "Francine Gálvez", "image": "https://www.marca.com/2024/04/25/francine-galvez.jpg"},
+  {"correctAnswer": "Urbano García Alonso", "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Urbano_García_Alonso_2020.jpg"},
+  {"correctAnswer": "Concha García Campoy", "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Concha_Garc%C3%ADa_Campoy_%28cropped%29.jpg"},
+  {"correctAnswer": "Marta García Gómez", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Marta_García_Gómez.jpg"},
+  {"correctAnswer": "Alfonso García Martínez", "image": "https://www.revistajournal.com/alfonso-garcia-martinez.jpg"},
+  {"correctAnswer": "Mari Carmen García Vela", "image": "https://www.mundoplus.tv/entrevistas/mari-carmen-garcia-vela.jpg"},
+  {"correctAnswer": "Ramón García", "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ramón_García.jpg"},
+  {"correctAnswer": "Patricia Gaztañaga", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Patricia_Gaztañaga_2016.jpg"},
+  {"correctAnswer": "Isabel Gemio", "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Isabel_Gemio_2013.jpg"},
+  {"correctAnswer": "Estela Giménez", "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Estela_Giménez.jpg"},
+  {"correctAnswer": "Marc Giró", "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marc_Giró.jpg"},
+  {"correctAnswer": "Ángel Gómez Fuentes", "image": "https://www.elconfidencial.com/cultura/2022/09/13/angel-gomez-fuentes.jpg"},
+  {"correctAnswer": "Juan Gómez-Jurado", "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Juan_Gómez-Jurado_2014.jpg"},
+  {"correctAnswer": "Igor Gómez Maneiro", "image": "https://es.wikipedia.org/wiki/Archivo:Igor_Gómez_Maneiro.jpg"},
+  {"correctAnswer": "Chari Gómez Miranda", "image": "https://www.rtve.es/alacarta/videos/rtve/jovenes/chari-gomez-miranda-vocera/"},
+  {"correctAnswer": "Diego Gómez", "image": "https://www.eldiario.es/cultura/diego-gomez-2024.jpg"},
+  {"correctAnswer": "María Gómez", "image": "https://www.abc.es/media/2023/maria-gomez-rtve.jpg"},
+  {"correctAnswer": "Fernando Delgado", "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fernando_Delgado.jpg"},
+  {"correctAnswer": "Eloísa González", "image": "https://www.rtve.es/alacarta/videos/eloisa-gonzalez/"},
+  {"correctAnswer": "Jordi González", "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jordi_González.jpg"},
+  {"correctAnswer": "El Gran Wyoming", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Gran_Wyoming_2018.jpg"},
+  {"correctAnswer": "Paco Grande", "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Paco_Grande_2018.jpg"},
+  {"correctAnswer": "Susanna Griso", "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Susanna_Griso_2020.jpg"},
+  {"correctAnswer": "Cayetana Guillén Cuervo", "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cayetana_Guillén_Cuervo.jpg"},
+  {"correctAnswer": "Marta Hazas", "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Marta_Hazas_2019.jpg"},
+  {"correctAnswer": "Jesús Hermida", "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jes%C3%BAs_Hermida_2015.jpg"},
+  {"correctAnswer": "Inés Hernand", "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Inés_Hernand_2016.jpg"},
+  {"correctAnswer": "Alejandra Herranz", "image": "https://www.abc.es/media/2022/alejandra-herranz.jpg"},
+  {"correctAnswer": "Nieves Herrero", "image": "https://upload.wikimedia.org"}
+,
+  {
+    "correctAnswer": "Pablo Herreros Ubalde",
+    "image": "https://content20.lecturas.com/medio/2018/12/24/muere-el-presentador-pablo-herrereros-ubalde-con-solo-42-anos_936f3efe_640x640.jpg"
+  },
+  {
+    "correctAnswer": "José Hervás",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0bFHAMRmH0eAWAXdG2bI-USnkqKQcqB-HA&s"
+  },
+  {
+    "correctAnswer": "Mercedes Hoyos",
+    "image": "https://filmand.es/wp-content/uploads/2018/01/Mercedes-Hoyos-1-e1694200508150-843x434.jpg"
+  },
+  {
+    "correctAnswer": "Jordi Hurtado",
+    "image": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/202106/16/media/cortadas/jordi-hurtado-k2oE-U140730520806Qv-1248x770@Las%20Provincias.jpg"
+  },
+  {
+    "correctAnswer": "Julian Iantzi",
+    "image": "https://img2.rtve.es/i/?w=1600&i=1694157212920.jpg"
+  },
+  {
+    "correctAnswer": "Ana Ibáñez Llorente",
+    "image": "https://www.radioharo.com/wp-content/uploads/2019/06/ana-kSeE-624x385@Ideal.jpg"
+  },
+  {
+    "correctAnswer": "Anne Igartiburu",
+    "image": "https://content20.lecturas.com/medio/2021/02/09/anne-igartuburu_ef68e512_800x490.jpg"
+  },
+  {
+    "correctAnswer": "Mari Carmen Izquierdo",
+    "image": "https://img.rtve.es/imagenes/muere-mari-carmen-izquierdo-pionera-del-periodismo-deportivo/1564517148395.jpg"
+  },
+  {
+    "correctAnswer": "Jandro (humorista)",
+    "image": "https://images.ecestaticos.com/GbTKXqGwkAP2rB2usWkbIDyw-U4=/178x4:928x567/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F220%2Fa4e%2F2f3%2F220a4e2f38e4f069834ab07600fdb95a.jpg"
+  },
+  {
+    "correctAnswer": "Marta Jaumandreu",
+    "image": "https://grupobcc.com/wp/wp-content/uploads/2021/10/Marta-Jaumandreu-presentadora-moderadora-eventos-e1633606149895.jpg"
+  },
+  {
+    "correctAnswer": "Goyo Jiménez",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/852b51c0-b7bb-45a1-b6d6-d1d62f034f9e_16-9-aspect-ratio_default_0.jpg"
+  }
+,
+  {
+    "correctAnswer": "Ruth Jiménez",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuY35gJ3OSaEv-Tj464nzcIryPOvHlQi2Aw&s"
+  },
+  {
+    "correctAnswer": "Karlos Klaumannsmoller",
+    "image": "https://ruthfranco.com/wp-content/uploads/2024/08/Karlos-Klaumannsmoller_portada_2024.jpg"
+  },
+  {
+    "correctAnswer": "José Antonio Labordeta",
+    "image": "https://www.ieturolenses.org/media/wysiwyg/WebsiteTuria/Lecturas/Lecturas18/noviembre/labordeta600.jpg"
+  },
+  {
+    "correctAnswer": "Olga Lambea Martínez",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3UqZlYEbjSxhw1JS86c7rk2BX42lYE6yZg&s"
+  },
+  {
+    "correctAnswer": "José Ángel Leiras",
+    "image": "https://pbs.twimg.com/profile_images/1534184388728180736/dDi_oLJs_400x400.jpg"
+  },
+  {
+    "correctAnswer": "Jordi Llavina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jordi_Llavina.jpg"
+  },
+  {
+    "correctAnswer": "Antonio Lobato",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Antonio_Lobato.jpg"
+  },
+  {
+    "correctAnswer": "Josep Lobató",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Josep_Lobato.jpg"
+  },
+  {
+    "correctAnswer": "Bernardino Lombao",
+    "image": "https://www.elmundo.es/imagenes/2016/07/04/entretenimiento/1467636716_474273_1467636989_noticia_normal.jpg"
+  },
+  {
+    "correctAnswer": "Santiago López Castillo",
+    "image": "https://infoperiodistas.info/img/noticias/23217.jpg"
+  },
+  {
+    "correctAnswer": "Marcos López",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2l9lEZTw8qqMUaynPdFHW26z8QvWovOU2rw&s"
+  },
+  {
+    "correctAnswer": "Mònica López Moyano",
+    "image": "https://www.elperiodico.com/resizer/AV9UzjdmXzGx6AK_R8VHJ5LyycM=/1000x750/filters:format(webp)/cloudfront-eu-central-1.images.arcpublishing.com/elperiodico/2WLKCVVRLNEOLTHN2XGWIEV66I.jpg"
+  },
+  {
+    "correctAnswer": "Óscar López",
+    "image": "https://www.uca.es/wp-content/uploads/2021/09/big-14-7.jpg"
+  },
+  {
+    "correctAnswer": "Francis Lorenzo",
+    "image": "https://images.ecestaticos.com/6k76nVX3uwsvjnD6UjVIFxdUTI8=/0x0:1280x720/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fef2%2F74b%2F062%2Fef274b0628b6135cfc69ffa532d782f8.jpg"
+  },
+  {
+    "correctAnswer": "Ángel Losada Velasco",
+    "image": "https://images.ecestaticos.com/6k76nVX3uwsvjnD6UjVIFxdUTI8=/0x0:1280x720/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fef2%2F74b%2F062%2Fef274b0628b6135cfc69ffa532d782f8.jpg"
+  },
+  {
+    "correctAnswer": "Diego Losada",
+    "image": "https://www.diccionarios.com/diccionario/es/images/diccionario/es/diego-losada_14220312.jpg"
+  },
+  {
+    "correctAnswer": "Carlos Lozano",
+    "image": "https://www.pronto.es/files/main_image_amp/uploads/2022/06/30/62bd5800b3bf6.jpeg"
+  },
+  {
+    "correctAnswer": "Mabel Lozano",
+    "image": "https://s.libertaddigital.com/2017/11/28/mabel-lozano-portada.jpg"
+  },
+  {
+    "correctAnswer": "Juan Ramón Lucas",
+    "image": "https://congreso.e-volucion.es/sites/default/files/lucas.jpg"
+  },
+  {
+    "correctAnswer": "Baltasar Magro",
+    "image": "https://theobjective.com/wp-content/uploads/2023/08/Baltasar-Magro-1988.-Gabinete-Prensa-RTVE.jpg"
+  },
+  {
+    "correctAnswer": "José Antonio Maldonado",
+    "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2008/06/26/839303a.jpg"
+  },
+
+  {
+    "correctAnswer": "Luis Mariñas",
+    "image": "https://img2.rtve.es/i/?h=800&i=1293467994290.jpg&crop=yes"
+  },
+  {
+    "correctAnswer": "Eugenio Martín Rubio",
+    "image": "https://services.meteored.com/img/article/234922-ha-fallecido-d-eugenio-martin-rubio-133651-3_1280.jpg"
+  },
+  {
+    "correctAnswer": "Ángel Martín",
+    "image": "https://www.hola.com/horizon/landscape/9507b09a5142-patriciayangelcumple1-t.jpg"
+  },
+  {
+    "correctAnswer": "Leonor Martín",
+    "image": "https://s1.elespanol.com/2023/04/28/actualidad/759684295_232763909_1706x1280.jpg"
+  },
+  {
+    "correctAnswer": "Alejandro Martínez (periodista)",
+    "image": "https://s1.elespanol.com/2023/04/28/actualidad/759684295_232763909_1706x1280.jpg"
+  },
+  {
+    "correctAnswer": "Óscar Martínez",
+    "image": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/10/19/634f8d1d25049.jpeg"
+  },
+  {
+    "correctAnswer": "Raquel Martínez",
+    "image": "https://images.ecestaticos.com/mZsHUvzWA5EplOCyykuIJ4NIW6Q=/93x0:605x384/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb36%2F706%2F1ab%2Fb367061ab5d12d3efd25b76377552a47.jpg"
+  },
+  {
+    "correctAnswer": "Sonia Martínez",
+    "image": "https://phantom-elmundo.unidadeditorial.es/44110505801cce83b53ea431c3431fcc/crop/215x19/3072x1923/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/04/17280424565413.jpg"
+  },
+  {
+    "correctAnswer": "Raquel Martos",
+    "image": "https://image.ondacero.es/clipping/cmsimages02/2015/09/08/2DBF3519-832B-4CCD-BD78-C3B80912F235/65.jpg"
+  },
+  {
+    "correctAnswer": "Lorenzo Milá",
+    "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/04/26/16825157465460.jpg"
+  },
+  {
+    "correctAnswer": "Mercedes Milá",
+    "image": "https://images.ecestaticos.com/ELyGEUJXVPwvOJcbh8FZu0_b-R4=/227x79:2143x1516/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa3f%2Feaa%2F012%2Fa3feaa0123cdeff1809a0aefa556acdb.jpg"
+  },
+  {
+    "correctAnswer": "Rosa María Molló",
+    "image": "https://static.eldiario.es/clip/9144437c-2f1d-48e5-8027-ac51de0c4076_16-9-aspect-ratio_default_0.jpg"
+  },
+  {
+    "correctAnswer": "Mariló Montero",
+    "image": "https://www.publico.es/uploads/2015/02/18/54e4cff863269.jpg"
+  },
+  {
+    "correctAnswer": "Paco Montesdeoca",
+    "image": "https://imagenes.cope.es/files/microformat_image/uploads/2024/07/13/6692df2b664e8.jpeg"
+  },
+  {
+    "correctAnswer": "Francisco Moreno García",
+    "image": "https://s03.s3c.es/imag/_v0/1200x655/a/b/6/francisco-moreno-garcia-1200-1-2-2.jpg"
+  },
+  {
+    "correctAnswer": "Toñi Moreno",
+    "image": "https://content20.lecturas.com/medio/2020/09/30/toni-moreno_ca2ab97a_800x490.jpg"
+  }
+,
+{
+  "correctAnswer": "Josep Puigbó",
+  "image": "https://www.topcomunicacion.com/wp-content/uploads/2020/03/Josep-Puigb%C3%B3-undatia-900-1.jpg"
+},
+{
+  "correctAnswer": "Eduardo Punset",
+  "image": "https://album.mediaset.es/eimg/2017/09/22/tx2rURPjuVd9JS6Rv8WAl6.jpg?w=1200"
+},
+{
+  "correctAnswer": "Joaquim Maria Puyal",
+  "image": "https://uh.gsstatic.es/deportes/futbol/2018/07/04/768601/joaquim-maria-puyal-deja-radio-tras-anos-narrando-partidos-del-bar-a.jpg"
+},
+{
+  "correctAnswer": "Jesús Quintero",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGgRiUxYEfUdQBiVxw0DlMtiSYrmaZP1lUw&s"
+},
+{
+  "correctAnswer": "Agustín Remesal",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6XeHBZEKJvK8e2fkOpJClBW6KgXeW42tIrZhuo2asjdAOPwzgKz4nSeLt-UVG9a1-vMmFHJNIcUt9-tmY561GMXdwfPcMbNVGJGt-op-pN1PC0X3FrMhf9zK0_MC581NtuDI9LIFD0vx/s1600/PDVD_361.BMP"
+},
+{
+  "correctAnswer": "Antonio Resines",
+  "image": "https://phantom-elmundo.unidadeditorial.es/a4f200f3854da66df92f42befd840c41/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/17/17159306862532.jpg"
+},
+{
+  "correctAnswer": "Marta Reyero",
+  "image": "https://album.mediaset.es/cimg/2024/01/26/marta-reyero_da39.jpg"
+},
+{
+  "correctAnswer": "Ivonne Reyes",
+  "image": "https://fotografias.larazon.es/clipping/cmsimages02/2019/08/09/89C1E8A9-6251-434C-B2B6-99286B3E99EB/98.jpg?crop=600,338,x0,y114&width=1900&height=1069&optimize=low&format=webply"
+},
+{
+  "correctAnswer": "José Ribagorda",
+  "image": "https://album.mediaset.es/eimg/2024/08/24/el-presentador-jose-ribagorda-ha-dedicado-unas-palabras-a-su-suegra-fallecida-en-el-informativo_0a83.png?w=1024"
+},
+{
+  "correctAnswer": "Paloma del Río",
+  "image": "https://images.ecestaticos.com/O2Is8YIcNj-Vlo49Xmy2Ohpt0tI=/0x2:2274x1707/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdaa%2Fb6f%2F025%2Fdaab6f025bbd0543e3f5157b23e8119f.jpg"
+},
+{
+  "correctAnswer": "Ernest Riveras",
+  "image": "https://static.eldiario.es/clip/14249777-fde8-40cf-92c0-230260d4cc20_16-9-discover-aspect-ratio_default_0.jpg"
+},
+{
+  "correctAnswer": "Juan Carlos Rivero",
+  "image": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/06/20/juan-carlos-rivero-kR9-U602711590867PWD-1200x840@diario_abc.jpg"
+},
+{
+  "correctAnswer": "Elisenda Roca",
+  "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/02/18/16136414750687.jpg"
+},
+{
+  "correctAnswer": "Nuria Roca",
+  "image": "https://content20.lecturas.com/medio/2020/09/30/nuria-roca_fb2431a4_800x490.jpg"
+},
+{
+  "correctAnswer": "Marisa Rodríguez Palop",
+  "image": "https://img2.rtve.es/i/?w=1600&i=1594917945265.jpg"
+},
+{
+  "correctAnswer": "Ana Roldán",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsJSk49LBPGCxlZJeGFz1O4MxbR0c2XYcNzw&s"
+},
+{
+  "correctAnswer": "Berto Romero",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwaUfDV9YM_yXV8bB4963RlDrscMl0L0J1EQ&s"
+},
+{
+  "correctAnswer": "Constantino Romero",
+  "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2013/05/12/88060.jpg"
+},
+{
+  "correctAnswer": "Rosana Romero",
+  "image": "https://www.publico.es/files/article_main/uploads/2023/08/28/64ece665122e5.jpeg"
+},
+{
+  "correctAnswer": "Ariel Rot",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVtM6-cTkupLepIPjibTODrcYL4VrMJoUWw&s"
+},
+{
+  "correctAnswer": "Susana Roza",
+  "image": "https://londonspeakerbureau.es/wp-content/uploads/2023/09/Suzana-profile_crop.jpg"
+},
+{
+  "correctAnswer": "Sagrario Ruiz de Apodaca",
+  "image": "https://images.ecestaticos.com/GUNfnqrAOntaqNX0qszwog4Kvuw=/0x0:1705x959/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa80%2Fd9d%2F192%2Fa80d9d1920fd7dbf2e99375493e388fd.jpg"
+},
+{
+  "correctAnswer": "Elena S. Sánchez",
+  "image": "https://img2.rtve.es/i/?w=1600&i=1398439244792.JPG"
+},
+{
+  "correctAnswer": "Eduardo Sáenz de Cabezón",
+  "image": "https://estaticos-cdn.prensaiberica.es/clip/285678e8-a992-4302-8ce8-3b0f743bdbd2_16-9-discover-aspect-ratio_default_0.jpg"
+},
+{
+  "correctAnswer": "Paula Sainz-Pardo",
+  "image": "https://hips.hearstapps.com/es.h-cdn.co/teleprogramaes/images/programas-tv/2018/octubre/la-2-noticias-paula-sainz-presentadora/12994682-3-esl-ES/quien-es-paula-sainz-pardo-la-nueva-presentadora-de-la-2-noticias.jpg?crop=1xw:0.7314453125xh;center,top&resize=1200:*"
+},
+{
+  "correctAnswer": "Marc Sala",
+  "image": "https://static.eldiario.es/clip/5f3c8837-39ab-41ea-a2ce-27991dd1f329_twitter-vertele-watermarked-aspect-ratio_default_0.jpg"
+},
+{
+  "correctAnswer": "Ignacio Salas",
+  "image": "https://uh.gsstatic.es/sfAttachPlugin/244466.jpg"
+},
+{
+  "correctAnswer": "Lidia San José",
+  "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/06/lidia-san-jose-3508433.jpg?tf=3840x"
+},
+{
+  "correctAnswer": "Roberto Sánchez",
+  "image": "https://img.europapress.es/fotoweb/fotonoticia_20200223155939_1200.jpg"
+},
+{
+  "correctAnswer": "Elena Sánchez Caballero",
+  "image": "https://images.ecestaticos.com/nwupNj_aI7SkLzHhR5X2ctJsYc8=/270x9:2272x1511/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F362%2Fc2d%2Fa3b%2F362c2da3b72b43346057236a345bb0c3.jpg"
+},
+{
+  "correctAnswer": "Fernando Sánchez Dragó",
+  "image": "https://www.pronto.es/files/main_image/uploads/2023/04/11/643516ffbbe01.webp"
+},
+{
+  "correctAnswer": "Ramón Sánchez Ocaña",
+  "image": "https://www.pronto.es/files/vertical_main_image/uploads/2022/06/02/62aad5513b346.jpeg"
+},
+{
+  "correctAnswer": "J. J. Santos",
+  "image": "https://static.eldiario.es/clip/87490d13-817e-48a8-8cd5-240ee3a61553_facebook-vertele-watermarked-aspect-ratio_default_0.jpg"
+},
+{
+  "correctAnswer": "Sergio Sauca",
+  "image": "https://images.ecestaticos.com/UuX2jGUWk5dmTOdHL0NCwui4uls=/213x0:676x349/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F72d%2F3e6%2Ff95%2F72d3e6f95877c6b46325bd5b76f9b47a.jpg"
+},
+{
+  "correctAnswer": "Mar Saura",
+  "image": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/12/07/6390a8d6718bc.jpeg"
+},
+{
+  "correctAnswer": "Lara Siscar",
+  "image": "https://img2.rtve.es/i/?w=1600&i=01709284169315.jpg"
+},
+{
+  "correctAnswer": "Carlos Sobera",
+  "image": "data:image/jpeg;base64,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"
+},
+{
+  "correctAnswer": "Julio Somoano",
+  "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/PGA7EP3AKVMADAKVRGWZFEBAYA.jpg"
+},
+{
+  "correctAnswer": "Irma Soriano",
+  "image": "https://content.clara.es/medio/2024/03/05/irma-soriano-2006_308ef40a_240305175112_800x1204.jpg"
+},
+{
+  "correctAnswer": "Sandra Sutherland",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRx8QmqcI_AG08bZHqCjcODO4NJ7ODLpWsg&s"
+},
+{
+  "correctAnswer": "Emilio Tamargo",
+  "image": "https://s3.ppllstatics.com/elcomercio/www/pre2017/multimedia/prensa/noticias/200910/01/fotos/2387533.jpg"
+},
+{
+  "correctAnswer": "Quico Taronjí",
+  "image": "https://eldiariocantabria.publico.es/asset/thumbnail,1280,720,center,center/media/eldiariocantabria/images/2024/10/21/2024102113325554078.jpg"
+},
+{
+  "correctAnswer": "Mara Torres",
+  "image": "https://images.ecestaticos.com/O84Fc_DMi8diu_5tQvGjSqyC5jY=/17x6:1409x881/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f3%2Fda2%2Ff8e%2F2f3da2f8e545ff4b69e5e95491aa0b6a.jpg"
+},
+{
+  "correctAnswer": "Xosé Antonio Touriñán",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8XNoZBdGQ3e0fyIXTj3S_7n0ZXg2LT7oPA&s"
+},
+{
+  "correctAnswer": "Pilar Trenas",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1IYtXgH5mp97J8s0_mc_4ngl98EQDgNG3fCB34ysitv2p5yuQc75k5xRYJI4FhOwkaXAg2rBphKBaJpk5ffBSetCa9nCPIT_9mP6Q1oT1TALDp5TJDEbzqY49jFTsQD1-g1dYSUG6QMG/s1600/Dibujo2.JPG"
+},
+
+{
+  "correctAnswer": "Alfredo Urdaci",
+  "image": "https://imagenes.elpais.com/resizer/v2/YEQM7PW7F6BF3BCE52RB2FTHPM.jpg?auth=de619b7941426d764b1a9391144dc24ad929b88b7bc3aee4388ccf572d66ba3d&width=414"
+},
+{
+  "correctAnswer": "Laura Valenzuela",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITwFOA0_cPdrYk0wIEFWZsBJ2YOkDHXjAwg&s"
+},
+{
+  "correctAnswer": "Julia Varela",
+  "image": "https://static.eldiario.es/clip/7ec7a57e-0169-4106-96ef-ebefd31997b6_16-9-discover-aspect-ratio_default_0.jpg"
+},
+{
+  "correctAnswer": "Paula Vázquez",
+  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/11/17049658037879.jpg"
+},
+{
+  "correctAnswer": "Rodrigo Vázquez",
+  "image": "https://images.ecestaticos.com/_kh_5SV1XLQscjLhGny0q4CwLLg=/0x0:1262x845/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb9d%2F2cc%2Fc3d%2Fb9d2ccc3dacfde76125c397bfca5f34a.jpg"
+},
+{
+  "correctAnswer": "Javier Veiga",
+  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/09/29/16960093837163.jpg"
+},
+{
+  "correctAnswer": "Carlos Vélez",
+  "image": "https://peopleenespanol.com/thmb/dj4No698ekhxb_qVm5GVxoRN5Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Linea-de-Fuego-1-4fd3409302544583bc63165ed79300af.jpg"
+}
+]
