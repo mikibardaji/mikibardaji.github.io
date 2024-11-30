@@ -20,10 +20,6 @@
     "image": "https://preview.efe.com/previo?x=jpqmR8EiGMe8aUzsvf5zQrXiVa5QUArqxzwoAbTVgRPOHnt1jcU60iXJc8aOmRG0ZAA0mY60E%2BuOs50Qv7O5AylhDzrouq8tCULeV2rgSykUPhzUwIfUrKlDU4cHv9Qk%2F3s51d9C8NStx%2Fv%2FhufsqZdaq%2B7z12D7&a=cefsp"
   },
   {
-    "correctAnswer": "Eduardo Aldán",
-    "image": "https://s3.ppllstatics.com/diariovasco/www/pre2017/multimedia/noticias/201611/19/media/19370706.JPG"
-  },
-  {
     "correctAnswer": "Begoña Alegría",
     "image": "https://img2.rtve.es/i/?w=1600&i=1597743556272.jpg"
   },
@@ -146,11 +142,7 @@
   {"correctAnswer": "Patricia Gaztañaga", "image": "https://s1.elespanol.com/2020/10/15/corazon/famosos/presentadores-television-programas_de_television_528458595_162640300_1024x576.jpg"},
   {"correctAnswer": "Isabel Gemio", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Isabel_Gemio_2012_%28cropped%29.jpg/640px-Isabel_Gemio_2012_%28cropped%29.jpg"},
   {"correctAnswer": "Marc Giró", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzT9x-vASwlxEBLzAJJSt0VTNUVxd7A5LRMA&s"},
-    {"correctAnswer": "Juan Gómez-Jurado", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYCgtEPI03eu1QUAY6EDAcIf2ACmXW3sJIQ&s"},
   {"correctAnswer": "Igor Gómez Maneiro", "image": "https://www.infoperiodistas.info/img/noticias/25848.jpg"},
-  {"correctAnswer": "Chari Gómez Miranda", "image": "https://e00-elmundo.uecdn.es/elmundo/imagenes/2011/02/24/television/1298547702_0.jpg"},
-    {"correctAnswer": "Fernando Delgado", "image": "https://cflvdg.avoz.es/sc/xyXrLkCHaJWHa6ehy5qNYI5LTOg=/768x/2024/02/18/00121708280882655269752/Foto/J28A5062.jpg"},
-  {"correctAnswer": "Eloísa González", "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/01/25/17061817546460.jpg"},
   {"correctAnswer": "Jordi González", "image": "https://es.e-noticies.cat/filesedc/uploads/image/post/primer-plano-presentador-jordi-gonzalez-muy-serio_1200_800.jpg"},
   {"correctAnswer": "El Gran Wyoming", "image": "https://images.ecestaticos.com/bZyFYRE8OS6ju_vRIJ5uaUAnpLo=/0x0:1576x874/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F81b%2F1b1%2Fe96%2F81b1b1e96ce6271f124ae5fb9f3801e6.jpg"},
    {"correctAnswer": "Susanna Griso", "image": "https://content20.lecturas.com/medio/2023/10/20/susanna-griso_c5f332c6_231020222658_1280x720.jpg"},
@@ -173,20 +165,8 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0bFHAMRmH0eAWAXdG2bI-USnkqKQcqB-HA&s"
   },
   {
-    "correctAnswer": "Mercedes Hoyos",
-    "image": "https://filmand.es/wp-content/uploads/2018/01/Mercedes-Hoyos-1-e1694200508150-843x434.jpg"
-  },
-  {
     "correctAnswer": "Jordi Hurtado",
     "image": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/202106/16/media/cortadas/jordi-hurtado-k2oE-U140730520806Qv-1248x770@Las%20Provincias.jpg"
-  },
-  {
-    "correctAnswer": "Julian Iantzi",
-    "image": "https://img2.rtve.es/i/?w=1600&i=1694157212920.jpg"
-  },
-  {
-    "correctAnswer": "Ana Ibáñez Llorente",
-    "image": "https://www.radioharo.com/wp-content/uploads/2019/06/ana-kSeE-624x385@Ideal.jpg"
   },
   {
     "correctAnswer": "Anne Igartiburu",
@@ -214,18 +194,9 @@
     "image": "https://www.ieturolenses.org/media/wysiwyg/WebsiteTuria/Lecturas/Lecturas18/noviembre/labordeta600.jpg"
   },
   {
-    "correctAnswer": "Olga Lambea Martínez",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3UqZlYEbjSxhw1JS86c7rk2BX42lYE6yZg&s"
-  },
-  {
-    "correctAnswer": "Jordi Llavina",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jordi_Llavina.jpg"
-  },
-  {
     "correctAnswer": "Antonio Lobato",
     "image": "https://images.ecestaticos.com/z94LokduL4gNW9by2H0AjXcjWxo=/257x0:1964x1280/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb3d%2F0cf%2F318%2Fb3d0cf318a02e254cb4caaddbb18655d.jpg"
   },
-
   {
     "correctAnswer": "Marcos López",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2l9lEZTw8qqMUaynPdFHW26z8QvWovOU2rw&s"
@@ -234,22 +205,16 @@
     "correctAnswer": "Mònica López Moyano",
     "image": "https://services.meteored.com/img/article/entrevista-del-mes-monica-lopez-moyano---1_1280.jpg"
   },
-  {
-    "correctAnswer": "Óscar López",
-    "image": "https://www.uca.es/wp-content/uploads/2021/09/big-14-7.jpg"
-  },
+
   {
     "correctAnswer": "Francis Lorenzo",
     "image": "https://images.ecestaticos.com/6k76nVX3uwsvjnD6UjVIFxdUTI8=/0x0:1280x720/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fef2%2F74b%2F062%2Fef274b0628b6135cfc69ffa532d782f8.jpg"
   },
   {
-    "correctAnswer": "Ángel Losada Velasco",
-    "image": "https://images.ecestaticos.com/6k76nVX3uwsvjnD6UjVIFxdUTI8=/0x0:1280x720/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fef2%2F74b%2F062%2Fef274b0628b6135cfc69ffa532d782f8.jpg"
+    "correctAnswer": "Rosa Maria Mateo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rosa_Mar%C3%ADa_Mateo.jpg"
   },
-  {
-    "correctAnswer": "Diego Losada",
-    "image": "https://zeleb.publico.es/wp-content/uploads/2022/03/diego-losada-1.jpg"
-  },
+
   {
     "correctAnswer": "Carlos Lozano",
     "image": "https://www.pronto.es/files/main_image_amp/uploads/2022/06/30/62bd5800b3bf6.jpeg"
@@ -270,14 +235,7 @@
     "correctAnswer": "Luis Mariñas",
     "image": "https://img2.rtve.es/i/?h=800&i=1293467994290.jpg&crop=yes"
   },
-  {
-    "correctAnswer": "Ángel Martín",
-    "image": "https://www.hola.com/horizon/landscape/9507b09a5142-patriciayangelcumple1-t.jpg"
-  },
-  {
-    "correctAnswer": "Leonor Martín",
-    "image": "https://s1.elespanol.com/2023/04/28/actualidad/759684295_232763909_1706x1280.jpg"
-  },
+ 
   {
     "correctAnswer": "Óscar Martínez",
     "image": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/10/19/634f8d1d25049.jpeg"
@@ -285,10 +243,6 @@
   {
     "correctAnswer": "Raquel Martínez",
     "image": "https://images.ecestaticos.com/mZsHUvzWA5EplOCyykuIJ4NIW6Q=/93x0:605x384/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb36%2F706%2F1ab%2Fb367061ab5d12d3efd25b76377552a47.jpg"
-  },
-  {
-    "correctAnswer": "Sonia Martínez",
-    "image": "https://phantom-elmundo.unidadeditorial.es/44110505801cce83b53ea431c3431fcc/crop/215x19/3072x1923/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/04/17280424565413.jpg"
   },
   {
     "correctAnswer": "Raquel Martos",
@@ -315,18 +269,10 @@
     "image": "https://imagenes.cope.es/files/microformat_image/uploads/2024/07/13/6692df2b664e8.jpeg"
   },
   {
-    "correctAnswer": "Francisco Moreno García",
-    "image": "https://s03.s3c.es/imag/_v0/1200x655/a/b/6/francisco-moreno-garcia-1200-1-2-2.jpg"
-  },
-  {
     "correctAnswer": "Toñi Moreno",
     "image": "https://content20.lecturas.com/medio/2020/09/30/toni-moreno_ca2ab97a_800x490.jpg"
   }
 ,
-{
-  "correctAnswer": "Josep Puigbó",
-  "image": "https://www.topcomunicacion.com/wp-content/uploads/2020/03/Josep-Puigb%C3%B3-undatia-900-1.jpg"
-},
 {
   "correctAnswer": "Eduardo Punset",
   "image": "https://album.mediaset.es/eimg/2017/09/22/tx2rURPjuVd9JS6Rv8WAl6.jpg?w=1200"
@@ -384,10 +330,6 @@
   "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2013/05/12/88060.jpg"
 },
 {
-  "correctAnswer": "Rosana Romero",
-  "image": "https://www.publico.es/files/article_main/uploads/2023/08/28/64ece665122e5.jpeg"
-},
-{
   "correctAnswer": "Ariel Rot",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVtM6-cTkupLepIPjibTODrcYL4VrMJoUWw&s"
 },
@@ -410,14 +352,6 @@
 {
   "correctAnswer": "Lidia San José",
   "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/06/lidia-san-jose-3508433.jpg?tf=3840x"
-},
-{
-  "correctAnswer": "Roberto Sánchez",
-  "image": "https://img.europapress.es/fotoweb/fotonoticia_20200223155939_1200.jpg"
-},
-{
-  "correctAnswer": "Elena Sánchez Caballero",
-  "image": "https://images.ecestaticos.com/nwupNj_aI7SkLzHhR5X2ctJsYc8=/270x9:2272x1511/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F362%2Fc2d%2Fa3b%2F362c2da3b72b43346057236a345bb0c3.jpg"
 },
 {
   "correctAnswer": "Fernando Sánchez Dragó",
@@ -444,16 +378,8 @@
   "image": "data:image/jpeg;base64,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"
 },
 {
-  "correctAnswer": "Julio Somoano",
-  "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/PGA7EP3AKVMADAKVRGWZFEBAYA.jpg"
-},
-{
   "correctAnswer": "Irma Soriano",
   "image": "https://content.clara.es/medio/2024/03/05/irma-soriano-2006_308ef40a_240305175112_800x1204.jpg"
-},
-{
-  "correctAnswer": "Mara Torres",
-  "image": "https://images.ecestaticos.com/O84Fc_DMi8diu_5tQvGjSqyC5jY=/17x6:1409x881/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f3%2Fda2%2Ff8e%2F2f3da2f8e545ff4b69e5e95491aa0b6a.jpg"
 },
 {
   "correctAnswer": "Alfredo Urdaci",
@@ -464,24 +390,12 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRITwFOA0_cPdrYk0wIEFWZsBJ2YOkDHXjAwg&s"
 },
 {
-  "correctAnswer": "Julia Varela",
-  "image": "https://static.eldiario.es/clip/7ec7a57e-0169-4106-96ef-ebefd31997b6_16-9-discover-aspect-ratio_default_0.jpg"
-},
-{
   "correctAnswer": "Paula Vázquez",
   "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/11/17049658037879.jpg"
 },
 {
   "correctAnswer": "Rodrigo Vázquez",
   "image": "https://images.ecestaticos.com/_kh_5SV1XLQscjLhGny0q4CwLLg=/0x0:1262x845/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb9d%2F2cc%2Fc3d%2Fb9d2ccc3dacfde76125c397bfca5f34a.jpg"
-},
-{
-  "correctAnswer": "Javier Veiga",
-  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/09/29/16960093837163.jpg"
-},
-{
-  "correctAnswer": "Carlos Vélez",
-  "image": "https://peopleenespanol.com/thmb/dj4No698ekhxb_qVm5GVxoRN5Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Linea-de-Fuego-1-4fd3409302544583bc63165ed79300af.jpg"
 },
 {
     "correctAnswer": "José Luis Rodríguez",
@@ -510,10 +424,6 @@
   {
     "correctAnswer": "Beatriz Pérez Aranda",
     "image": "https://theobjective.com/wp-content/uploads/2024/07/quien-es-beatriz-perez-miranda.jpeg"
-  },
-  {
-    "correctAnswer": "Kiko Hernández",
-    "image": "https://content.semana.es/medio/2020/12/kiko_hernandez-presentadores-salvame-telecinco-redes_sociales-television_507709750_156382129_1706x960.jpg"
   },
   {
     "correctAnswer": "Pedro Piqueras",
@@ -595,6 +505,11 @@
         "correctAnswer": "Maria Castro",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQciPvWaSr_arH8lFZ7NcHKT6BiSNtNoxXvw&s"
     },
+    {
+        "correctAnswer": "Lucrecia",
+        "image": "https://media.gettyimages.com/id/1449350902/es/foto/madrid-spain-singer-lucrecia-poses-during-the-presentation-of-rtves-christmas-programming-on.jpg?s=612x612&w=gi&k=20&c=FFhXXqGn9Rzrh3SuvE60Z0sImdSDAihH-Toz-Y4-9pA="
+    },
+
     {
         "correctAnswer": "Remedios Cervantes",
         "image": "https://images.ecestaticos.com/piNFvMOtmr5wyubgW91TLCiRHuk=/0x1:984x556/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf9%2F983%2F86a%2Fbf998386aabd5c5bc635d707798b6d0b.jpg"
@@ -870,7 +785,118 @@
 {
   "correctAnswer": "Emilio Tamargo",
   "image": "https://s3.ppllstatics.com/elcomercio/www/pre2017/multimedia/prensa/noticias/200910/01/fotos/2387533.jpg"
-}
+},
+  {
+    "correctAnswer": "Eduardo Aldán",
+    "image": "https://s3.ppllstatics.com/diariovasco/www/pre2017/multimedia/noticias/201611/19/media/19370706.JPG"
+  },
+  {
+    "correctAnswer": "Eduardo Aldán",
+    "image": "https://s3.ppllstatics.com/diariovasco/www/pre2017/multimedia/noticias/201611/19/media/19370706.JPG"
+  },
+    {"correctAnswer": "Juan Gómez-Jurado", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYCgtEPI03eu1QUAY6EDAcIf2ACmXW3sJIQ&s"},
+{"correctAnswer": "Chari Gómez Miranda", "image": "https://e00-elmundo.uecdn.es/elmundo/imagenes/2011/02/24/television/1298547702_0.jpg"},
+  
+   {"correctAnswer": "Fernando Delgado", "image": "https://cflvdg.avoz.es/sc/xyXrLkCHaJWHa6ehy5qNYI5LTOg=/768x/2024/02/18/00121708280882655269752/Foto/J28A5062.jpg"},
+   {"correctAnswer": "Eloísa González", "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/01/25/17061817546460.jpg"},
+  {
+    "correctAnswer": "Mercedes Hoyos",
+    "image": "https://filmand.es/wp-content/uploads/2018/01/Mercedes-Hoyos-1-e1694200508150-843x434.jpg"
+  },
+  {
+    "correctAnswer": "Julian Iantzi",
+    "image": "https://img2.rtve.es/i/?w=1600&i=1694157212920.jpg"
+  },
+  {
+    "correctAnswer": "Ana Ibáñez Llorente",
+    "image": "https://www.radioharo.com/wp-content/uploads/2019/06/ana-kSeE-624x385@Ideal.jpg"
+  },
+  {
+    "correctAnswer": "Olga Lambea Martínez",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3UqZlYEbjSxhw1JS86c7rk2BX42lYE6yZg&s"
+  },
+  {
+    "correctAnswer": "Jordi Llavina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jordi_Llavina.jpg"
+  },
+ {
+    "correctAnswer": "Óscar López",
+    "image": "https://www.uca.es/wp-content/uploads/2021/09/big-14-7.jpg"
+  },
+
+  {
+    "correctAnswer": "Ángel Losada Velasco",
+    "image": "https://images.ecestaticos.com/6k76nVX3uwsvjnD6UjVIFxdUTI8=/0x0:1280x720/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fef2%2F74b%2F062%2Fef274b0628b6135cfc69ffa532d782f8.jpg"
+  },
+  {
+    "correctAnswer": "Diego Losada",
+    "image": "https://zeleb.publico.es/wp-content/uploads/2022/03/diego-losada-1.jpg"
+  },
+ {
+    "correctAnswer": "Ángel Martín",
+    "image": "https://www.hola.com/horizon/landscape/9507b09a5142-patriciayangelcumple1-t.jpg"
+  },
+  {
+    "correctAnswer": "Leonor Martín",
+    "image": "https://s1.elespanol.com/2023/04/28/actualidad/759684295_232763909_1706x1280.jpg"
+  },
+ {
+    "correctAnswer": "Sonia Martínez",
+    "image": "https://phantom-elmundo.unidadeditorial.es/44110505801cce83b53ea431c3431fcc/crop/215x19/3072x1923/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/04/17280424565413.jpg"
+  },
+{
+    "correctAnswer": "Francisco Moreno García",
+    "image": "https://s03.s3c.es/imag/_v0/1200x655/a/b/6/francisco-moreno-garcia-1200-1-2-2.jpg"
+  },
+{
+  "correctAnswer": "Josep Puigbó",
+  "image": "https://www.topcomunicacion.com/wp-content/uploads/2020/03/Josep-Puigb%C3%B3-undatia-900-1.jpg"
+},
+{
+  "correctAnswer": "Rosana Romero",
+  "image": "https://www.publico.es/files/article_main/uploads/2023/08/28/64ece665122e5.jpeg"
+},
+{
+  "correctAnswer": "Roberto Sánchez",
+  "image": "https://img.europapress.es/fotoweb/fotonoticia_20200223155939_1200.jpg"
+},
+{
+  "correctAnswer": "Elena Sánchez Caballero",
+  "image": "https://images.ecestaticos.com/nwupNj_aI7SkLzHhR5X2ctJsYc8=/270x9:2272x1511/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F362%2Fc2d%2Fa3b%2F362c2da3b72b43346057236a345bb0c3.jpg"
+},
+{
+  "correctAnswer": "Julio Somoano",
+  "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/PGA7EP3AKVMADAKVRGWZFEBAYA.jpg"
+},
+{
+  "correctAnswer": "Mara Torres",
+  "image": "https://images.ecestaticos.com/O84Fc_DMi8diu_5tQvGjSqyC5jY=/17x6:1409x881/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f3%2Fda2%2Ff8e%2F2f3da2f8e545ff4b69e5e95491aa0b6a.jpg"
+},
+{
+  "correctAnswer": "Julia Varela",
+  "image": "https://static.eldiario.es/clip/7ec7a57e-0169-4106-96ef-ebefd31997b6_16-9-discover-aspect-ratio_default_0.jpg"
+},
+{
+  "correctAnswer": "Javier Veiga",
+  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/09/29/16960093837163.jpg"
+},
+{
+  "correctAnswer": "Carlos Vélez",
+  "image": "https://peopleenespanol.com/thmb/dj4No698ekhxb_qVm5GVxoRN5Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Linea-de-Fuego-1-4fd3409302544583bc63165ed79300af.jpg"
+},
+  {
+    "correctAnswer": "Beatriz Pérez Aranda",
+    "image": "https://theobjective.com/wp-content/uploads/2024/07/quien-es-beatriz-perez-miranda.jpeg"
+  },
+  {
+    "correctAnswer": "Kiko Hernández",
+    "image": "https://content.semana.es/medio/2020/12/kiko_hernandez-presentadores-salvame-telecinco-redes_sociales-television_507709750_156382129_1706x960.jpg"
+  },
+{
+        "correctAnswer": "Alex Casademunt",
+        "image": "https://www.formulatv.com/images/noticias/107000/107063/5_ygco4e61BFixH9J3YqPLNz8RaEt70Usvk.jpg"
+    }
+  
 ]
   
 
