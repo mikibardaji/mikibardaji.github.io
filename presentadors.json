@@ -16,10 +16,6 @@
     "image": "https://www.formulatv.com/images/articulos/82000/n82957_7892aa0da4-c4.jpg"
   },
   {
-    "correctAnswer": "Jota Abril",
-    "image": "https://images.ecestaticos.com/ZrbpyOizkOUgTcPD0QBeqxegiBI=/381x7:1080x532/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf1%2F78a%2F785%2Fbf178a785579997b90fb8f2feaf27ec2.jpg"
-  },
-  {
     "correctAnswer": "Luis Aguilé",
     "image": "https://preview.efe.com/previo?x=jpqmR8EiGMe8aUzsvf5zQrXiVa5QUArqxzwoAbTVgRPOHnt1jcU60iXJc8aOmRG0ZAA0mY60E%2BuOs50Qv7O5AylhDzrouq8tCULeV2rgSykUPhzUwIfUrKlDU4cHv9Qk%2F3s51d9C8NStx%2Fv%2FhufsqZdaq%2B7z12D7&a=cefsp"
   },
@@ -877,7 +873,11 @@
 {
   "correctAnswer": "Pilar Trenas",
   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1IYtXgH5mp97J8s0_mc_4ngl98EQDgNG3fCB34ysitv2p5yuQc75k5xRYJI4FhOwkaXAg2rBphKBaJpk5ffBSetCa9nCPIT_9mP6Q1oT1TALDp5TJDEbzqY49jFTsQD1-g1dYSUG6QMG/s1600/Dibujo2.JPG"
-}
+},
+    {
+    "correctAnswer": "Jota Abril",
+    "image": "https://images.ecestaticos.com/ZrbpyOizkOUgTcPD0QBeqxegiBI=/381x7:1080x532/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf1%2F78a%2F785%2Fbf178a785579997b90fb8f2feaf27ec2.jpg"
+    }
 ]
   
 
