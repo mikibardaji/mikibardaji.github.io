@@ -48,10 +48,6 @@
     "image": "https://www.apmadrid.es/wp-content/uploads/2012/11/Foto%20de%20Jesus%20Alvarez.jpg"
   },
   {
-    "correctAnswer": "Jesús Álvarez García",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiiTnsOaA2zbJttHC3-Uyh9HVo4QTrct5WhFCmQYBvitSAvVbfwDGPP_d8JhvJsEVk6W80O7E2iIn1gf3nOQD2Zn_a7MFWZ0uzoJsYe49KGs5-GBDAqngn_kTV9NfVyht9iahZJu_xklh/s1600/Blanca+Alvarez+1.jpg"
-  },
-  {
     "correctAnswer": "Nieves Álvarez",
     "image": "https://content.semana.es/medio/2022/09/semana-que-producto-infalible-usa-nieves-alvarez-para-lucir-radiante-en-todos-los-eventos-desvelamos-su-truco-2048x1152.jpg"
   },
@@ -66,14 +62,6 @@
   {
     "correctAnswer": "Ángel de Andrés",
     "image": "https://hips.hearstapps.com/es.h-cdn.co/teleprogramaes/images/famosos-television/2016/mayo/muere-angel-del-andres-manolo-y-benito/angel-de-andres-desde-que-amanece/10607552-1-esl-ES/angel-de-andres-desde-que-amanece.jpg?resize=980:*"
-  },
-  {
-    "correctAnswer": "José Andrés",
-    "image": "https://images.ecestaticos.com/xVn_zYfwYBu-E-dG1fk6Bwbaxhc=/259x0:1697x1078/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F322%2Fa62%2F714%2F322a62714f971804eb66dfc7d1139edc.jpg"
-  },
-  {
-    "correctAnswer": "Karmele Aranburu",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgTMHaSUp4rgQWZK9HZg8YAfJ-8Upg6hRRA&s"
   },
   {
     "correctAnswer": "Luján Argüelles",
@@ -94,10 +82,6 @@
   {
     "correctAnswer": "Almudena Ariza",
     "image": "https://images.ecestaticos.com/8MXf0ZuyNBddPnIa3ml0iXxpH4w=/0x0:1964x1066/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1b2%2F968%2F660%2F1b296866009d3b5f8b29d0607214f155.jpg"
-  },
-  {
-    "correctAnswer": "Silvia Arlet",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Silvia_Tortosa.jpg/150px-Silvia_Tortosa.jpg"
   },
   {
     "correctAnswer": "Joaquín Arozamena",
@@ -129,8 +113,7 @@
    {"correctAnswer": "Consuelo Berlanga", "image": "https://s1.elespanol.com/2019/03/01/actualidad/actualidad_379973733_116792262_960x1706.jpg"},
   {"correctAnswer": "Ana Blanco", "image": "https://images.ecestaticos.com/x1tIuEVIlqPRIUdM44XUtLKDHro=/0x0:1417x906/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F87c%2Fe44%2Faf0%2F87ce44af03c8c8502df9bf0bf679b46d.jpg"},
   {"correctAnswer": "Lydia Bosch", "image": "https://static.eldiario.es/clip/945fd843-6420-4a01-a050-1af7463e12c3_16-9-discover-aspect-ratio_default_0.jpg"},
-  {"correctAnswer": "Ángeles Bravo", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQGd2wsxti6R0M9B_jJ2iI2-dg3I3jm2pDQ&s"},
-  {"correctAnswer": "Pepa Bueno", "image": "https://www.elplural.com/uploads/s1/98/80/58/pepa-bueno-chic-2.jpeg"},
+   {"correctAnswer": "Pepa Bueno", "image": "https://www.elplural.com/uploads/s1/98/80/58/pepa-bueno-chic-2.jpeg"},
   {"correctAnswer": "María Teresa Campos", "image": "https://www.apmadrid.es/wp-content/uploads/2023/09/maria-teresa-campos-ingresa-urgencia-hospital-ultima-hora-salud-knLG-U21068007705eFD-1200x840@El-Correo.jpg"},
   {"correctAnswer": "David Cantero", "image": "https://s1.elespanol.com/2020/08/01/corazon/television/presentadores-programas_de_television-telecinco_509709784_156881568_1706x1280.jpg"},
   {"correctAnswer": "Toni Cantó", "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/10/21/16663424252891.jpg"},
@@ -140,10 +123,8 @@
   {"correctAnswer": "María Casado", "image": "https://s.libertaddigital.com/2016/08/30/maria-casado-tve.jpg"},
   {"correctAnswer": "Carolina Casado", "image": "https://eurovision-spain.com/wp-content/uploads/fly-images/27529/sin_ano_23042014_125910_carolinacasado-1100x690-c.jpg"},
   {"correctAnswer": "Pepe Domingo Castaño", "image": "https://img.rtve.es/imagenes/pepe-domingo-castano-muere-300-millones-presentador-television-entrevistas/1694942736986.jpg"},
-  {"correctAnswer": "Jenaro Castro", "image": "https://pbs.twimg.com/profile_images/1035927810202894336/5_DcNKng_400x400.jpg"},
   {"correctAnswer": "Georgina Cisquella", "image": "https://img2.rtve.es/v/1491548/?w=1600"},
-  {"correctAnswer": "Carlos Dávila", "image": "https://www.capitalmadrid.com/files/img/2014/3/7/33108/b72794e22c_0_0_646_373_646_373/carlos_davila.jpg"},
-  {"correctAnswer": "Sandra Daviú", "image": "https://content.semana.es/medio/2024/01/semana-que-fue-de-sandra-daviu-la-presentadora-de-el-diario-de-patricia-a-la-que-le-dieron-tantos-ataques-de-risa-en-directo.jpg"},
+    {"correctAnswer": "Sandra Daviú", "image": "https://content.semana.es/medio/2024/01/semana-que-fue-de-sandra-daviu-la-presentadora-de-el-diario-de-patricia-a-la-que-le-dieron-tantos-ataques-de-risa-en-directo.jpg"},
   {"correctAnswer": "Miguel de la Quadra-Salcedo", "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/JXSAWYR6XZN7BIDZPHP4ZW6ZKE.jpg"},
   {"correctAnswer": "Ana de Roque", "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2013/09/05/5f9bfc8aef8ff.jpeg"},
   {"correctAnswer": "Marujita Díaz", "image": "https://www.telecinco.es/cincomas/programas/marujita-diaz_fotogramas.jpg"},
@@ -363,10 +344,6 @@
   "image": "https://phantom-elmundo.unidadeditorial.es/a4f200f3854da66df92f42befd840c41/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/17/17159306862532.jpg"
 },
 {
-  "correctAnswer": "Marta Reyero",
-  "image": "https://album.mediaset.es/cimg/2024/01/26/marta-reyero_da39.jpg"
-},
-{
   "correctAnswer": "Ivonne Reyes",
   "image": "https://fotografias.larazon.es/clipping/cmsimages02/2019/08/09/89C1E8A9-6251-434C-B2B6-99286B3E99EB/98.jpg?crop=600,338,x0,y114&width=1900&height=1069&optimize=low&format=webply"
 },
@@ -413,10 +390,6 @@
 {
   "correctAnswer": "Ariel Rot",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVtM6-cTkupLepIPjibTODrcYL4VrMJoUWw&s"
-},
-{
-  "correctAnswer": "Susana Roza",
-  "image": "https://londonspeakerbureau.es/wp-content/uploads/2023/09/Suzana-profile_crop.jpg"
 },
 {
   "correctAnswer": "Elena S. Sánchez",
@@ -477,10 +450,6 @@
 {
   "correctAnswer": "Irma Soriano",
   "image": "https://content.clara.es/medio/2024/03/05/irma-soriano-2006_308ef40a_240305175112_800x1204.jpg"
-},
-{
-  "correctAnswer": "Emilio Tamargo",
-  "image": "https://s3.ppllstatics.com/elcomercio/www/pre2017/multimedia/prensa/noticias/200910/01/fotos/2387533.jpg"
 },
 {
   "correctAnswer": "Mara Torres",
@@ -587,10 +556,6 @@
         "image": "https://img2.rtve.es/i/?w=1600&i=1549632906674.jpg"
     },
     {
-        "correctAnswer": "Patxi Alonso",
-        "image": "https://www.lavanguardia.com/files/image_449_220/uploads/2022/10/21/6352345021210.png"
-    },
-    {
         "correctAnswer": "Elsa Anka",
         "image": "https://images.ecestaticos.com/wL9QJ_q-aHYfSLLcIx2OUhnW7gg=/0x0:1024x683/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0cb%2F173%2Ff92%2F0cb173f92fa3f69fa573c90b332803a1.jpg"
     },
@@ -605,10 +570,6 @@
     {
         "correctAnswer": "Ramon Arangüena",
         "image": "https://fotografias.antena3.com/clipping/cmsimages02/2010/05/09/BA23C102-78EF-4F93-B630-E8D4AA2E9C22/98.jpg?crop=626,352,x9,y0&width=1900&height=1069&optimize=low&format=webply"
-    },
-    {
-        "correctAnswer": "Esther Arroyo",
-        "image": "https://images.ecestaticos.com/O5xBytvKTGXMvMFOQiMY7uRBqyY=/77x108:982x787/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5f3%2Fb69%2F62d%2F5f3b6962dcbbd841306f0edaf15c96be.jpg"
     },
     {
         "correctAnswer": "Roberto Leal",
@@ -651,7 +612,7 @@
         "image": "https://images.ecestaticos.com/UfOB8msMqXS5fnZZq8SKQJtZQYY=/0x0:1338x752/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4c2%2Ff72%2Fc36%2F4c2f72c367a6c3b8ab694cd11056915a.jpg"
     },
     {
-        "correctAnswer": "Ferreras",
+        "correctAnswer": "Antonio Garcia Ferreras",
         "image": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/10/01/antonio-garcia-ferreras-ki5C--1200x630@diario_abc.jpg"
     },
     {
@@ -877,7 +838,39 @@
     {
     "correctAnswer": "Jota Abril",
     "image": "https://images.ecestaticos.com/ZrbpyOizkOUgTcPD0QBeqxegiBI=/381x7:1080x532/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf1%2F78a%2F785%2Fbf178a785579997b90fb8f2feaf27ec2.jpg"
-    }
+    },
+  {
+    "correctAnswer": "Jesús Álvarez García",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiiTnsOaA2zbJttHC3-Uyh9HVo4QTrct5WhFCmQYBvitSAvVbfwDGPP_d8JhvJsEVk6W80O7E2iIn1gf3nOQD2Zn_a7MFWZ0uzoJsYe49KGs5-GBDAqngn_kTV9NfVyht9iahZJu_xklh/s1600/Blanca+Alvarez+1.jpg"
+  },
+
+  {
+    "correctAnswer": "José Andrés",
+    "image": "https://images.ecestaticos.com/xVn_zYfwYBu-E-dG1fk6Bwbaxhc=/259x0:1697x1078/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F322%2Fa62%2F714%2F322a62714f971804eb66dfc7d1139edc.jpg"
+  },
+  {
+    "correctAnswer": "Karmele Aranburu",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgTMHaSUp4rgQWZK9HZg8YAfJ-8Upg6hRRA&s"
+  },
+  {
+    "correctAnswer": "Silvia Arlet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Silvia_Tortosa.jpg/150px-Silvia_Tortosa.jpg"
+  },
+ {"correctAnswer": "Ángeles Bravo", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQGd2wsxti6R0M9B_jJ2iI2-dg3I3jm2pDQ&s"},
+{"correctAnswer": "Jenaro Castro", "image": "https://pbs.twimg.com/profile_images/1035927810202894336/5_DcNKng_400x400.jpg"},
+{"correctAnswer": "Carlos Dávila", "image": "https://www.capitalmadrid.com/files/img/2014/3/7/33108/b72794e22c_0_0_646_373_646_373/carlos_davila.jpg"},
+{
+  "correctAnswer": "Marta Reyero",
+  "image": "https://album.mediaset.es/cimg/2024/01/26/marta-reyero_da39.jpg"
+},
+{
+  "correctAnswer": "Susana Roza",
+  "image": "https://londonspeakerbureau.es/wp-content/uploads/2023/09/Suzana-profile_crop.jpg"
+},
+{
+  "correctAnswer": "Emilio Tamargo",
+  "image": "https://s3.ppllstatics.com/elcomercio/www/pre2017/multimedia/prensa/noticias/200910/01/fotos/2387533.jpg"
+}
 ]
   
 
