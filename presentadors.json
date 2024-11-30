@@ -1,4 +1,36 @@
 [
+  { "correctAnswer": "David Broncano", "image": "https://hips.hearstapps.com/hmg-prod/images/david-broncano-rtve-66e8360fa28cb.jpg" },
+  { "correctAnswer": "Grison", "image" : "https://okdiario.com/img/2024/10/08/grison.jpeg"},
+   { "correctAnswer": "Ricardo Castella", "image" : "https://images.ecestaticos.com/gyvb1M37-w8nPseg3E3T3oGWDzU=/0x0:2272x1804/1200x675/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F03b%2Fe2a%2F217%2F03be2a217219c7f8bd021bb2ac2a35b1.jpg"},
+  { "correctAnswer": "Marc Sala", "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/08/30/5fa434c80f1db.jpeg" },
+  { "correctAnswer": "Silvia Intxaurrondo", "image": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/02/16/Silvia-Intxaurrondo-kPWH-U2101553684035u7D-1200x840@Las%20Provincias.jpg" },
+  { "correctAnswer": "Lara Siscar", "image": "https://img2.rtve.es/i/?w=1600&i=01709284169315.jpg" },
+  { "correctAnswer": "Jordi Cruz", "image": "https://img2.rtve.es/i/?w=1600&i=1567080065632.jpg" },
+  { "correctAnswer": "Pepe Rodríguez", "image": "https://static.eldiario.es/clip/e6b7f96b-3ca4-4f31-bdeb-f11093306e4e_16-9-aspect-ratio_default_0.jpg" },
+  { "correctAnswer": "Samantha Vallejo-Nágera", "image": "https://www.elplural.com/uploads/s1/12/81/84/6/samantha-vallejo-na-gera-1.jpeg" },
+  { "correctAnswer": "Eduardo Sáenz de Cabezón", "image": "https://images.ecestaticos.com/iEoVSNAd2OWB0WcaayKLP0Q1CTI=/5x89:2273x1365/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F470%2Ff20%2F506%2F470f2050658fe0b545273cceeb237eb8.jpg" },
+  { "correctAnswer": "Anne Igartiburu", "image": "https://grupobcc.com/wp/wp-content/uploads/2020/11/Anne-Igartiburu-presentadora-moderadora-conferencias-e1670860347590.jpg" },
+  { "correctAnswer": "Jordi González", "image": "https://es.e-noticies.cat/filesedc/uploads/image/post/primer-plano-presentador-jordi-gonzalez-muy-serio_1200_800.jpg" },
+  { "correctAnswer": "Paula Sainz-Pardo", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJN9MGMg1o7L3yTb2MQ3AEq1vLs18bYUMSJw&s" },
+  { "correctAnswer": "Rodrigo Vázquez", "image": "https://image.europafm.com/clipping/cmsimages02/2022/07/05/7E5400B8-7C4E-45C8-B6BF-695CAD795AEA/quien-rodrigo-vazquez-edad-sus-grandes-pasiones-futuro-ahora-que-conocido-presentador_104.jpg?crop=900,900,x133,y0&width=1200&height=1200&optimize=low&format=webply" },
+    { "correctAnswer": "Amaia Pérez de Mendiola", "image": "https://pbs.twimg.com/media/FkZ4cPfWQAETnrL.jpg" },
+  { "correctAnswer": "Marta Carazo", "image": "https://img2.rtve.es/i/?w=1600&i=01705336286205.jpg" },
+  { "correctAnswer": "Álex Barreiro", "image": "https://eltelevisero.huffingtonpost.es/wp-content/uploads/2019/07/alex-barreiro.jpg" },
+  { "correctAnswer": "Sirún Demirjian", "image": "https://images.ecestaticos.com/6_4sK6-P9xtrFsA7sBtjmVddxUI=/4x9:2273x1710/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F116%2F6a8%2F088%2F1166a8088caae97a83cbb05af9b853de.jpg" },
+  { "correctAnswer": "Igor Gómez", "image": "https://www.infoperiodistas.info/img/noticias/25848.jpg" },
+  { "correctAnswer": "Jerónimo Fernández", "image": "https://images.ecestaticos.com/KFedlaSJiy3KHMNVe5zOVkanIA0=/0x0:2157x1129/557x418/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F32f%2F2be%2F8a6%2F32f2be8a65d63b2f66b7726171fa0b18.jpg" },
+  { "correctAnswer": "Quico Taronjí", "image": "https://img2.rtve.es/i/?w=1600&i=1588948532279.jpg" },
+  { "correctAnswer": "Jacob Petrus", "image": "https://img2.rtve.es/i/?w=1600&i=1588948532285.jpg" },
+  { "correctAnswer": "Goyo Jiménez", "image": "https://www.espectalium.com/wp-content/uploads/2023/10/contratar-Goyo-Jimenez.jpg" },
+  { "correctAnswer": "Adela González", "image": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/10/18/adela-gonzalez-kMCF-U6032164800574m-1200x840@diario_abc.jpg" },
+{ "correctAnswer": "Aitor Albizua", "image": "https://images.ecestaticos.com/29b02srb95DDAPJaq8XrEmkfYTo=/0x0:1920x1080/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbfe%2Fa35%2F0b9%2Fbfea350b93c833fa67e5ffa4d4681fb1.jpg" },
+  { "correctAnswer": "Miriam Moreno", "image": "https://static.grupojoly.com/clip/b710fb21-989e-409a-8281-5ba24f30a1d8_source-aspect-ratio_1600w_0.jpg" },
+  { "correctAnswer": "Alberto Herrera", "image": "https://www.planetadelibros.com/usuaris/autores/fotos/78/original/000077955_1_albertoherrera-m_202010090926.jpg" },
+  { "correctAnswer": "Javier Peña", "image": "https://s1.elespanol.com/2020/06/09/corazon/television/television_496461666_153454322_1024x576.jpg" },
+  { "correctAnswer": "Elena Herraiz", "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/24/elena-herraiz-en-cifras-y-letras.jpeg" },
+  { "correctAnswer": "David Calle", "image": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2024/11/25/screenshot-91.r_d.226-122-21758.jpeg" },
+  { "correctAnswer": "Mara Peterssen", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzDlkJG5gqPSdsZye0ejPn6IhTwPLF1aD5A&s" },
+  { "correctAnswer": "Fede Cardelús", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEsIr18ZlCjAq4AxbfKNhZXOZA7Q0CKQ9sw&s" },
   {
     "correctAnswer": "Marisa Abad",
     "image": "https://imagenes2.fotos.europapress.es/preview/2189350.jpg?s=1000"
@@ -141,7 +173,6 @@
   {"correctAnswer": "David Cantero", "image": "https://s1.elespanol.com/2020/08/01/corazon/television/presentadores-programas_de_television-telecinco_509709784_156881568_1706x1280.jpg"},
   {"correctAnswer": "Toni Cantó", "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/10/21/16663424252891.jpg"},
   {"correctAnswer": "Arsenio Cañada", "image": "https://img2.rtve.es/i/?w=1600&i=1590753017301.jpg"},
-  {"correctAnswer": "Marta Carazo", "image": "https://img2.rtve.es/i/?w=1600&i=1597743556245.jpg"},
   {"correctAnswer": "Paco Caro", "image": "https://forum.sportsdatacampus.com/wp-content/uploads/2021/01/paco-caro-min.png"},
   {"correctAnswer": "María Casado", "image": "https://s.libertaddigital.com/2016/08/30/maria-casado-tve.jpg"},
   {"correctAnswer": "Carolina Casado", "image": "https://eurovision-spain.com/wp-content/uploads/fly-images/27529/sin_ano_23042014_125910_carolinacasado-1100x690-c.jpg"},
@@ -194,10 +225,6 @@
   {
     "correctAnswer": "Jordi Hurtado",
     "image": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/202106/16/media/cortadas/jordi-hurtado-k2oE-U140730520806Qv-1248x770@Las%20Provincias.jpg"
-  },
-  {
-    "correctAnswer": "Anne Igartiburu",
-    "image": "https://content20.lecturas.com/medio/2021/02/09/anne-igartuburu_ef68e512_800x490.jpg"
   },
   {
     "correctAnswer": "Jandro (humorista)",
@@ -369,10 +396,6 @@
   "image": "https://estaticos-cdn.prensaiberica.es/clip/285678e8-a992-4302-8ce8-3b0f743bdbd2_16-9-discover-aspect-ratio_default_0.jpg"
 },
 {
-  "correctAnswer": "Marc Sala",
-  "image": "https://static.eldiario.es/clip/5f3c8837-39ab-41ea-a2ce-27991dd1f329_twitter-vertele-watermarked-aspect-ratio_default_0.jpg"
-},
-{
   "correctAnswer": "Ignacio Salas",
   "image": "https://uh.gsstatic.es/sfAttachPlugin/244466.jpg"
 },
@@ -511,10 +534,6 @@
     {
         "correctAnswer": "Roberto Leal",
         "image": "https://content20.lecturas.com/medio/2023/10/10/roberto-leal_af0c4818_231010123714_800x800.jpg"
-    },
-    {
-        "correctAnswer": "Aitor Albizua",
-        "image": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/01/29/Aitor-Albizua-bf-kqZB--1920x1080@Las%20Provincias.jpg"
     },
     {
         "correctAnswer": "Pilar Cañada",
@@ -764,10 +783,6 @@
 {
   "correctAnswer": "Sandra Sutherland",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRx8QmqcI_AG08bZHqCjcODO4NJ7ODLpWsg&s"
-},
-{
-  "correctAnswer": "Quico Taronjí",
-  "image": "https://eldiariocantabria.publico.es/asset/thumbnail,1280,720,center,center/media/eldiariocantabria/images/2024/10/21/2024102113325554078.jpg"
 },
 {
   "correctAnswer": "Xosé Antonio Touriñán",
