@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz de Química</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    .question {
+      font-size: 24px;
+      margin: 20px 0;
+    }
+    .result {
+      font-size: 18px;
+      margin: 10px 0;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quiz de Elementos Químicos</h1>
+  <div class="question" id="question"></div>
+  <button onclick="showAnswer()">Responder</button>
+  <div class="result" id="result"></div>
+  <button onclick="nextQuestion()">Siguiente Pregunta</button>
+
+  <script>
+    // Base de datos con los 118 elementos de la tabla periódica
+    const elements = [
+      { symbol: "H", name: "Hidrógeno" },
+      { symbol: "He", name: "Helio" },
+      { symbol: "Li", name: "Litio" },
+      { symbol: "Be", name: "Berilio" },
+      { symbol: "B", name: "Boro" },
+      { symbol: "C", name: "Carbono" },
+      { symbol: "N", name: "Nitrógeno" },
+      { symbol: "O", name: "Oxígeno" },
+      { symbol: "F", name: "Flúor" },
+      { symbol: "Ne", name: "Neón" },
+      { symbol: "Na", name: "Sodio" },
+      { symbol: "Mg", name: "Magnesio" },
+      { symbol: "Al", name: "Aluminio" },
+      { symbol: "Si", name: "Silicio" },
+      { symbol: "P", name: "Fósforo" },
+      { symbol: "S", name: "Azufre" },
+      { symbol: "Cl", name: "Cloro" },
+      { symbol: "Ar", name: "Argón" },
+      { symbol: "K", name: "Potasio" },
+      { symbol: "Ca", name: "Calcio" },
+      { symbol: "Sc", name: "Escandio" },
+      { symbol: "Ti", name: "Titanio" },
+      { symbol: "V", name: "Vanadio" },
+      { symbol: "Cr", name: "Cromo" },
+      { symbol: "Mn", name: "Manganeso" },
+      { symbol: "Fe", name: "Hierro" },
+      { symbol: "Co", name: "Cobalto" },
+      { symbol: "Ni", name: "Níquel" },
+      { symbol: "Cu", name: "Cobre" },
+      { symbol: "Zn", name: "Zinc" },
+      { symbol: "Ga", name: "Galio" },
+      { symbol: "Ge", name: "Germanio" },
+      { symbol: "As", name: "Arsénico" },
+      { symbol: "Se", name: "Selenio" },
+      { symbol: "Br", name: "Bromo" },
+      { symbol: "Kr", name: "Kriptón" },
+      { symbol: "Rb", name: "Rubidio" },
+      { symbol: "Sr", name: "Estroncio" },
+      { symbol: "Y", name: "Itrio" },
+      { symbol: "Zr", name: "Circonio" },
+      { symbol: "Nb", name: "Niobio" },
+      { symbol: "Mo", name: "Molibdeno" },
+      { symbol: "Tc", name: "Tecnecio" },
+      { symbol: "Ru", name: "Rutenio" },
+      { symbol: "Rh", name: "Rodio" },
+      { symbol: "Pd", name: "Paladio" },
+      { symbol: "Ag", name: "Plata" },
+      { symbol: "Cd", name: "Cadmio" },
+      { symbol: "In", name: "Indio" },
+      { symbol: "Sn", name: "Estaño" },
+      { symbol: "Sb", name: "Antimonio" },
+      { symbol: "Te", name: "Teluro" },
+      { symbol: "I", name: "Yodo" },
+      { symbol: "Xe", name: "Xenón" },
+      { symbol: "Cs", name: "Cesio" },
+      { symbol: "Ba", name: "Bario" },
+      { symbol: "La", name: "Lantano" },
+      { symbol: "Ce", name: "Cerio" },
+      { symbol: "Pr", name: "Praseodimio" },
+      { symbol: "Nd", name: "Neodimio" },
+      { symbol: "Pm", name: "Prometio" },
+      { symbol: "Sm", name: "Samario" },
+      { symbol: "Eu", name: "Europio" },
+      { symbol: "Gd", name: "Gadolinio" },
+      { symbol: "Tb", name: "Terbio" },
+      { symbol: "Dy", name: "Disprosio" },
+      { symbol: "Ho", name: "Holmio" },
+      { symbol: "Er", name: "Erbio" },
+      { symbol: "Tm", name: "Tulio" },
+      { symbol: "Yb", name: "Iterbio" },
+      { symbol: "Lu", name: "Lutecio" },
+      { symbol: "Hf", name: "Hafnio" },
+      { symbol: "Ta", name: "Tántalo" },
+      { symbol: "W", name: "Wolframio" },
+      { symbol: "Re", name: "Renio" },
+      { symbol: "Os", name: "Osmio" },
+      { symbol: "Ir", name: "Iridio" },
+      { symbol: "Pt", name: "Platino" },
+      { symbol: "Au", name: "Oro" },
+      { symbol: "Hg", name: "Mercurio" },
+      { symbol: "Tl", name: "Talio" },
+      { symbol: "Pb", name: "Plomo" },
+      { symbol: "Bi", name: "Bismuto" },
+      { symbol: "Po", name: "Polonio" },
+      { symbol: "At", name: "Astato" },
+      { symbol: "Rn", name: "Radón" },
+      { symbol: "Fr", name: "Francio" },
+      { symbol: "Ra", name: "Radio" },
+      { symbol: "Ac", name: "Actinio" },
+      { symbol: "Th", name: "Torio" },
+      { symbol: "Pa", name: "Protactinio" },
+      { symbol: "U", name: "Uranio" },
+      { symbol: "Np", name: "Neptunio" },
+      { symbol: "Pu", name: "Plutonio" },
+      { symbol: "Am", name: "Americio" },
+      { symbol: "Cm", name: "Curio" },
+      { symbol: "Bk", name: "Berkelio" },
+      { symbol: "Cf", name: "Californio" },
+      { symbol: "Es", name: "Einstenio" },
+      { symbol: "Fm", name: "Fermio" },
+      { symbol: "Md", name: "Mendelevio" },
+      { symbol: "No", name: "Nobelio" },
+      { symbol: "Lr", name: "Lawrencio" },
+      { symbol: "Rf", name: "Rutherfordio" },
+      { symbol: "Db", name: "Dubnio" },
+      { symbol: "Sg", name: "Seaborgio" },
+      { symbol: "Bh", name: "Bohrio" },
+      { symbol: "Hs", name: "Hassio" },
+      { symbol: "Mt", name: "Meitnerio" },
+      { symbol: "Ds", name: "Darmstadtio" },
+      { symbol: "Rg", name: "Roentgenio" },
+      { symbol: "Cn", name: "Copernicio" },
+      { symbol: "Nh", name: "Nihonio" },
+      { symbol: "Fl", name: "Flerovio" },
+      { symbol: "Mc", name: "Moscovio" },
+      { symbol: "Lv", name: "Livermorio" },
+      { symbol: "Ts", name: "Tenesino" },
+      { symbol: "Og", name: "Oganesón" }
+    ];
+
+    let currentQuestion = null;
+
+    // Muestra un elemento al azar como pregunta
+    function showQuestion() {
+      const randomIndex = Math.floor(Math.random() * elements.length);
+      currentQuestion = elements[randomIndex];
+
+      const questionElement = document.getElementById("question");
+      questionElement.textContent = `¿Qué elemento tiene el símbolo "${currentQuestion.symbol}"?`;
+
+      document.getElementById("result").textContent = "";
+    }
+
+    // Muestra la respuesta correcta
+    function showAnswer() {
+      const resultElement = document.getElementById("result");
+      resultElement.textContent = `La respuesta correcta es: ${currentQuestion.name}.`;
+      resultElement.style.color = "blue";
+    }
+
+    // Pasa a la siguiente pregunta
+    function nextQuestion() {
+      showQuestion();
+    }
+
+    // Inicializar la primera pregunta
+    showQuestion();
+  </script>
+</body>
+</html>
