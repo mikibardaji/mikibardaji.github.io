@@ -8,26 +8,45 @@
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      margin: 20px;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
     }
-    .question {
-      font-size: 24px;
+    .symbol {
+      font-size: 8rem;
+      font-weight: bold;
       margin: 20px 0;
+      color: #333;
     }
     .result {
-      font-size: 18px;
-      margin: 10px 0;
+      font-size: 1.5rem;
+      margin: 20px 0;
     }
     button {
-      padding: 10px 20px;
-      font-size: 16px;
+      padding: 15px 25px;
+      font-size: 1.2rem;
+      margin: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #007BFF;
+      color: white;
       cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    button:active {
+      background-color: #003f7f;
     }
   </style>
 </head>
 <body>
-  <h1>Quiz de Elementos Químicos</h1>
-  <div class="question" id="question"></div>
+  <div class="symbol" id="symbol"></div>
   <button onclick="showAnswer()">Responder</button>
   <div class="result" id="result"></div>
   <button onclick="nextQuestion()">Siguiente Pregunta</button>
@@ -157,30 +176,25 @@
 
     let currentQuestion = null;
 
-    // Muestra un elemento al azar como pregunta
+    // Muestra un elemento al azar
     function showQuestion() {
       const randomIndex = Math.floor(Math.random() * elements.length);
       currentQuestion = elements[randomIndex];
-
-      const questionElement = document.getElementById("question");
-      questionElement.textContent = `¿Qué elemento tiene el símbolo "${currentQuestion.symbol}"?`;
-
+      document.getElementById("symbol").textContent = currentQuestion.symbol;
       document.getElementById("result").textContent = "";
     }
 
     // Muestra la respuesta correcta
     function showAnswer() {
-      const resultElement = document.getElementById("result");
-      resultElement.textContent = `La respuesta correcta es: ${currentQuestion.name}.`;
-      resultElement.style.color = "blue";
+      document.getElementById("result").textContent = `La respuesta correcta es: ${currentQuestion.name}`;
     }
 
-    // Pasa a la siguiente pregunta
+    // Siguiente pregunta
     function nextQuestion() {
       showQuestion();
     }
 
-    // Inicializar la primera pregunta
+    // Inicia la primera pregunta
     showQuestion();
   </script>
 </body>
