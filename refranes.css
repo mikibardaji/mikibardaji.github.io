@@ -55,7 +55,7 @@ button {
 }
 
 button:hover {
-    background-color: #27ae60;
+    background-color: brown;
 }
 
 @media (max-width: 600px) {
@@ -70,4 +70,26 @@ button:hover {
     .fin {
         font-size: 1rem;
     }
+}
+
+/* Para ambos botones (mismo tamaño) */
+.boton {
+    width: 100%;         /* Esto hace que ambos botones tengan el mismo tamaño */
+    padding: 15px;       /* Añadimos algo de relleno para hacerlo más grande */
+    font-size: 16px;     /* Aseguramos que el texto se vea bien */
+    border: none;        /* Quitamos los bordes predeterminados */
+    border-radius: 5px;  /* Redondeamos las esquinas */
+    cursor: pointer;     /* Hacemos que el cursor cambie al pasar sobre el botón */
+}
+
+/* Estilo específico para el botón "Siguiente Refrán" */
+.boton.siguiente {
+    background-color: blue;  /* Fondo azul para este botón */
+    color: white;            /* Texto blanco */
+}
+
+/* Estilo para el botón "PIENSA LA RESPUESTA" */
+.boton {
+    background-color: red;  /* Fondo verde para el primer botón */
+    color: white;               /* Texto blanco */
 }
