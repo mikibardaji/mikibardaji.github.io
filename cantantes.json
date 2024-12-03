@@ -68,5 +68,21 @@
   { "correctAnswer": "Eric Clapton", "image": "https://xploramusica.com/wp-content/uploads/2024/03/Eric-Clapton-performing-at-the-Royal-Albert-Hall-on-21-May-e1585604570735.jpg" },
   { "correctAnswer": "Rod Stewart", "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/CEUCYKEBEBGWNNSQFJWDOBR5WE.jpg" },
   { "correctAnswer": "Sting", "image": "https://cdn.aarp.net/content/dam/aarpe/es/home/entretenimiento/musica-cultura/info-2021/sting-entrevista-album-duets/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.jpeg/content/dam/aarp/entertainment/music/2021/03/1140-sting-esp.jpg" },
-  { "correctAnswer": "Paul McCartney", "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/06/17/14977231249611.jpg" }
+  { "correctAnswer": "Aretha Franklin", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aretha_Franklin_1968.jpg/407px-Aretha_Franklin_1968.jpg" },
+  { "correctAnswer": "Ray Charles", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ray_Charles_classic_piano_pose.jpg/407px-Ray_Charles_classic_piano_pose.jpg" },
+  { "correctAnswer": "Frank Sinatra", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/364px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg" },
+  { "correctAnswer": "Paul McCartney", "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/06/17/14977231249611.jpg" },
+  { "correctAnswer": "Louis Amstrong", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Louis_Armstrong_restored.jpg/480px-Louis_Armstrong_restored.jpg" },
+  { "correctAnswer": "Bob Dylan", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/358px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg" },
+  { "correctAnswer": "James Brown", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/James_Brown_1996.jpg/336px-James_Brown_1996.jpg" },
+  { "correctAnswer": "Roy Orbison", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roy_Orbison_%281965%29.jpg/480px-Roy_Orbison_%281965%29.jpg" },
+  { "correctAnswer": "Jonny Cage", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/361px-Johnny_Cash_1977.jpg" },
+  { "correctAnswer": "Janis Joplin", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Janis_Joplin_1970.JPG/397px-Janis_Joplin_1970.JPG" },
+  { "correctAnswer": "Neil Young", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Neil_Young_Stavernfestivalen_2016_%28220929%29.jpg/398px-Neil_Young_Stavernfestivalen_2016_%28220929%29.jpg" },
+  { "correctAnswer": "Rod Stewart", "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rod_Stewart_86.jpg" },
+  { "correctAnswer": "Jerry Lewis", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg/371px-Jerry_Lee_Lewis_1950s_publicity_photo_cropped_retouched.jpg" },
+  { "correctAnswer": "Dolly Parton", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dolly_Parton_at_%27Blue_Smoke_World_Tour%27_in_Knoxville.jpg/359px-Dolly_Parton_at_%27Blue_Smoke_World_Tour%27_in_Knoxville.jpg" },
+  { "correctAnswer": "B.B. King", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/B.B._King_%2846264650642%29.jpg/380px-B.B._King_%2846264650642%29.jpg" },
+  { "correctAnswer": "Annie Lenox", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Annie_Lennox_March_2023.jpg/386px-Annie_Lennox_March_2023.jpg" }
+  
 ]
