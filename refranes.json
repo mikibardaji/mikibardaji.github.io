@@ -1,0 +1,891 @@
+[
+    {
+      "inicio": "Haz el bien",
+      "fin": "sin mirar a quién"
+    },
+    {
+      "inicio": "La avaricia",
+      "fin": "rompe el saco"
+    },
+    {
+      "inicio": "Más vale prevenir",
+      "fin": "que curar"
+    },
+    {
+      "inicio": "No es oro todo",
+      "fin": "lo que reluce"
+    },
+    {
+      "inicio": "No hay mal",
+      "fin": "que por bien no venga"
+    },
+    {
+      "inicio": "Al mal tiempo",
+      "fin": "buena cara"
+    },
+    {
+      "inicio": "Quien tiene un amigo",
+      "fin": "tiene un tesoro"
+    },
+    {
+      "inicio": "No dejes para mañana",
+      "fin": "lo que puedas hacer hoy"
+    },
+    {
+      "inicio": "Quien no arriesga",
+      "fin": "no gana"
+    },
+    {
+      "inicio": "De los errores",
+      "fin": "se aprende"
+    },
+    {
+      "inicio": "Hoy por ti",
+      "fin": "mañana por mí"
+    },
+    {
+      "inicio": "Más vale pájaro en mano",
+      "fin": "que ciento volando"
+    },
+    {
+      "inicio": "El que tiene boca",
+      "fin": "se equivoca"
+    },
+    {
+      "inicio": "Primero es la obligación",
+      "fin": "que la devoción"
+    },
+    {
+      "inicio": "El saber",
+      "fin": "no ocupa lugar"
+    },
+    {
+      "inicio": "El que lee mucho y anda mucho",
+      "fin": "ve mucho y sabe mucho"
+    },
+    {
+      "inicio": "El que algo quiere",
+      "fin": "algo le cuesta"
+    },
+    {
+      "inicio": "A palabras necias",
+      "fin": "oídos sordos"
+    },
+    {
+      "inicio": "Preguntando",
+      "fin": "se llega a Roma"
+    },
+    {
+      "inicio": "El hábito",
+      "fin": "no hace al monje"
+    },
+    {
+      "inicio": "El que a hierro mata",
+      "fin": "a hierro muere"
+    },
+    {
+      "inicio": "A enemigo que huye",
+      "fin": "puente de plata"
+    },
+    {
+      "inicio": "Ande yo caliente",
+      "fin": "ríase la gente"
+    },
+    {
+      "inicio": "Nunca llueve",
+      "fin": "a gusto de todos"
+    },
+    {
+      "inicio": "Año nuevo",
+      "fin": "vida nueva"
+    },
+    {
+      "inicio": "Treinta días trae noviembre, con abril, junio y septiembre; veintiocho trae uno; y los demás",
+      "fin": "treinta y uno"
+    },
+    {
+      "inicio": "Cada gallo",
+      "fin": "en su muladar"
+    },
+    {
+      "inicio": "Cada cual",
+      "fin": "en su corral"
+    },
+    {
+      "inicio": "Cada mochuelo",
+      "fin": "a su olivo"
+    },
+    {
+      "inicio": "Cada loco con su tema y cada lobo",
+      "fin": "con su prenda"
+    },
+    {
+      "inicio": "El ladrón en la horca y el santo en el altar",
+      "fin": "para bien estar"
+    },
+    {
+      "inicio": "Cada uno en su casa",
+      "fin": "y Dios en la de todos"
+    },
+    {
+      "inicio": "Allí donde fueres",
+      "fin": "haz lo que vieres"
+    },
+    {
+      "inicio": "Si entre burros te ves",
+      "fin": "rebuzna alguna vez"
+    },
+    {
+      "inicio": "Quien con locos se ha de entender",
+      "fin": "seso es menester"
+    },
+    {
+      "inicio": "Callar y callemos",
+      "fin": "que todos por qué callar tenemos"
+    },
+    {
+      "inicio": "Cállate y callemos",
+      "fin": "que sendas nos tenemos"
+    },
+    {
+      "inicio": "Quien tiene por qué callar",
+      "fin": "no ha de hablar"
+    },
+    {
+      "inicio": "Al buen callar",
+      "fin": "llaman Sancho"
+    },
+    {
+      "inicio": "Oír, ver y callar",
+      "fin": "recias cosas son de obrar"
+    },
+    {
+      "inicio": "Por callar a nadie",
+      "fin": "vi ahorcar"
+    },
+    {
+      "inicio": "Quien no sabe callar",
+      "fin": "no sabe hablar"
+    },
+        {
+          "inicio": "Quien da pan a perro ajeno",
+          "fin": "pierde pan y pierde perro"
+        },
+        {
+          "inicio": "A enemigo que huye",
+          "fin": "puente de plata"
+        },
+        {
+          "inicio": "El que en fuego busca",
+          "fin": "o se quema o se chamusca"
+        },
+        {
+          "inicio": "Quien juega con fuego",
+          "fin": "se quema los dedos"
+        },
+        {
+          "inicio": "Ni tan adentro del horno",
+          "fin": "que te quemes, ni tan fuera que te hieles"
+        },
+        {
+          "inicio": "No te quemes la boca",
+          "fin": "por comer pronto la sopa"
+        },
+        {
+          "inicio": "Quien se quema en la sopa",
+          "fin": "sopla en la fruta"
+        },
+        {
+          "inicio": "El gato escaldado",
+          "fin": "del agua fría escapa"
+        },
+        {
+          "inicio": "El escarmentado busca el puente",
+          "fin": "y deja el vado"
+        },
+        {
+          "inicio": "Escarmentar en cabeza ajena",
+          "fin": "doctrina buena"
+        },
+        {
+          "inicio": "Tropezar y no caer",
+          "fin": "buen aviso es"
+        },
+        {
+          "inicio": "Cuando las barbas de tu vecino veas pelar",
+          "fin": "pon las tuyas a remojar"
+        },
+        {
+          "inicio": "A barba muerta",
+          "fin": "poca vergüenza"
+        },
+        {
+          "inicio": "Pez viejo",
+          "fin": "no traga anzuelo"
+        },
+        {
+          "inicio": "Años y desengaños",
+          "fin": "hacen a los hombres uraños"
+        },
+        {
+          "inicio": "Pájaro viejo",
+          "fin": "no entra en jaula"
+        },
+        {
+          "inicio": "Una vez se la pegan al galgo",
+          "fin": "pero a la segunda encoge el rabo"
+        },
+        {
+          "inicio": "Una vez engañan al prudente",
+          "fin": "y dos al inocente"
+        },
+        {
+          "inicio": "Hombre prevenido",
+          "fin": "vale por dos"
+        },
+        {
+          "inicio": "Del viejo",
+          "fin": "el consejo"
+        },
+        {
+          "inicio": "Si quieres buen consejo",
+          "fin": "pídelo al hombre viejo"
+        },
+        {
+          "inicio": "Más sabe el diablo por viejo",
+          "fin": "que por diablo"
+        },
+        {
+          "inicio": "Quien no oye consejo",
+          "fin": "no llega a viejo"
+        },
+        {
+          "inicio": "Después de verme robado",
+          "fin": "compré un candado"
+        },
+        {
+          "inicio": "El que con niños se acuesta",
+          "fin": "meado se levanta"
+        },
+        {
+          "inicio": "Quien con niños se acuesta",
+          "fin": "por la mañana apesta"
+        },
+        {
+          "inicio": "Quien con perros se acuesta",
+          "fin": "con pulgas despierta"
+        },
+        {
+          "inicio": "El que anda con aceite",
+          "fin": "se pringa"
+        },
+        {
+          "inicio": "Las paredes, orejas y ojos",
+          "fin": "tienen"
+        },
+        {
+          "inicio": "Entre la mano y el plato",
+          "fin": "entra el gato"
+        },
+        {
+          "inicio": "El descuidado va por lumbre",
+          "fin": "el cuidadoso él se la cubre"
+        },
+        {
+          "inicio": "En martes",
+          "fin": "ni te cases ni te embarques"
+        },
+        {
+          "inicio": "Guárdate del agua mansa",
+          "fin": "que la recia ella misma se aparta"
+        },
+        {
+          "inicio": "Del agua mansa me libre Dios",
+          "fin": "que de la brava me guardo yo"
+        },
+        {
+          "inicio": "Donde va más hondo el río",
+          "fin": "hace menos ruido"
+        },
+        {
+          "inicio": "La corriente silenciosa",
+          "fin": "es la más peligrosa"
+        },
+        {
+          "inicio": "Guárdeme del aire colado",
+          "fin": "y del fraile colorado"
+        },
+        {
+          "inicio": "Cantarillo que mucho va a la fuente",
+          "fin": "o deja el asa o la frente"
+        },
+        {
+          "inicio": "Tanto va el cántaro a la fuente",
+          "fin": "que al fin se quiebra"
+        },
+        {
+          "inicio": "Tanto va el cántaro a la fuente",
+          "fin": "que se acaba por romper"
+        },
+        {
+          "inicio": "A gran arroyo",
+          "fin": "pasar postrero"
+        },
+        {
+          "inicio": "Ir contracorriente",
+          "fin": "no es de hombre prudente"
+        },
+        {
+          "inicio": "No dejes camino viejo",
+          "fin": "por sendero nuevo"
+        },
+        {
+          "inicio": "No siempre es buen tino",
+          "fin": "seguir el corto camino"
+        },
+        {
+          "inicio": "Quien deja camino por vereda",
+          "fin": "atrás se queda"
+        },
+            {
+              "inicio": "El escarmentado busca el puente",
+              "fin": "y deja el vado"
+            },
+            {
+              "inicio": "Tropezar y no caer",
+              "fin": "buen aviso es"
+            },
+            {
+              "inicio": "Años y desengaños",
+              "fin": "hacen a los hombres uraños"
+            },
+            {
+              "inicio": "Pájaro viejo",
+              "fin": "no entra en jaula"
+            },
+            {
+              "inicio": "Del viejo",
+              "fin": "el consejo"
+            },
+            {
+              "inicio": "Las paredes, orejas y ojos",
+              "fin": "tienen"
+            },
+            {
+              "inicio": "Entre la mano y el plato",
+              "fin": "entra el gato"
+            },
+            {
+              "inicio": "La corriente silenciosa",
+              "fin": "es la más peligrosa"
+            },
+            {
+              "inicio": "A camino largo",
+              "fin": "paso corto"
+            },
+            {
+              "inicio": "Las cosas de palacio",
+              "fin": "van despacio"
+            },
+            {
+              "inicio": "El burro delante",
+              "fin": "para que no se espante"
+            },
+            {
+              "inicio": "Zapatero",
+              "fin": "a tus zapatos"
+            },
+            {
+              "inicio": "Para lo que no es de mi cuenta",
+              "fin": "lo mismo me da ocho que ochenta"
+            },
+            {
+              "inicio": "El que a mi casa no va",
+              "fin": "de la suya me echa"
+            },
+            {
+              "inicio": "Más sabe el loco en su casa",
+              "fin": "que el cuerdo en la ajena"
+            },
+            {
+              "inicio": "Donde fuiste paje",
+              "fin": "no seas escudero"
+            },
+            {
+              "inicio": "No es oro todo lo que reluce",
+              "fin": "ni harina lo que blanquea"
+            },
+            {
+              "inicio": "Cuando una puerta se cierra",
+              "fin": "cientos se abren"
+            },
+            {
+              "inicio": "El que espera",
+              "fin": "desespera"
+            },
+            {
+              "inicio": "La dicha que tarda",
+              "fin": "con gusto se aguarda"
+            },
+            {"inicio": "Oye primero", "fin": "y habla postrero"},
+            {"inicio": "El mucho hablar es dañoso", "fin": "y el mucho callar, provechoso"},
+            {"inicio": "Con el hombre siempre callado", "fin": "mucho cuidado"},
+            {"inicio": "Ni todo es para dicho", "fin": "ni todo para callado"},
+            {"inicio": "Perro callado", "fin": "míralo con cuidado"},
+            {"inicio": "Guárdate de hombre que no habla", "fin": "y de perro que no ladra"},
+            {"inicio": "Lo que el niño oyó en el hogar", "fin": "eso dice en el portal"},
+            {"inicio": "La ropa sucia", "fin": "en casa se lava"},
+            {"inicio": "Quien dice lo suyo", "fin": "mal callará lo ajeno"},
+            {"inicio": "En el decir", "fin": "discreto, en el hacer, secreto"},
+            {"inicio": "Tu camisón no sepa", "fin": "la intención"},
+            {"inicio": "Ante la duda", "fin": "la lengua muda"},
+            {"inicio": "Ante la duda", "fin": "la más peluda"},
+            {"inicio": "La mano cuerda", "fin": "no hace todo lo que dice la lengua"},
+            {"inicio": "La palabra y la piedra suelta", "fin": "no tienen vuelta"},
+            {"inicio": "Quien los labios se muerde", "fin": "más gana que pierde"},
+            {"inicio": "Quien guarda la lengua", "fin": "guarda su hacienda"},
+            {"inicio": "Un candado para la bolsa", "fin": "y dos para la boca"},
+            {"inicio": "Un nudo en la bolsa", "fin": "y dos gordos en la boca"},
+            {"inicio": "Resbalón de pie", "fin": "percance fue; resbalón de lengua, percance y mengua"},
+            {"inicio": "Quien quiera medrar", "fin": "la lengua ha de manejar"},
+            {"inicio": "Quien calla", "fin": "piedras apaña"},
+            {"inicio": "Habla poco y escucha asaz", "fin": "y no errarás"},
+            {"inicio": "Lengua sabia", "fin": "a nadie agravia"},
+            {"inicio": "Quien pregunta lo que no debe", "fin": "le responden lo que no quiere"},
+            {"inicio": "Al que quiera saber", "fin": "poquito y al revés"},
+            {"inicio": "Para que en todas partes quepas", "fin": "no hables de lo que no sepas"},
+            {"inicio": "No hables sin ser preguntado", "fin": "y serás estimado"},
+            {"inicio": "En lo que a otro toca", "fin": "punto en boca"},
+            {"inicio": "Vista larga y lengua corta", "fin": "y huir de lo que no te importa"},
+            {"inicio": "No alabes lo que no sabes", "fin": "no sabes"},
+            {"inicio": "Quien mucho dice", "fin": "mucho se desdice"},
+            {"inicio": "Quien no dice nada", "fin": "ni peca ni miente"},
+            {"inicio": "De haber dicho “sí”", "fin": "muchas veces me arrepentí; de haber dicho “no”, nadie se arrepintió"},
+            {"inicio": "Quien fía o promete", "fin": "en deuda se mete"},
+            {"inicio": "Quien promete", "fin": "en deuda se mete"},
+            {"inicio": "Ve en lo que te metes", "fin": "si algo prometes"},
+            {"inicio": "Más atan papeles", "fin": "que cordeles"},
+            {"inicio": "Ni comer sin beber", "fin": "ni firmar sin leer"},
+            {"inicio": "Ni te cases sin ver", "fin": "ni firmes sin leer"},
+            {"inicio": "Ni bebas agua que no veas", "fin": "ni firmes carta que no leas"},
+            {"inicio": "Mentir y comer pescado", "fin": "piden cuidado"},
+            {"inicio": "Quien con muchos se casa", "fin": "a todos enfada"},
+            {"inicio": "Quien a todos cree", "fin": "yerra; quien a ninguno, no acierta"},
+            {"inicio": "Quien de otro se fía", "fin": "ya llorará algún día"},
+            {"inicio": "De hombre que nunca ríe", "fin": "nadie fíe"},
+            {"inicio": "Con mujer barbuda y hombre desbarbado", "fin": "cuidado"},
+            {"inicio": "A poca barba", "fin": "poca vergüenza"},
+            {"inicio": "No te fíes de ligero", "fin": "de quien se dice compañero"},
+            {"inicio": "Quien mucho te alaba", "fin": "te la clava"},
+            {"inicio": "El amigo probado", "fin": "el melón calado"},
+            {"inicio": "Mejor solo que mal acompañado", "fin": ""},
+            {"inicio": "El amigo que no es cierto", "fin": "con un ojo cerrado y otro abierto"},
+            {"inicio": "Hay hombres tales", "fin": "que son traidores y parecen leales"},
+            {"inicio": "El amigo imprudente", "fin": "con una piedra te mata el mosquito en la frente"},
+            {"inicio": "Juntose el lobo", "fin": "a la oveja, y le comió la pelleja"},
+            {"inicio": "A cordero extraño", "fin": "no metas en tu rebaño"},
+            {"inicio": "Brasa trae en el seno", "fin": "la que cría hijo ajeno"},
+                {"inicio": "A falta de pan", "fin": "buenas son tortas"},
+                {"inicio": "Salud, días y ollas", "fin": "componen cosas"},
+                {"inicio": "Dé donde diere", "fin": "y ruede el mundo como quisiere"},
+                {"inicio": "Todos los caminos", "fin": "conducen a Roma"},
+                {"inicio": "Ni lo dulce ni lo amargo", "fin": "dura tiempo largo"},
+                {"inicio": "No hay mal que cien años", "fin": "dure"},
+                {"inicio": "No hay mal que cien años dure", "fin": "ni gitano que lo aguante"},
+                {"inicio": "No hay nublado", "fin": "que dure un año"},
+                {"inicio": "No hay mal tan grave", "fin": "que, si no se acaba, no se acabe"},
+                {"inicio": "No es de ahora el mal", "fin": "que no mejora"},
+                {"inicio": "A cualquier dolencia", "fin": "es remedio la paciencia"},
+                {"inicio": "El tiempo lo cura todo", "fin": ""},
+                {"inicio": "A cualquier dolor", "fin": "paciencia es lo mejor"},
+                {"inicio": "Quien canta", "fin": "su mal espanta"},
+                {"inicio": "Juntando los bienes", "fin": "con males, resultan todos los años iguales"},
+                {"inicio": "Unas veces ganando", "fin": "y otras perdiendo, vamos viviendo"},
+                {"inicio": "Unas veces tropezando", "fin": "y otras cayendo, vamos viviendo"},
+                {"inicio": "Yendo y viviendo", "fin": "vamos viviendo"},
+                {"inicio": "Unas veces se gana", "fin": "y otras se pierde"},
+                {"inicio": "Nunca llueve", "fin": "a gusto de todos"},
+                {"inicio": "Vivir bien", "fin": "es lo que importa, que la vida es corta"},
+                {"inicio": "Lo comido", "fin": "por lo servido"},
+                {"inicio": "No hay río", "fin": "que no tenga vado, ni plazo que no llegue al cabo"},
+                {"inicio": "Cada uno estornuda", "fin": "como Dios le ayuda"},
+                {"inicio": "Viento y ventura", "fin": "poco dura"},
+                {"inicio": "La fortuna es una veleta", "fin": "nunca está quieta"},
+                {"inicio": "Nadie diga", "fin": "“bien estoy” sin añadir “hoy por hoy”"},
+                {"inicio": "A días claros", "fin": "oscuros nublados"},
+                {"inicio": "Año bisiesto", "fin": "año siniestro"},
+                {"inicio": "Cada año trae su daño", "fin": "y cada día, su acedía"},
+                {"inicio": "No son iguales todos los días", "fin": "los más traen penas, los menos, alegrías"},
+                {"inicio": "Todas las horas", "fin": "nos maltratan y la última nos mata"},
+                {"inicio": "Son más los días", "fin": "que las alegrías"},
+                {"inicio": "Un mal ido", "fin": "otro venido"},
+                {"inicio": "Penas y olas", "fin": "nunca vienen solas"},
+                {"inicio": "Las desgracias nunca vienen solas", "fin": ""},
+                {"inicio": "La desgracia a la puerta", "fin": "vela, y a la primera ocasión, se cuela"},
+                {"inicio": "A caballo y deprisa viene el mal", "fin": "y a pie y cojeando se va"},
+                {"inicio": "Ponte en lo peor", "fin": "y acertarás de tres veces, dos"},
+                {"inicio": "Quien ha de ser burro de carga", "fin": "del cielo le cae la albarda"},
+                {"inicio": "Quien nace para martillo", "fin": "del cielo le caen los clavos"},
+                {"inicio": "A perro flaco", "fin": "todo son pulgas"},
+                {"inicio": "Las desgracias nunca vienen solas", "fin": ""},
+                {"inicio": "Todo mi gozo", "fin": "en un pozo"},
+                {"inicio": "La mala noticia viene", "fin": "como saeta, la buena, como carreta"},
+                {"inicio": "La mala noticia llega volando", "fin": "y la buena, cojeando"},
+                {"inicio": "Cuando no hay nuevas", "fin": "todas son buenas"},
+                {"inicio": "Pues tarda el mensajero", "fin": "buenas noticias tenemos"},
+                {"inicio": "Quien dijo años", "fin": "dijo desengaños"},
+                {"inicio": "Quien vive de ilusiones", "fin": "de desengaños muere"},
+                {"inicio": "De ilusión también se vive", "fin": ""},
+                {"inicio": "Viejo soy y viejo serás", "fin": "cual me ves, te verás"},
+                {"inicio": "Hijos criados", "fin": "duelos doblados"},
+                {"inicio": "En cien años todos calvos", "fin": ""},
+                {"inicio": "Pelo a pelo perdiendo", "fin": "quien ha de ser calvo lo va siendo"},
+                {"inicio": "De fuera vendrá", "fin": "quien de casa nos echará"},
+                {"inicio": "De fuera vendrá", "fin": "que bueno te hará"},
+                {"inicio": "Al médico, confesor y letrado", "fin": "háblales claro"},
+                {"inicio": "Tiempo pasado siempre es deseado", "fin": ""},
+                {"inicio": "Cualquier tiempo pasado", "fin": "fue mejor"},
+                {"inicio": "Tiempo pasado", "fin": "siempre loado"},
+                {"inicio": "El que tiene hambre", "fin": "con pan sueña"},
+                {"inicio": "Soñaba el ciego que veía", "fin": "y soñaba lo que quería"},
+                {"inicio": "Quien va y vuelve", "fin": "hace buen viaje"},
+                {"inicio": "No hay ninguno tan pobre", "fin": "que la muerte no le sobre"},
+                {"inicio": "No hay vida como la del pobre", "fin": "teniendo pan que le sobre"},
+                {"inicio": "Trabajar y no medrar", "fin": "es gran pesar"},
+                {"inicio": "Afanar, afanar", "fin": "y nunca medrar"},
+                {"inicio": "Tres cosas hay", "fin": "que nadie sabe cómo han de ser: el melón, el toro y la mujer"},
+                {"inicio": "El melón y el casamiento", "fin": "han de ser acertamiento"},
+                {"inicio": "El melón y el casar", "fin": "todo es acertar"},
+                {"inicio": "Derramar vino", "fin": "buen destino; derramar sal, mala señal"},
+                {"inicio": "Quien encuentra una herradura", "fin": "guárdela para su ventura"},
+                {"inicio": "A cada gorrín", "fin": "le llega su san Martín"},
+                {"inicio": "A cada cerdo", "fin": "le llega su san Martín"},
+                {"inicio": "El sueño y la muerte", "fin": "próximos parientes."},
+                {"inicio": "Contra la muerte no hay ley", "fin": "mata al Papa, mata al rey."},
+                {"inicio": "Entre todos la mataron", "fin": "y ella sola se murió."},
+                {"inicio": "Genio y figura", "fin": "hasta la sepultura."},
+                {"inicio": "Muerto el perro", "fin": "se acabó la rabia."},
+                {"inicio": "Virtud da la vida", "fin": "y el vicio la quita."},
+                {"inicio": "A rey muerto", "fin": "rey puesto."},
+                {"inicio": "Todo tiene remedio", "fin": "menos la muerte."},
+                {"inicio": "El muerto al hoyo", "fin": "y el vivo al bollo."},
+                {"inicio": "Al fin y a la partida", "fin": "la muerte triunfa sobre la vida."},
+                {"inicio": "Para el último viaje", "fin": "no es menester equipaje."},
+                {"inicio": "Vida sin amigos", "fin": "muerte sin testigos."},
+                {"inicio": "Al vivo todo le falta", "fin": "y al muerto todo le sobra."},
+                {"inicio": "No se muere dos veces", "fin": "si no se escapa de la muerte una vez."},
+                {"inicio": "La muerte no es más", "fin": "que un cambio de misión."},
+                {"inicio": "Quien teme a la muerte", "fin": "no goza la vida."},
+                {"inicio": "La muerte es una vida vivida.", "fin": "La vida es una muerte que viene."},
+                {"inicio": "En el ajedrez, como en la vida", "fin": "una vez terminada la partida, el rey y el peón vuelven a la misma caja."},
+                {"inicio": "La muerte no llega con la vejez", "fin": "sino con el olvido."},
+                {"inicio": "La muerte es solo el final", "fin": "de una vida, no de una relación."},
+                {"inicio": "Morir es nada", "fin": "lo terrible es no vivir."},
+                {"inicio": "Adonde el corazón se inclina", "fin": "el pie camina."},
+                {"inicio": "Amor", "fin": "con amor se paga."},
+                {"inicio": "Amores nuevos", "fin": "olvidan viejos."},
+                {"inicio": "No hay luna", "fin": "como la de enero ni amor como el primero."}
+                ,
+                    {"inicio": "Amar sin padecer", "fin": "no puede ser"},
+                    {"inicio": "Todo está permitido", "fin": "en la guerra y en el amor"},
+                    {"inicio": "A amor y fortuna", "fin": "resistencia ninguna"},
+                    {"inicio": "Desgraciado en el juego", "fin": "afortunado en el amor"},
+                    {"inicio": "El amor da al necio", "fin": "osadía y entendimiento"},
+                    {"inicio": "Quien bien te quiere", "fin": "te hará llorar"},
+                    {"inicio": "En el amor", "fin": "da igual nabo que coliflor"},
+                    {"inicio": "Sigue el amor", "fin": "y este escapará, huye del amor y te seguirá"},
+                    {"inicio": "El amor todo lo vence", "fin": ""},
+                    {"inicio": "El amor mata", "fin": "con flechas de oro"},
+                    {"inicio": "Dar amistad a quien quiere amar", "fin": "es como dar pan al que tiene sed"},
+                    {"inicio": "Amor con celos", "fin": "causa desvelos"},
+                    {"inicio": "El amor no se domina", "fin": "se cultiva"},
+                    {"inicio": "Amores reñidos", "fin": "son los más queridos"},
+                    {"inicio": "Amar y ser amado", "fin": "es sentir el sol por ambos lados"},
+                    {"inicio": "El amor y la luna", "fin": "se parecen: menguan cuando no crecen"},
+                    {"inicio": "Donde hubo fuego", "fin": "siempre quedan cenizas"},
+                    {"inicio": "Más fuerte era Sansón", "fin": "y le venció el amor"},
+                    {"inicio": "Es tan corto el amor", "fin": "y es tan largo el olvido"},
+                    {"inicio": "Amor no es aquello", "fin": "que queremos sentir, sino aquello que sentimos sin querer"},
+                    {"inicio": "Llagas hay que no se curan", "fin": "y toda la vida duran"},
+                    {"inicio": "Quien bien quiere", "fin": "tarde olvida"},
+                    {"inicio": "Ojos que no ven", "fin": "corazón que no siente"},
+                    {"inicio": "Un clavo saca a otro clavo", "fin": ""},
+                    {"inicio": "Quien bien te quiera", "fin": "te hará llorar"},
+                    {"inicio": "Mala señal es de amor", "fin": "huir y volver la cara"},
+                    {"inicio": "La distancia no es cuanto nos separemos", "fin": "la distancia es si no volvemos"},
+                    {"inicio": "No llores porque ya se terminó", "fin": "sonríe porque sucedió"},
+                    {"inicio": "Corazón que no ve", "fin": "es corazón que no duele"},
+                    {"inicio": "Mejor solo que mal acompañado", "fin": ""},
+                    {"inicio": "Del amor al odio hay un paso", "fin": "del desamor a la paz otro tanto"},
+                    {"inicio": "Amores que matan", "fin": "nunca mueren"},
+                    {"inicio": "El tiempo todo lo cura", "fin": "menos vejez y locura"},
+                    {"inicio": "A mal amor", "fin": "buena cara y mejor adiós"},
+                    {"inicio": "A rey muerto, rey puesto", "fin": "a amor ido, corazón renovado"},
+                    {"inicio": "Desayunar como un rey", "fin": "comer como un príncipe y cenar como un mendigo"},
+                    {"inicio": "A falta de pan", "fin": "buenas son tortas"},
+                    {"inicio": "Una manzana al día", "fin": "mantiene al médico en la lejanía"},
+                    {"inicio": "Barriga llena", "fin": "corazón contento"},
+                    {"inicio": "El buen alimento", "fin": "cría entendimiento"},
+                    {"inicio": "Quien come con cordura", "fin": "por su salud procura"},
+                    {"inicio": "Caldo de gallina", "fin": "es reconocida medicina"},
+                    {"inicio": "La ensalada bien preparada", "fin": "poco vinagre y bien aceitada"},
+                    {"inicio": "Con verde, pimiento y pepino", "fin": "tendrás tipo fino"},
+                    {"inicio": "El aceite de oliva", "fin": "es armero, relojero y curandero"},
+                    {"inicio": "De la panza sale", "fin": "la danza"},
+                    {"inicio": "Comer sin apetito", "fin": "hace daño y es delito"},
+                    {"inicio": "Pan con ojos", "fin": "queso sin ojos y vino que te haga saltar los ojos"},
+                    {"inicio": "Quien bien cena y bien digiere", "fin": "de viejo se muere"},
+                    {"inicio": "Al pan, pan", "fin": "y al vino, vino, y en la mesa de un amigo, todo sabe divino"},
+                    {"inicio": "No hay mejor salsa", "fin": "que el hambre, ni mejor plato que el pan y el queso"},
+                    {"inicio": "Sopa sin sal", "fin": "enfermo mortal; pero con un poco de amor, todo tiene mejor sabor"},
+                    {"inicio": "Lo que se come con gusto", "fin": "nunca hace daño"},
+                    {"inicio": "El que guarda cuando tiene", "fin": "come cuando quiere"},
+                    {"inicio": "A cena de vino", "fin": "desayuno de agua"},
+                    {"inicio": "Para que el vino sepa a vino", "fin": "se ha de beber con un amigo"},
+                    {"inicio": "El vino alegra el ojo", "fin": "limpia el diente y sana el vientre"},
+                    {"inicio": "Bueno es beber", "fin": "pero no hasta caer"},
+                    {"inicio": "La cerveza es siempre la respuesta", "fin": "hasta que olvides la pregunta"},
+                    {"inicio": "Cerveza y vino", "fin": "puntillo divino"},
+                    {"inicio": "Con cerveza no hay tristeza", "fin": ""},
+                    {"inicio": "En la variedad está el gusto", "fin": "pero en el vino la verdad"},
+                    {"inicio": "Vino en jarra", "fin": "alegría que no amarra"},
+                    {"inicio": "Quien mucho vino bebe", "fin": "no guarda secreto"},
+                    {"inicio": "Cerveza fría y pan caliente", "fin": "hacen al estómago valiente"},
+                    {"inicio": "No hay mal que por vino no venga", "fin": "ni pena que la cerveza no tenga"},
+                    {"inicio": "Vino en el almuerzo", "fin": "paso firme y seguro; vino en la cena, paso incierto y oscuro"},
+                    {"inicio": "Más vale pan con vino", "fin": "que pastel con agua fina"},
+                    {"inicio": "El vino siembra poesía", "fin": "en los corazones"},
+                    {"inicio": "Agua para los bueyes", "fin": "vino para los reyes"},
+                    {"inicio": "Cual el año", "fin": "tal el jarro"},
+                    {"inicio": "Agua del cielo", "fin": "no hace agujero"},
+                    {"inicio": "Año que empieza helando", "fin": "mucho pan viene anunciando"},
+                    {"inicio": "Buena es la nieve", "fin": "que en su tiempo viene"},
+                    {"inicio": "Diciembre mojado", "fin": "y enero bien helado"},
+                    {"inicio": "Agua de enero", "fin": "cada gota vale dinero"},
+                    {"inicio": "Buen enero", "fin": "mal febrero"},
+                    {"inicio": "En enero se hiela", "fin": "el agua en el puchero"},
+                    {"inicio": "Tan malo es enero", "fin": "como febrero"},
+                    {"inicio": "Año de nieves", "fin": "año de bienes"},
+                    {"inicio": "En febrero", "fin": "busca la sombra el perro"},
+                    {"inicio": "En febrero busca la sombra el perro", "fin": "pero a últimos no a primeros"},
+                    {"inicio": "En febrero", "fin": "un rato al sol y otro al humero"},
+                    {"inicio": "Por san Blas", "fin": "la cigüeña verás, y si no la vieres, año de nieves"},
+                    {"inicio": "Por san Blas", "fin": "una hora menos y otra más"},
+                    {"inicio": "Refranes que no sean verdaderos", "fin": "y febreros que no sean locos, pocos"},
+                    {"inicio": "Agua de marzo", "fin": "peor que la mancha en el paño"},
+                    {"inicio": "En marzo el sol riega", "fin": "y el agua quema"},
+                    {"inicio": "Cuando marzo mayea", "fin": "mayo marcea"},
+                    {"inicio": "Cuando marzo mueve el rabo", "fin": "ni deja pastor enzamarrado ni carnero encencerrado"},
+                    {"inicio": "En marzo", "fin": "la pepita y el garbanzo"},
+                    {"inicio": "Marzo ventoso y abril lluvioso", "fin": "traen a mayo florido y hermoso"},
+                    {"inicio": "A abril alabo", "fin": "si no mueve el rabo"},
+                    {"inicio": "Abril sonriente", "fin": "de río mata a la gente"},
+                    {"inicio": "Agua de abril", "fin": "granos mil"},
+                    {"inicio": "Abril", "fin": "aguas mil"},
+                    {"inicio": "En abril", "fin": "aguas mil, si no al principio, al medio o al fin"},
+                    {"inicio": "En abril aguas mil", "fin": "y todas caben en un barril"},
+                    {"inicio": "Abril", "fin": "lluvioso y señoril"},
+                    {"inicio": "Abril frío", "fin": "mucho pan y poco vino"},
+                                            {"inicio": "Nunca llueve", "fin": "al gusto de todos"},
+                        {"inicio": "Abriles buenos", "fin": "y buenos hidalgos, muy escasos"},
+                        {"inicio": "Llueva para mí en abril y mayo", "fin": "y para ti todo el año"},
+                        {"inicio": "Abril y mayo", "fin": "componen el año"},
+                        {"inicio": "Corta cardos en abril", "fin": "y de cada uno saldrán mil"},
+                        {"inicio": "Si no hubiera abril", "fin": "no habría año vil"},
+                        {"inicio": "Hasta el cuarenta de mayo", "fin": "no te quites el sayo, y si el tiempo es importuno, hasta el cuarenta de junio"},
+                        {"inicio": "Agua de mayo", "fin": "pan para todo el año"},
+                        {"inicio": "Mayo hortelano", "fin": "mucha paja y poco grano"},
+                        {"inicio": "Por san Matías", "fin": "igualan las noches con los días"},
+                        {"inicio": "Agua de por san Juan", "fin": "quita vino y no da pan"},
+                        {"inicio": "No estés al sol sin sombrero", "fin": "ni en agosto ni en enero"},
+                        {"inicio": "Agosto", "fin": "frío en el rostro"},
+                        {"inicio": "Agosto madura", "fin": "y septiembre vendimia la uva"},
+                        {"inicio": "Lo que agosta madura", "fin": "septiembre asegura"},
+                        {"inicio": "Agosto", "fin": "frío en el rostro"},
+                        {"inicio": "Agosto y vendimia", "fin": "no cada día y sí cada año; unos con ganancia y otros con daño"},
+                        {"inicio": "Agua de agosto", "fin": "azafrán, miel y mosto"},
+                        {"inicio": "Agosto tiene la culpa", "fin": "y septiembre la pulpa"},
+                        {"inicio": "Septiembre", "fin": "o seca las fuentes, o se lleva los puentes"},
+                        {"inicio": "Dichoso mes", "fin": "que entra con todos los santos y acaba con san Andrés"},
+                        {"inicio": "Treinta días trae noviembre", "fin": "con abril, junio y septiembre; veintiocho trae uno; y los demás, treinta y uno"},
+                        {"inicio": "Año nuevo", "fin": "vida nueva"},
+                        {"inicio": "Cielo aborregado", "fin": "suelo mojado"},
+                        {"inicio": "Mañana de niebla", "fin": "tarde de paseo"},
+                        {"inicio": "Cuando el pájaro la pica", "fin": "es cuando la fruta está rica"},
+                        {"inicio": "Cuando el grajo vuela bajo", "fin": "hace un frío del carajo"},
+                        {"inicio": "Nueve meses de invierno", "fin": "y tres de infierno"},
+                        {"inicio": "A la noche arreboles", "fin": "a la mañana soles"},
+                        {"inicio": "Como dijo mi abuela", "fin": "el tonto enciende la vela, la vela se apaga y el tonto se queda"},
+                        {"inicio": "Hay días tontos", "fin": "y tontos todos los días"},
+                        {"inicio": "Cada día que amanece", "fin": "el número de tontos crece"},
+                        {"inicio": "Aunque la mona se vista de seda", "fin": "mona se queda"},
+                        {"inicio": "Cuando el tonto coge la linde", "fin": "la linde se acaba pero el tonto sigue"},
+                        {"inicio": "Según san Andrés", "fin": "el que tiene cara de tonto, lo es"},
+                        {"inicio": "El que nace para tamal", "fin": "del cielo le caen las hojas"},
+                        {"inicio": "Más vale ser cabeza de ratón", "fin": "que cola de león, pero tonto en cualquier posición"},
+                        {"inicio": "El que por su gusto es buey", "fin": "hasta la yunta lame"},
+                        {"inicio": "A burro muerto", "fin": "la cebada al rabo"},
+                        {"inicio": "Por la boca muere el pez", "fin": "y por tonto el que es"},
+                        {"inicio": "Dichoso mes", "fin": "que entra con todos los santos y acaba con san Andrés"},
+                        {"inicio": "Por san Matías", "fin": "igualan las noches con los días"},
+                        {"inicio": "Agua de por san Juan", "fin": "quita vino y no da pan"},
+                        {"inicio": "Por san Blas", "fin": "una hora menos y otra más"},
+                        {"inicio": "Cuando el diablo no tiene nada que hacer", "fin": "mata moscas con el rabo"},
+                        {"inicio": "Dios aprieta pero no ahoga", "fin": ""},
+                        {"inicio": "El que esté libre de pecado", "fin": "que tire la primera piedra"},
+                        {"inicio": "Dios los cría", "fin": "y ellos se juntan"},
+                        {"inicio": "Da Dios almendras", "fin": "a quien no tiene muelas"},
+                        {"inicio": "Virgencita, Virgencita", "fin": "que me quede como estoy"},
+                        {"inicio": "A quien no se lo merece", "fin": "la Virgen se le aparece"},
+                        {"inicio": "Dios le da legañas", "fin": "al que no tiene pestañas"},
+                        {"inicio": "El hombre propone", "fin": "y Dios dispone"},
+                        {"inicio": "Más sabe el diablo", "fin": "por viejo que por diablo"},
+                        {"inicio": "A Dios rogando", "fin": "y con el mazo dando"},
+                        {"inicio": "De la mano de Dios", "fin": "ni el hilo se corta"},
+                        {"inicio": "Donde Dios cierra una puerta", "fin": "abre una ventana"},
+                        {"inicio": "Dar limosna no mengua la bolsa", "fin": ""},
+                        {"inicio": "Haz bien y no mires a quién", "fin": ""},
+                        {"inicio": "Da y ten", "fin": "y harás bien"},
+                        {"inicio": "Caridad y amor", "fin": "no quieren tambor"},
+                        {"inicio": "A borrica arrodillada", "fin": "no le dobles la carga"},
+                        {"inicio": "No hacer leña del árbol caído", "fin": ""},
+                        {"inicio": "Al amigo y al caballo", "fin": "ni apretarlo ni apurarlo"},
+                        {"inicio": "Al que están ahorcando", "fin": "no le tires de los pies"},
+                        {"inicio": "El que del campo viene", "fin": "caldo quiere"},
+                        {"inicio": "Donde comen dos", "fin": "comen tres"},
+                        {"inicio": "La mesa de San Francisco", "fin": "donde comen cuatro comen cinco"},
+                        {"inicio": "Donde comen tres", "fin": "comen cuatro"},
+                        {"inicio": "Donde caben tres", "fin": "caben cuatro"},
+                        {"inicio": "Un alma sola", "fin": "ni canta ni llora"},
+                        {"inicio": "Error confesado", "fin": "mitad perdonado"},
+                        {"inicio": "A la primera", "fin": "perdón; a la segunda, con el bastón"},
+                        {"inicio": "Perdona a tu amigo una vez", "fin": "pero no dos, ni tres"},
+                        {"inicio": "Quien ha de dar", "fin": "por los suyos ha de comenzar"},
+                        {"inicio": "Caridad buena", "fin": "la que empieza por mi casa y no por la ajena"},
+                        {"inicio": "Bueno es aconsejar", "fin": "mejor remediar"},
+                        {"inicio": "Obras son amores", "fin": "que no buenas razones"},
+                        {"inicio": "A Dios rogando", "fin": "y con el mazo dando"},
+                        {"inicio": "El rosario al cuello", "fin": "y el diablo en el cuerpo"},
+                        {"inicio": "Buenas palabras", "fin": "no hacen buen caldo"},
+                        {"inicio": "El mundo promete y no da", "fin": "y si algo te da, te costará"},
+                        {"inicio": "Con tanto decir amén", "fin": "la misa no sale bien"},
+                        {"inicio": "Con sólo rocíos", "fin": "no crecen los ríos"},
+                        {"inicio": "Al miserable y al pobre", "fin": "todo le cuesta el doble"},
+                        {"inicio": "Consejos sin ejemplo", "fin": "letras sin aval"},
+                        {"inicio": "No es lo mismo predicar", "fin": "que dar trigo"},
+                        {"inicio": "Hay más refranes que panes", "fin": ""},
+                        {"inicio": "Hombre refranero", "fin": "medido y certero"},
+                        {"inicio": "Quien habla por refranes", "fin": "es un saco de verdades"},
+                        {"inicio": "Quien mucho ofrece", "fin": "poco da"},
+                        {"inicio": "Quien todo lo ofrece", "fin": "todo lo niega"},
+                        {"inicio": "Ofrecer y no dar", "fin": "es lo mismo que robar"},
+                        {"inicio": "El amor y la fe", "fin": "en la obras se ve"},
+                        {"inicio": "Si bien me quieres Juan", "fin": "tus obras me lo dirán"},
+                        {"inicio": "Por las obras y no por el vestido", "fin": "es el hombre conocido"},
+                        {"inicio": "Las apariencias engañan", "fin": ""},
+                        {"inicio": "Haz lo que bien digo", "fin": "y no lo que mal hago"},
+                        {"inicio": "El dar y el tener seso", "fin": "es de menester"},
+                        {"inicio": "Al que toma y no da", "fin": "el diablo se lo llevará"}
+                        ,
+                            {"inicio": "No pidas lo que negaste", "fin": "ni niegues lo que pediste"},
+                            {"inicio": "Amor", "fin": "con amor se paga"},
+                            {"inicio": "Al buen amigo", "fin": "dale tu pan y dale tu vino"},
+                            {"inicio": "No es amistad", "fin": "la que siempre pide y nunca da"},
+                            {"inicio": "Reniego del amigo", "fin": "que se come lo suyo solo y lo mío, conmigo"},
+                            {"inicio": "Amigo que no presta", "fin": "y cuchillo que no corta, que se pierdan poco importa"},
+                            {"inicio": "Los amigos", "fin": "están para las ocasiones"},
+                            {"inicio": "Si le quieres enemigo", "fin": "presta dinero al amigo"},
+                            {"inicio": "Quien de la olla del vecino quiera probar", "fin": "la suya no ha de tapar"},
+                            {"inicio": "Quien no buscó amigos en la alegría", "fin": "en la desgracia no los pida"},
+                            {"inicio": "Doy para que me des", "fin": "ruin dar es"},
+                            {"inicio": "Quien pide prestado", "fin": "unas veces se pone amarillo y otras colorado"},
+                            {"inicio": "Quien pide no escoge", "fin": ""},
+                            {"inicio": "Quien recibe", "fin": "a dar se obliga"},
+                            {"inicio": "Ten qué dar", "fin": "y te vendrán a buscar, ponte a pedir y verás a la gente huir"},
+                            {"inicio": "Quien pide con timidez", "fin": "invita a negar"},
+                            {"inicio": "Quien no llora", "fin": "no mama"},
+                            {"inicio": "Pobre porfiado", "fin": "saca bocado"},
+                            {"inicio": "Quien machaca", "fin": "algo saca"},
+                            {"inicio": "Quien mucho pide", "fin": "nada obtiene"},
+                            {"inicio": "Pedir sobrado", "fin": "para salir con lo mediado"},
+                            {"inicio": "No digas tu menester", "fin": "a quien no te pueda socorrer"},
+                            {"inicio": "A quien no te ha de ayudar", "fin": "no le vayas a llorar"},
+                            {"inicio": "Más barato es comprarlo", "fin": "que rogarlo"},
+                            {"inicio": "La manzana maduró", "fin": "pero el 'pero' no"},
+                            {"inicio": "Todas las frutas maduran", "fin": "pero el 'pero' nunca"},
+                            {"inicio": "No dar respuesta", "fin": "negativa cierta"},
+                            {"inicio": "Quien calla", "fin": "otorga"},
+                            {"inicio": "De bien nacidos", "fin": "es ser agradecidos"},
+                            {"inicio": "Al agradecido", "fin": "más de lo pedido"},
+                            {"inicio": "De tus hijos sólo esperes", "fin": "lo que con tus padres hicieres"},
+                            {"inicio": "Hijo fuiste", "fin": "padre serás; cual hiciste, tal habrás"},
+                            {"inicio": "Quien quiere mal a los suyos", "fin": "no querrá a ninguno"},
+                            {"inicio": "De rico a pobre pasé", "fin": "y sin amigos me quedé"},
+                            {"inicio": "Amigo del buen tiempo", "fin": "se muda con el viento"},
+                            {"inicio": "Quien tiene un amigo", "fin": "tiene un tesoro"},
+                            {"inicio": "Amigo en la adversidad", "fin": "amigo de verdad"},
+                            {"inicio": "Dime con quién andas", "fin": "y te diré quién eres"},
+                            {"inicio": "Más vale un amigo fiel", "fin": "que cien conocidos"},
+                            {"inicio": "El amigo seguro", "fin": "se conoce en la acción insegura"},
+                            {"inicio": "No hay mejor espejo", "fin": "que un viejo amigo"},
+                            {"inicio": "En las pequeñas cosas", "fin": "se conoce a los grandes amigos"},
+                            {"inicio": "El que busca un amigo sin defectos", "fin": "se queda sin amigos"},
+                            {"inicio": "Amigos y vino", "fin": "cuanto más viejos, más fino"},
+                            {"inicio": "A amigo que no da", "fin": "y cuchillo que no corta, si se pierden poco importa"},
+                            {"inicio": "Amigo de todos y de ninguno", "fin": "todo es uno"},
+                            {"inicio": "A la hora de la verdad", "fin": "se conoce al amigo"},
+                            {"inicio": "Amigos hasta la muerte", "fin": "el dinero aparte tiene su suerte"},
+                            {"inicio": "Con un amigo al lado", "fin": "ningún camino parece largo"},
+                            {"inicio": "El buen amigo en el peligro", "fin": "se conoce"},
+                            {"inicio": "El amigo ha de ser", "fin": "como la sangre, que acude luego a la herida sin esperar que le llamen"},
+                            {"inicio": "Entre amigos", "fin": "basta una mirada"},
+                            {"inicio": "La amistad es como la cerámica", "fin": "una vez que se rompe, aunque se pegue, las grietas siempre se notan"},
+                            {"inicio": "Los amigos de mis amigos", "fin": "son mis amigos"},
+                            {"inicio": "A traición mata el gato", "fin": "al ratón"},
+                            {"inicio": "Cría cuervos", "fin": "y te sacarán los ojos"},
+                            {"inicio": "Donde hay confianza", "fin": "da asco la traición"},
+                            {"inicio": "El que a buen árbol se arrima", "fin": "buena sombra le cobija; pero si el árbol es malo, la sombra te traiciona"},
+                            {"inicio": "En boca cerrada", "fin": "no entran moscas ni salen traiciones"},
+                            {"inicio": "La traición rejuvenece", "fin": "la lealtad envejece"},
+                            {"inicio": "Más vale enemigo prudente", "fin": "que amigo traicionero"},
+                            {"inicio": "No hay peor cuña", "fin": "que la del mismo palo"},
+                            {"inicio": "Por la espalda traen", "fin": "la lanza"},
+                            {"inicio": "Quien a ti te compra", "fin": "a ti te vende"},
+                            {"inicio": "Quien de amigo fía", "fin": "mal vende y peor compra"},
+                            {"inicio": "Ropa vieja y amigo nuevo", "fin": "ninguno bueno"},
+                            {"inicio": "Traición espera", "fin": "quien mala fe tiene"},
+                            {"inicio": "Un traidor puede dar cien vueltas", "fin": "pero nunca borrará su traición"},
+                            {"inicio": "Cuando menos lo esperas", "fin": "la traición asoma la cabeza"},
+                            {"inicio": "De amigo reconciliado", "fin": "guarda tu espalda"},
+                            {"inicio": "El traidor vende por un plato", "fin": "compra por un reino"},
+                            {"inicio": "El que traiciona una vez", "fin": "traiciona mil veces"},
+                            {"inicio": "La traición anda en silencio", "fin": "y golpea sin aviso"},
+                            {"inicio": "De boda en boda", "fin": "hasta la tumba"},
+                            {"inicio": "Noche de juerga", "fin": "mañana de niebla"},
+                            {"inicio": "A la fiesta no vayas", "fin": "sin ser llamado"},
+                            {"inicio": "Fiesta no buena", "fin": "si la bolsa suena"},
+                            {"inicio": "Quien canta", "fin": "sus males espanta"},
+                            {"inicio": "La noche es joven", "fin": "y el mundo es nuestro"},
+                            {"inicio": "Bailar y cantar", "fin": "todo es empezar"},
+                            {"inicio": "Quien bien baila", "fin": "de boda en boda anda"},
+                            {"inicio": "Noche alegre", "fin": "mañana triste"},
+                            {"inicio": "En la fiesta y en la guerra", "fin": "todo hueco es trinchera"},
+                            {"inicio": "La música amansa", "fin": "a las fieras"},
+                            {"inicio": "Donde hay música", "fin": "no puede haber cosa mala"},
+                            {"inicio": "En fiestas y en danzas", "fin": "se conocen las mudanzas"},
+                            {"inicio": "A la luz de la luna", "fin": "baila la fortuna"},
+                            {"inicio": "Fiesta sin canto", "fin": "cuerpo sin alma"},
+                            {"inicio": "Quien no baila", "fin": "es porque no quiere"},
+                            {"inicio": "En la verbena", "fin": "la pena se envenena"},
+                            {"inicio": "Cada campanada", "fin": "un nuevo baile"},
+                            {"inicio": "Bailar hasta que salga el sol", "fin": ""},
+                            {"inicio": "A la luz de las velas", "fin": "todos los bailes son bellos"},
+                            {"inicio": "Fiesta guardada", "fin": "fiesta doblada"},
+                            {"inicio": "El tambor hace la fiesta", "fin": "pero el silencio la aprecia"},
+                            {"inicio": "Con amigos y música", "fin": "la vida nunca cansa"},
+                            {"inicio": "La verbena es la escena", "fin": "donde el pueblo se serena"},
+                            {"inicio": "A ritmo de tambor", "fin": "se olvida el dolor"},
+                            {"inicio": "La fiesta no espera", "fin": "ni la danza desespera"},
+                            {"inicio": "La alegría de la huerta", "fin": "en la fiesta se despierta"}
+                        ]
+                        
