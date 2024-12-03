@@ -86,6 +86,7 @@ button:hover {
 .boton.siguiente {
     background-color: blue;  /* Fondo azul para este botón */
     color: white;            /* Texto blanco */
+    margin-top: 50px;        /* Afegim marge a la part superior per separar-lo més */
 }
 
 /* Estilo para el botón "PIENSA LA RESPUESTA" */
