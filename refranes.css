@@ -94,3 +94,30 @@ button:hover {
     background-color: red;  /* Fondo verde para el primer botón */
     color: white;               /* Texto blanco */
 }
+
+.boton2 {
+    background-color: black;  /* Fondo verde para el primer botón */
+    color: white;               /* Texto blanco */
+    width: 25%;
+}
+.navegador-refran {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.navegador-refran input {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 50%;
+    height: 70px;
+}
+
+.numero {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #2c3e50;
+}
